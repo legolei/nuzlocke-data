@@ -13,7 +13,7 @@
         null
       ],
       "badges": [
-        false,
+        true,
         false,
         false,
         false,
@@ -648,7 +648,7 @@
       "taken": false,
       "catches": {
         "Avenitia": {
-          "name": "",
+          "name": "Plinfa",
           "status": ""
         },
         "Route 1": {
