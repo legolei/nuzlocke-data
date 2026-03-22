@@ -7,7 +7,7 @@
       "team": [
         "Geckarbor",
         "Riolu",
-        "Karpador",
+        null,
         null,
         null,
         null
@@ -22,7 +22,7 @@
         false,
         false
       ],
-      "deaths": 1,
+      "deaths": 2,
       "mainStream": "https://vdo.ninja/?view=Y9MsUri",
       "touchStream": "https://vdo.ninja/?view=Y9MsUri",
       "taken": false,
@@ -41,7 +41,7 @@
         },
         "Route 2": {
           "name": "Karpador",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Accumula Town": {
           "name": "",
@@ -2497,6 +2497,11 @@
     },
     {
       "name": "Kinoso",
+      "player": 0,
+      "color": "red"
+    },
+    {
+      "name": "Karpador",
       "player": 0,
       "color": "red"
     }
