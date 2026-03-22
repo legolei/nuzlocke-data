@@ -636,14 +636,14 @@
         false,
         false
       ],
-      "deaths": 1,
+      "deaths": 0,
       "mainStream": "",
       "touchStream": "",
       "taken": false,
       "catches": {
         "Avenitia": {
           "name": "Drifzepeli",
-          "status": "Tot"
+          "status": "Lebendig"
         },
         "Route 1": {
           "name": "",
@@ -2455,11 +2455,6 @@
       "name": "Lugia",
       "player": 1,
       "color": "blue"
-    },
-    {
-      "name": "Drifzepeli",
-      "player": 2,
-      "color": "green"
     }
   ]
 }
