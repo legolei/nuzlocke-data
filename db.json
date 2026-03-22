@@ -2,7 +2,7 @@
   "game": "Schwarz",
   "players": [
     {
-      "name": "Player 1",
+      "name": "Legolei",
       "color": "red",
       "team": [
         null,
@@ -327,8 +327,8 @@
         false
       ],
       "deaths": 1,
-      "mainStream": "https://vdo.ninja/?view=DV4Z6SZ",
-      "touchStream": "https://vdo.ninja/?view=DV4Z6SZ",
+      "mainStream": "",
+      "touchStream": "",
       "taken": false,
       "catches": {
         "Avenitia": {
