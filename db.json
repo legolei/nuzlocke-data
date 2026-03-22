@@ -626,7 +626,7 @@
       "color": "green",
       "team": [
         "Griffel",
-        "Wattzapf",
+        null,
         null,
         null,
         null,
@@ -642,7 +642,7 @@
         false,
         false
       ],
-      "deaths": 4,
+      "deaths": 5,
       "mainStream": "https://vdo.ninja/?view=VAUg5TV",
       "touchStream": "https://vdo.ninja/?view=VAUg5TV",
       "taken": false,
@@ -657,7 +657,7 @@
         },
         "Eventura City": {
           "name": "Wattzapf",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Route 2": {
           "name": "Golking",
@@ -2489,6 +2489,11 @@
       "name": "Shuppet",
       "player": 0,
       "color": "red"
+    },
+    {
+      "name": "Wattzapf",
+      "player": 2,
+      "color": "green"
     }
   ]
 }
