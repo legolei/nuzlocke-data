@@ -642,14 +642,14 @@
         false,
         false
       ],
-      "deaths": 5,
+      "deaths": 4,
       "mainStream": "https://vdo.ninja/?view=VAUg5TV",
       "touchStream": "https://vdo.ninja/?view=VAUg5TV",
       "taken": false,
       "catches": {
         "Avenitia": {
           "name": "Hydropi",
-          "status": "Tot"
+          "status": "Lebendig"
         },
         "Route 1": {
           "name": "Girafarig",
@@ -2465,11 +2465,6 @@
     }
   ],
   "graveyard": [
-    {
-      "name": "Hydropi",
-      "player": 2,
-      "color": "green"
-    },
     {
       "name": "Golking",
       "player": 2,
