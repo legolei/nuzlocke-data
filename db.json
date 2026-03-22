@@ -1847,7 +1847,7 @@
       "name": "Antonino",
       "color": "pink",
       "team": [
-        "Glutexo",
+        null,
         null,
         null,
         null,
@@ -1864,14 +1864,14 @@
         false,
         false
       ],
-      "deaths": 0,
+      "deaths": 1,
       "mainStream": "https://vdo.ninja/?view=nkS5Ysx",
       "touchStream": "https://vdo.ninja/?view=nkS5Ysx",
       "taken": false,
       "catches": {
         "Avenitia": {
           "name": "Glutexo",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Route 1": {
           "name": "",
@@ -2468,6 +2468,11 @@
       "name": "Girafarig",
       "player": 2,
       "color": "green"
+    },
+    {
+      "name": "Glutexo",
+      "player": 6,
+      "color": "pink"
     }
   ]
 }
