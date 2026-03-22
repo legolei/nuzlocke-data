@@ -1545,7 +1545,7 @@
       "team": [
         "Karnimani",
         "Irokex",
-        "Wingull",
+        null,
         null,
         null,
         null
@@ -1598,7 +1598,7 @@
           "status": ""
         },
         "Traumbrache": {
-          "name": "Wingull",
+          "name": "",
           "status": "Lebendig"
         },
         "Orion City Arena": {
