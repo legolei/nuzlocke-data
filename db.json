@@ -7,7 +7,7 @@
       "team": [
         "Shuppet",
         "Glumanda",
-        "Fe",
+        null,
         "Vibrava",
         null,
         null
@@ -28,7 +28,7 @@
       "taken": false,
       "catches": {
         "Avenitia": {
-          "name": "Fe",
+          "name": "Feurigel",
           "status": "Lebendig"
         },
         "Route 1": {
