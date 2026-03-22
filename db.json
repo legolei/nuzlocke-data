@@ -45,7 +45,7 @@
       "color": "blue",
       "team": [
         "Lugia",
-        "Despotar",
+        null,
         "Glurak",
         null,
         null,
@@ -61,7 +61,7 @@
         false,
         false
       ],
-      "deaths": 0,
+      "deaths": 1,
       "mainStream": "",
       "touchStream": "",
       "taken": false,
@@ -72,7 +72,7 @@
         },
         "Route 1": {
           "name": "Despotar",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Eventura City": {
           "name": "Glurak",
@@ -327,5 +327,11 @@
       }
     }
   ],
-  "graveyard": []
+  "graveyard": [
+    {
+      "name": "Despotar",
+      "player": 1,
+      "color": "blue"
+    }
+  ]
 }
