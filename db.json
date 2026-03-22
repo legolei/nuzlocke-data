@@ -1849,7 +1849,7 @@
       "team": [
         null,
         null,
-        "Fiffyen",
+        null,
         "Zirpeise",
         null,
         "Tangela"
@@ -1878,8 +1878,8 @@
           "status": "Lebendig"
         },
         "Eventura City": {
-          "name": "Fiffyen",
-          "status": "Lebendig"
+          "name": "",
+          "status": ""
         },
         "Route 2": {
           "name": "",
