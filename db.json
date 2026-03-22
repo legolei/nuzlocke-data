@@ -1545,7 +1545,7 @@
       "team": [
         "Karnimani",
         "Irokex",
-        "Meistagrif",
+        null,
         null,
         null,
         null
@@ -1579,7 +1579,7 @@
         },
         "Route 2": {
           "name": "Meistagrif",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Accumula Town": {
           "name": "",
