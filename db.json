@@ -1544,7 +1544,7 @@
       "color": "cyan",
       "team": [
         "Karnimani",
-        null,
+        "Irokex",
         null,
         null,
         null,
@@ -1571,7 +1571,7 @@
         },
         "Route 1": {
           "name": "Irokex",
-          "status": ""
+          "status": "Lebendig"
         },
         "Eventura City": {
           "name": "",
