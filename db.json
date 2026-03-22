@@ -5,7 +5,7 @@
       "name": "Legolei",
       "color": "red",
       "team": [
-        "Shuppet",
+        null,
         "Glumanda",
         "Igelavar",
         "Vibrava",
@@ -22,7 +22,7 @@
         false,
         false
       ],
-      "deaths": 0,
+      "deaths": 1,
       "mainStream": "https://vdo.ninja/?view=Y9MsUri",
       "touchStream": "https://vdo.ninja/?view=Y9MsUri",
       "taken": false,
@@ -33,7 +33,7 @@
         },
         "Route 1": {
           "name": "Shuppet",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Eventura City": {
           "name": "Glumanda",
@@ -2484,6 +2484,11 @@
       "name": "Scherox",
       "player": 2,
       "color": "green"
+    },
+    {
+      "name": "Shuppet",
+      "player": 0,
+      "color": "red"
     }
   ]
 }
