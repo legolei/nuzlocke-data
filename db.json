@@ -28,7 +28,7 @@
       "taken": false,
       "catches": {
         "Avenitia": {
-          "name": "t",
+          "name": "Feut",
           "status": "Lebendig"
         },
         "Route 1": {
@@ -339,7 +339,7 @@
       "catches": {
         "Avenitia": {
           "name": "hyd",
-          "status": "Lebendig"
+          "status": ""
         },
         "Route 1": {
           "name": "",
