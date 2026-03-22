@@ -7,7 +7,7 @@
       "team": [
         null,
         null,
-        "Igelavar",
+        null,
         null,
         null,
         null
@@ -28,7 +28,7 @@
       "taken": false,
       "catches": {
         "Avenitia": {
-          "name": "Igelavar",
+          "name": "",
           "status": "Lebendig"
         },
         "Route 1": {
