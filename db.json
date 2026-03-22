@@ -77,6 +77,10 @@
         "Eventura City": {
           "name": "Lugia",
           "status": "Lebendig"
+        },
+        "Route 2": {
+          "name": "Des",
+          "status": ""
         }
       },
       "mainAdj": {
