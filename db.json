@@ -6,7 +6,7 @@
       "color": "red",
       "team": [
         "Chelcarain",
-        "Glutexo",
+        null,
         "Igelavar",
         "Vibrava",
         null,
@@ -657,7 +657,7 @@
         },
         "Eventura City": {
           "name": "Kryppuk",
-          "status": "Blockiert"
+          "status": ""
         },
         "Route 2": {
           "name": "",
