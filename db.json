@@ -1835,9 +1835,9 @@
         "top": 0,
         "w": 100,
         "h": 100,
-        "offX": -154,
-        "offY": -25,
-        "userScale": 2
+        "offX": -144,
+        "offY": -27,
+        "userScale": 1.7999999999999998
       },
       "touchAdj": {
         "left": 0,
