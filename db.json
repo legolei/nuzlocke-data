@@ -22,7 +22,7 @@
         false,
         false
       ],
-      "deaths": 1,
+      "deaths": 0,
       "mainStream": "https://vdo.ninja/?view=Y9MsUri",
       "touchStream": "https://vdo.ninja/?view=Y9MsUri",
       "taken": false,
@@ -2474,11 +2474,6 @@
       "name": "Toxiped",
       "player": 6,
       "color": "pink"
-    },
-    {
-      "name": "Vibrava",
-      "player": 0,
-      "color": "red"
     }
   ]
 }
