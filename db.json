@@ -1847,7 +1847,7 @@
       "name": "Antonino",
       "color": "pink",
       "team": [
-        "glu",
+        null,
         null,
         null,
         null,
@@ -1870,7 +1870,7 @@
       "taken": false,
       "catches": {
         "Avenitia": {
-          "name": "glu",
+          "name": "Glutexo",
           "status": "Lebendig"
         },
         "Route 1": {
