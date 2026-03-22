@@ -642,7 +642,7 @@
         false,
         false
       ],
-      "deaths": 1,
+      "deaths": 0,
       "mainStream": "https://vdo.ninja/?view=VAUg5TV",
       "touchStream": "https://vdo.ninja/?view=VAUg5TV",
       "taken": false,
@@ -681,7 +681,7 @@
         },
         "Traumbrache": {
           "name": "Griffel",
-          "status": "Tot"
+          "status": "Lebendig"
         },
         "Orion City Arena": {
           "name": "",
@@ -2469,11 +2469,6 @@
       "name": "Shuppet",
       "player": 0,
       "color": "red"
-    },
-    {
-      "name": "Griffel",
-      "player": 2,
-      "color": "green"
     }
   ]
 }
