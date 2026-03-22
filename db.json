@@ -1545,7 +1545,7 @@
       "team": [
         "Karnimani",
         "Irokex",
-        "Meistagrif",
+        null,
         null,
         null,
         null
@@ -1560,7 +1560,7 @@
         false,
         false
       ],
-      "deaths": 0,
+      "deaths": 1,
       "mainStream": "https://vdo.ninja/?view=XTrCCZ3",
       "touchStream": "https://vdo.ninja/?view=XTrCCZ3",
       "taken": false,
@@ -1579,7 +1579,7 @@
         },
         "Route 2": {
           "name": "Meistagrif",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Accumula Town": {
           "name": "",
@@ -2474,6 +2474,11 @@
       "name": "Toxiped",
       "player": 6,
       "color": "pink"
+    },
+    {
+      "name": "Meistagrif",
+      "player": 5,
+      "color": "cyan"
     }
   ]
 }
