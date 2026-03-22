@@ -2130,8 +2130,8 @@
         "top": 0,
         "w": 100,
         "h": 100,
-        "offX": 1,
-        "offY": 0
+        "offX": -6,
+        "offY": -3
       },
       "touchAdj": {
         "left": 0,
