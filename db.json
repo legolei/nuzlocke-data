@@ -5,7 +5,7 @@
       "name": "Legolei",
       "color": "red",
       "team": [
-        "Chelcarain",
+        null,
         "Glutexo",
         "Igelavar",
         null,
@@ -244,7 +244,7 @@
           "status": ""
         },
         "Abyssalruinen": {
-          "name": "Chelcarain",
+          "name": "n",
           "status": "Lebendig"
         },
         "Route 14": {
