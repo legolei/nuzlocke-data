@@ -8,7 +8,7 @@
         "Chelcarain",
         null,
         "Igelavar",
-        "Vibrava",
+        null,
         null,
         null
       ],
@@ -22,7 +22,7 @@
         false,
         false
       ],
-      "deaths": 1,
+      "deaths": 2,
       "mainStream": "https://vdo.ninja/?view=Y9MsUri",
       "touchStream": "https://vdo.ninja/?view=Y9MsUri",
       "taken": false,
@@ -41,7 +41,7 @@
         },
         "Route 2": {
           "name": "Vibrava",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Accumula Town": {
           "name": "",
@@ -2479,6 +2479,11 @@
       "name": "Toxiped",
       "player": 6,
       "color": "pink"
+    },
+    {
+      "name": "Vibrava",
+      "player": 0,
+      "color": "red"
     }
   ]
 }
