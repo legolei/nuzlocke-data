@@ -7,7 +7,7 @@
       "team": [
         "Geckarbor",
         "Riolu",
-        "Kapoera",
+        null,
         null,
         null,
         null
@@ -40,7 +40,7 @@
           "status": ""
         },
         "Route 2": {
-          "name": "Kapoera",
+          "name": "",
           "status": "Lebendig"
         },
         "Accumula Town": {
