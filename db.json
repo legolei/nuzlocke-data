@@ -326,18 +326,18 @@
         false,
         false
       ],
-      "deaths": 1,
+      "deaths": 0,
       "mainStream": "",
       "touchStream": "",
       "taken": false,
       "catches": {
         "Avenitia": {
-          "name": "Lugia",
+          "name": "",
           "status": "Lebendig"
         },
         "Route 1": {
           "name": "Despotar",
-          "status": "Tot"
+          "status": "Lebendig"
         },
         "Eventura City": {
           "name": "Glurak",
@@ -2440,11 +2440,5 @@
       }
     }
   ],
-  "graveyard": [
-    {
-      "name": "Despotar",
-      "player": 1,
-      "color": "blue"
-    }
-  ]
+  "graveyard": []
 }
