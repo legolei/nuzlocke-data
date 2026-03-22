@@ -6,7 +6,7 @@
       "color": "red",
       "team": [
         "Shuppet",
-        "Glumanda",
+        null,
         "Igelavar",
         "Vibrava",
         null,
@@ -32,7 +32,7 @@
           "status": "Lebendig"
         },
         "Route 1": {
-          "name": "Glumanda",
+          "name": "D",
           "status": "Lebendig"
         },
         "Eventura City": {
