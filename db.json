@@ -1850,7 +1850,7 @@
         null,
         null,
         null,
-        "Zirpeise",
+        null,
         null,
         null
       ],
@@ -1891,7 +1891,7 @@
         },
         "Route 3": {
           "name": "Zirpeise",
-          "status": "Lebendig"
+          "status": ""
         },
         "Orion City": {
           "name": "",
