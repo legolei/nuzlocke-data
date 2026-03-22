@@ -5,7 +5,7 @@
       "name": "Legolei",
       "color": "red",
       "team": [
-        "Flemmli",
+        null,
         null,
         null,
         null,
@@ -13,7 +13,7 @@
         null
       ],
       "badges": [
-        false,
+        true,
         false,
         false,
         false,
@@ -1871,8 +1871,8 @@
         false
       ],
       "deaths": 2,
-      "mainStream": "https://vdo.ninja/?view=nkS5Ysx",
-      "touchStream": "https://vdo.ninja/?view=nkS5Ysx",
+      "mainStream": "https://vdo.ninja/?view=u82iYAy",
+      "touchStream": "https://vdo.ninja/?view=u82iYAy",
       "taken": false,
       "catches": {
         "Avenitia": {
