@@ -8,7 +8,7 @@
         "Geckarbor",
         "Riolu",
         "Karpador",
-        "Kinoso",
+        null,
         null,
         null
       ],
@@ -22,7 +22,7 @@
         false,
         false
       ],
-      "deaths": 0,
+      "deaths": 1,
       "mainStream": "https://vdo.ninja/?view=Y9MsUri",
       "touchStream": "https://vdo.ninja/?view=Y9MsUri",
       "taken": false,
@@ -37,7 +37,7 @@
         },
         "Eventura City": {
           "name": "Kinoso",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Route 2": {
           "name": "Karpador",
@@ -2494,6 +2494,11 @@
       "name": "Noctuh",
       "player": 6,
       "color": "pink"
+    },
+    {
+      "name": "Kinoso",
+      "player": 0,
+      "color": "red"
     }
   ]
 }
