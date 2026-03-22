@@ -634,8 +634,8 @@
       ],
       "badges": [
         true,
-        false,
-        false,
+        true,
+        true,
         false,
         false,
         false,
