@@ -1544,7 +1544,7 @@
       "color": "cyan",
       "team": [
         "Chelast",
-        "Plusle",
+        null,
         null,
         null,
         null,
@@ -1571,7 +1571,7 @@
         },
         "Route 1": {
           "name": "Plusle",
-          "status": "Lebendig"
+          "status": "Blockiert"
         },
         "Eventura City": {
           "name": "",
