@@ -1854,7 +1854,7 @@
       "color": "pink",
       "team": [
         "Ottaro",
-        "Noctuh",
+        null,
         null,
         null,
         null,
@@ -1870,7 +1870,7 @@
         false,
         false
       ],
-      "deaths": 2,
+      "deaths": 3,
       "mainStream": "https://vdo.ninja/?view=u82iYAy",
       "touchStream": "https://vdo.ninja/?view=u82iYAy",
       "taken": false,
@@ -1881,7 +1881,7 @@
         },
         "Route 1": {
           "name": "Noctuh",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Eventura City": {
           "name": "",
@@ -2489,6 +2489,11 @@
       "name": "Aerodactyl",
       "player": 2,
       "color": "green"
+    },
+    {
+      "name": "Noctuh",
+      "player": 6,
+      "color": "pink"
     }
   ]
 }
