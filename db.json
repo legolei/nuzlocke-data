@@ -22,7 +22,7 @@
         false,
         false
       ],
-      "deaths": 2,
+      "deaths": 1,
       "mainStream": "https://vdo.ninja/?view=Y9MsUri",
       "touchStream": "https://vdo.ninja/?view=Y9MsUri",
       "taken": false,
@@ -2465,11 +2465,6 @@
     }
   ],
   "graveyard": [
-    {
-      "name": "Shuppet",
-      "player": 0,
-      "color": "red"
-    },
     {
       "name": "Nidoran♀",
       "player": 6,
