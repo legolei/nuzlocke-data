@@ -1853,7 +1853,7 @@
       "name": "Antonino",
       "color": "pink",
       "team": [
-        "Tarnpignon",
+        null,
         null,
         null,
         null,
@@ -1881,7 +1881,7 @@
         },
         "Route 1": {
           "name": "Tarnpignon",
-          "status": "Lebendig"
+          "status": ""
         },
         "Eventura City": {
           "name": "Toxiped",
