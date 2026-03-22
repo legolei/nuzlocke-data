@@ -77,6 +77,10 @@
         "Eventura City": {
           "name": "Glurak",
           "status": "Lebendig"
+        },
+        "Route 2": {
+          "name": "s",
+          "status": ""
         }
       },
       "mainAdj": {
