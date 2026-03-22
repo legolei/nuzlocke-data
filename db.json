@@ -52,7 +52,7 @@
         null
       ],
       "badges": [
-        true,
+        false,
         false,
         false,
         false,
@@ -65,7 +65,12 @@
       "mainStream": "",
       "touchStream": "",
       "taken": false,
-      "catches": {},
+      "catches": {
+        "Avenitia": {
+          "name": "lugia",
+          "status": ""
+        }
+      },
       "mainAdj": {
         "left": 0,
         "top": 0,
