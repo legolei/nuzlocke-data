@@ -1543,7 +1543,7 @@
       "name": "Jannik",
       "color": "cyan",
       "team": [
-        "Pikachu",
+        null,
         null,
         null,
         null,
@@ -1560,14 +1560,14 @@
         false,
         false
       ],
-      "deaths": 0,
+      "deaths": 1,
       "mainStream": "",
       "touchStream": "",
       "taken": false,
       "catches": {
         "Avenitia": {
           "name": "Pikachu",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Route 1": {
           "name": "Jurob",
@@ -2458,5 +2458,11 @@
       }
     }
   ],
-  "graveyard": []
+  "graveyard": [
+    {
+      "name": "Pikachu",
+      "player": 5,
+      "color": "cyan"
+    }
+  ]
 }
