@@ -326,7 +326,7 @@
         false,
         false
       ],
-      "deaths": 2,
+      "deaths": 1,
       "mainStream": "",
       "touchStream": "",
       "taken": false,
@@ -341,7 +341,7 @@
         },
         "Eventura City": {
           "name": "Glurak",
-          "status": "Tot"
+          "status": "Lebendig"
         },
         "Route 2": {
           "name": "Schillok",
@@ -2443,11 +2443,6 @@
   "graveyard": [
     {
       "name": "Despotar",
-      "player": 1,
-      "color": "blue"
-    },
-    {
-      "name": "Glurak",
       "player": 1,
       "color": "blue"
     }
