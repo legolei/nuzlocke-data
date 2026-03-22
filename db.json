@@ -626,7 +626,7 @@
       "color": "green",
       "team": [
         "Golking",
-        "Hydropi",
+        null,
         null,
         null,
         null,
@@ -642,14 +642,14 @@
         false,
         false
       ],
-      "deaths": 1,
+      "deaths": 2,
       "mainStream": "https://vdo.ninja/?view=VAUg5TV",
       "touchStream": "https://vdo.ninja/?view=VAUg5TV",
       "taken": false,
       "catches": {
         "Avenitia": {
           "name": "Hydropi",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Route 1": {
           "name": "Girafarig",
@@ -1567,10 +1567,10 @@
       "catches": {
         "Avenitia": {
           "name": "Pikachu",
-          "status": "Tot"
+          "status": ""
         },
         "Route 1": {
-          "name": "",
+          "name": "Jurob",
           "status": "Lebendig"
         },
         "Eventura City": {
@@ -2473,6 +2473,11 @@
       "name": "Glutexo",
       "player": 6,
       "color": "pink"
+    },
+    {
+      "name": "Hydropi",
+      "player": 2,
+      "color": "green"
     }
   ]
 }
