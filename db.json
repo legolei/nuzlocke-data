@@ -315,7 +315,7 @@
       "name": "Jasmin",
       "color": "blue",
       "team": [
-        "Hydropi",
+        null,
         null,
         null,
         null,
@@ -332,14 +332,14 @@
         false,
         false
       ],
-      "deaths": 0,
+      "deaths": 1,
       "mainStream": "https://vdo.ninja/?view=DV4Z6SZ",
       "touchStream": "https://vdo.ninja/?view=DV4Z6SZ",
       "taken": false,
       "catches": {
         "Avenitia": {
           "name": "Hydropi",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Route 1": {
           "name": "",
@@ -2479,6 +2479,11 @@
       "name": "Golking",
       "player": 2,
       "color": "green"
+    },
+    {
+      "name": "Hydropi",
+      "player": 1,
+      "color": "blue"
     }
   ]
 }
