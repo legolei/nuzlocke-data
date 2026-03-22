@@ -626,7 +626,7 @@
       "color": "green",
       "team": [
         "Plinfa",
-        "Aerodactyl",
+        null,
         "Stolloss",
         null,
         null,
@@ -642,7 +642,7 @@
         false,
         false
       ],
-      "deaths": 0,
+      "deaths": 1,
       "mainStream": "https://vdo.ninja/?view=VAUg5TV",
       "touchStream": "https://vdo.ninja/?view=VAUg5TV",
       "taken": false,
@@ -653,7 +653,7 @@
         },
         "Route 1": {
           "name": "Aerodactyl",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Eventura City": {
           "name": "",
@@ -2484,6 +2484,11 @@
       "name": "Wingull",
       "player": 5,
       "color": "cyan"
+    },
+    {
+      "name": "Aerodactyl",
+      "player": 2,
+      "color": "green"
     }
   ]
 }
