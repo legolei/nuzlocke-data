@@ -26,7 +26,272 @@
       "mainStream": "",
       "touchStream": "",
       "taken": false,
-      "catches": {},
+      "catches": {
+        "Avenitia": {
+          "name": "",
+          "status": ""
+        },
+        "Route 1": {
+          "name": "",
+          "status": ""
+        },
+        "Eventura City": {
+          "name": "",
+          "status": ""
+        },
+        "Route 2": {
+          "name": "",
+          "status": ""
+        },
+        "Accumula Town": {
+          "name": "",
+          "status": ""
+        },
+        "Route 3": {
+          "name": "",
+          "status": ""
+        },
+        "Orion City": {
+          "name": "",
+          "status": ""
+        },
+        "Orion City - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Traumbrache": {
+          "name": "",
+          "status": ""
+        },
+        "Orion City Arena": {
+          "name": "",
+          "status": ""
+        },
+        "Ewigenau": {
+          "name": "",
+          "status": ""
+        },
+        "Ewigenau Arena": {
+          "name": "",
+          "status": ""
+        },
+        "Route 4": {
+          "name": "",
+          "status": ""
+        },
+        "Route 4 - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Wüstenresort": {
+          "name": "",
+          "status": ""
+        },
+        "Reliktburg": {
+          "name": "",
+          "status": ""
+        },
+        "Reliktburg - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Stratos City": {
+          "name": "",
+          "status": ""
+        },
+        "Stratos City - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Stratos City Arena": {
+          "name": "",
+          "status": ""
+        },
+        "Rayono City": {
+          "name": "",
+          "status": ""
+        },
+        "Route 16": {
+          "name": "",
+          "status": ""
+        },
+        "Wunderbrücke": {
+          "name": "",
+          "status": ""
+        },
+        "Rayono City Arena": {
+          "name": "",
+          "status": ""
+        },
+        "Route 5": {
+          "name": "",
+          "status": ""
+        },
+        "Driftveil City": {
+          "name": "",
+          "status": ""
+        },
+        "Driftveil City Arena": {
+          "name": "",
+          "status": ""
+        },
+        "Route 6": {
+          "name": "",
+          "status": ""
+        },
+        "Elektrolithhöhle": {
+          "name": "",
+          "status": ""
+        },
+        "Marea City": {
+          "name": "",
+          "status": ""
+        },
+        "Marea City Arena": {
+          "name": "",
+          "status": ""
+        },
+        "Route 7": {
+          "name": "",
+          "status": ""
+        },
+        "Route 7 - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Turm des Himmels": {
+          "name": "",
+          "status": ""
+        },
+        "Nevaio City": {
+          "name": "",
+          "status": ""
+        },
+        "Nevaio City Arena": {
+          "name": "",
+          "status": ""
+        },
+        "Route 8": {
+          "name": "",
+          "status": ""
+        },
+        "Moor von Nevaio": {
+          "name": "",
+          "status": ""
+        },
+        "Twindrake City": {
+          "name": "",
+          "status": ""
+        },
+        "Drachenstiege": {
+          "name": "",
+          "status": ""
+        },
+        "Drachenstiege - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Twindrake City Arena": {
+          "name": "",
+          "status": ""
+        },
+        "Route 9": {
+          "name": "",
+          "status": ""
+        },
+        "Einkaufszentrum 9": {
+          "name": "",
+          "status": ""
+        },
+        "Route 10": {
+          "name": "",
+          "status": ""
+        },
+        "Siegesstraße": {
+          "name": "",
+          "status": ""
+        },
+        "Pokémon Liga": {
+          "name": "",
+          "status": ""
+        },
+        "N's Schloss": {
+          "name": "",
+          "status": ""
+        },
+        "Route 11": {
+          "name": "",
+          "status": ""
+        },
+        "Route 11 - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Route 12": {
+          "name": "",
+          "status": ""
+        },
+        "Route 13": {
+          "name": "",
+          "status": ""
+        },
+        "Undella Town": {
+          "name": "",
+          "status": ""
+        },
+        "Undella Bucht": {
+          "name": "",
+          "status": ""
+        },
+        "Abyssalruinen": {
+          "name": "",
+          "status": ""
+        },
+        "Route 14": {
+          "name": "",
+          "status": ""
+        },
+        "Route 14 - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Route 15": {
+          "name": "",
+          "status": ""
+        },
+        "Route 15 - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Schwarze Stadt": {
+          "name": "",
+          "status": ""
+        },
+        "Route 17": {
+          "name": "",
+          "status": ""
+        },
+        "Route 18": {
+          "name": "",
+          "status": ""
+        },
+        "Antike Pforte": {
+          "name": "",
+          "status": ""
+        },
+        "Riesengrotte": {
+          "name": "",
+          "status": ""
+        },
+        "Riesengrotte - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Reliktburg – Statik": {
+          "name": "",
+          "status": ""
+        }
+      },
       "mainAdj": {
         "left": 0,
         "top": 0,
@@ -81,6 +346,254 @@
         "Route 2": {
           "name": "Schillok",
           "status": "Lebendig"
+        },
+        "Accumula Town": {
+          "name": "",
+          "status": ""
+        },
+        "Route 3": {
+          "name": "",
+          "status": ""
+        },
+        "Orion City": {
+          "name": "",
+          "status": ""
+        },
+        "Orion City - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Traumbrache": {
+          "name": "",
+          "status": ""
+        },
+        "Orion City Arena": {
+          "name": "",
+          "status": ""
+        },
+        "Ewigenau": {
+          "name": "",
+          "status": ""
+        },
+        "Ewigenau Arena": {
+          "name": "",
+          "status": ""
+        },
+        "Route 4": {
+          "name": "",
+          "status": ""
+        },
+        "Route 4 - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Wüstenresort": {
+          "name": "",
+          "status": ""
+        },
+        "Reliktburg": {
+          "name": "",
+          "status": ""
+        },
+        "Reliktburg - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Stratos City": {
+          "name": "",
+          "status": ""
+        },
+        "Stratos City - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Stratos City Arena": {
+          "name": "",
+          "status": ""
+        },
+        "Rayono City": {
+          "name": "",
+          "status": ""
+        },
+        "Route 16": {
+          "name": "",
+          "status": ""
+        },
+        "Wunderbrücke": {
+          "name": "",
+          "status": ""
+        },
+        "Rayono City Arena": {
+          "name": "",
+          "status": ""
+        },
+        "Route 5": {
+          "name": "",
+          "status": ""
+        },
+        "Driftveil City": {
+          "name": "",
+          "status": ""
+        },
+        "Driftveil City Arena": {
+          "name": "",
+          "status": ""
+        },
+        "Route 6": {
+          "name": "",
+          "status": ""
+        },
+        "Elektrolithhöhle": {
+          "name": "",
+          "status": ""
+        },
+        "Marea City": {
+          "name": "",
+          "status": ""
+        },
+        "Marea City Arena": {
+          "name": "",
+          "status": ""
+        },
+        "Route 7": {
+          "name": "",
+          "status": ""
+        },
+        "Route 7 - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Turm des Himmels": {
+          "name": "",
+          "status": ""
+        },
+        "Nevaio City": {
+          "name": "",
+          "status": ""
+        },
+        "Nevaio City Arena": {
+          "name": "",
+          "status": ""
+        },
+        "Route 8": {
+          "name": "",
+          "status": ""
+        },
+        "Moor von Nevaio": {
+          "name": "",
+          "status": ""
+        },
+        "Twindrake City": {
+          "name": "",
+          "status": ""
+        },
+        "Drachenstiege": {
+          "name": "",
+          "status": ""
+        },
+        "Drachenstiege - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Twindrake City Arena": {
+          "name": "",
+          "status": ""
+        },
+        "Route 9": {
+          "name": "",
+          "status": ""
+        },
+        "Einkaufszentrum 9": {
+          "name": "",
+          "status": ""
+        },
+        "Route 10": {
+          "name": "",
+          "status": ""
+        },
+        "Siegesstraße": {
+          "name": "",
+          "status": ""
+        },
+        "Pokémon Liga": {
+          "name": "",
+          "status": ""
+        },
+        "N's Schloss": {
+          "name": "",
+          "status": ""
+        },
+        "Route 11": {
+          "name": "",
+          "status": ""
+        },
+        "Route 11 - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Route 12": {
+          "name": "",
+          "status": ""
+        },
+        "Route 13": {
+          "name": "",
+          "status": ""
+        },
+        "Undella Town": {
+          "name": "",
+          "status": ""
+        },
+        "Undella Bucht": {
+          "name": "",
+          "status": ""
+        },
+        "Abyssalruinen": {
+          "name": "",
+          "status": ""
+        },
+        "Route 14": {
+          "name": "",
+          "status": ""
+        },
+        "Route 14 - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Route 15": {
+          "name": "",
+          "status": ""
+        },
+        "Route 15 - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Schwarze Stadt": {
+          "name": "",
+          "status": ""
+        },
+        "Route 17": {
+          "name": "",
+          "status": ""
+        },
+        "Route 18": {
+          "name": "",
+          "status": ""
+        },
+        "Antike Pforte": {
+          "name": "",
+          "status": ""
+        },
+        "Riesengrotte": {
+          "name": "",
+          "status": ""
+        },
+        "Riesengrotte - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Reliktburg – Statik": {
+          "name": "",
+          "status": ""
         }
       },
       "mainAdj": {
@@ -127,7 +640,272 @@
       "mainStream": "",
       "touchStream": "",
       "taken": false,
-      "catches": {},
+      "catches": {
+        "Avenitia": {
+          "name": "",
+          "status": ""
+        },
+        "Route 1": {
+          "name": "",
+          "status": ""
+        },
+        "Eventura City": {
+          "name": "",
+          "status": ""
+        },
+        "Route 2": {
+          "name": "",
+          "status": ""
+        },
+        "Accumula Town": {
+          "name": "",
+          "status": ""
+        },
+        "Route 3": {
+          "name": "",
+          "status": ""
+        },
+        "Orion City": {
+          "name": "",
+          "status": ""
+        },
+        "Orion City - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Traumbrache": {
+          "name": "",
+          "status": ""
+        },
+        "Orion City Arena": {
+          "name": "",
+          "status": ""
+        },
+        "Ewigenau": {
+          "name": "",
+          "status": ""
+        },
+        "Ewigenau Arena": {
+          "name": "",
+          "status": ""
+        },
+        "Route 4": {
+          "name": "",
+          "status": ""
+        },
+        "Route 4 - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Wüstenresort": {
+          "name": "",
+          "status": ""
+        },
+        "Reliktburg": {
+          "name": "",
+          "status": ""
+        },
+        "Reliktburg - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Stratos City": {
+          "name": "",
+          "status": ""
+        },
+        "Stratos City - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Stratos City Arena": {
+          "name": "",
+          "status": ""
+        },
+        "Rayono City": {
+          "name": "",
+          "status": ""
+        },
+        "Route 16": {
+          "name": "",
+          "status": ""
+        },
+        "Wunderbrücke": {
+          "name": "",
+          "status": ""
+        },
+        "Rayono City Arena": {
+          "name": "",
+          "status": ""
+        },
+        "Route 5": {
+          "name": "",
+          "status": ""
+        },
+        "Driftveil City": {
+          "name": "",
+          "status": ""
+        },
+        "Driftveil City Arena": {
+          "name": "",
+          "status": ""
+        },
+        "Route 6": {
+          "name": "",
+          "status": ""
+        },
+        "Elektrolithhöhle": {
+          "name": "",
+          "status": ""
+        },
+        "Marea City": {
+          "name": "",
+          "status": ""
+        },
+        "Marea City Arena": {
+          "name": "",
+          "status": ""
+        },
+        "Route 7": {
+          "name": "",
+          "status": ""
+        },
+        "Route 7 - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Turm des Himmels": {
+          "name": "",
+          "status": ""
+        },
+        "Nevaio City": {
+          "name": "",
+          "status": ""
+        },
+        "Nevaio City Arena": {
+          "name": "",
+          "status": ""
+        },
+        "Route 8": {
+          "name": "",
+          "status": ""
+        },
+        "Moor von Nevaio": {
+          "name": "",
+          "status": ""
+        },
+        "Twindrake City": {
+          "name": "",
+          "status": ""
+        },
+        "Drachenstiege": {
+          "name": "",
+          "status": ""
+        },
+        "Drachenstiege - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Twindrake City Arena": {
+          "name": "",
+          "status": ""
+        },
+        "Route 9": {
+          "name": "",
+          "status": ""
+        },
+        "Einkaufszentrum 9": {
+          "name": "",
+          "status": ""
+        },
+        "Route 10": {
+          "name": "",
+          "status": ""
+        },
+        "Siegesstraße": {
+          "name": "",
+          "status": ""
+        },
+        "Pokémon Liga": {
+          "name": "",
+          "status": ""
+        },
+        "N's Schloss": {
+          "name": "",
+          "status": ""
+        },
+        "Route 11": {
+          "name": "",
+          "status": ""
+        },
+        "Route 11 - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Route 12": {
+          "name": "",
+          "status": ""
+        },
+        "Route 13": {
+          "name": "",
+          "status": ""
+        },
+        "Undella Town": {
+          "name": "",
+          "status": ""
+        },
+        "Undella Bucht": {
+          "name": "",
+          "status": ""
+        },
+        "Abyssalruinen": {
+          "name": "",
+          "status": ""
+        },
+        "Route 14": {
+          "name": "",
+          "status": ""
+        },
+        "Route 14 - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Route 15": {
+          "name": "",
+          "status": ""
+        },
+        "Route 15 - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Schwarze Stadt": {
+          "name": "",
+          "status": ""
+        },
+        "Route 17": {
+          "name": "",
+          "status": ""
+        },
+        "Route 18": {
+          "name": "",
+          "status": ""
+        },
+        "Antike Pforte": {
+          "name": "",
+          "status": ""
+        },
+        "Riesengrotte": {
+          "name": "",
+          "status": ""
+        },
+        "Riesengrotte - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Reliktburg – Statik": {
+          "name": "",
+          "status": ""
+        }
+      },
       "mainAdj": {
         "left": 0,
         "top": 0,
@@ -166,7 +944,272 @@
       "mainStream": "",
       "touchStream": "",
       "taken": false,
-      "catches": {},
+      "catches": {
+        "Avenitia": {
+          "name": "",
+          "status": ""
+        },
+        "Route 1": {
+          "name": "",
+          "status": ""
+        },
+        "Eventura City": {
+          "name": "",
+          "status": ""
+        },
+        "Route 2": {
+          "name": "",
+          "status": ""
+        },
+        "Accumula Town": {
+          "name": "",
+          "status": ""
+        },
+        "Route 3": {
+          "name": "",
+          "status": ""
+        },
+        "Orion City": {
+          "name": "",
+          "status": ""
+        },
+        "Orion City - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Traumbrache": {
+          "name": "",
+          "status": ""
+        },
+        "Orion City Arena": {
+          "name": "",
+          "status": ""
+        },
+        "Ewigenau": {
+          "name": "",
+          "status": ""
+        },
+        "Ewigenau Arena": {
+          "name": "",
+          "status": ""
+        },
+        "Route 4": {
+          "name": "",
+          "status": ""
+        },
+        "Route 4 - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Wüstenresort": {
+          "name": "",
+          "status": ""
+        },
+        "Reliktburg": {
+          "name": "",
+          "status": ""
+        },
+        "Reliktburg - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Stratos City": {
+          "name": "",
+          "status": ""
+        },
+        "Stratos City - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Stratos City Arena": {
+          "name": "",
+          "status": ""
+        },
+        "Rayono City": {
+          "name": "",
+          "status": ""
+        },
+        "Route 16": {
+          "name": "",
+          "status": ""
+        },
+        "Wunderbrücke": {
+          "name": "",
+          "status": ""
+        },
+        "Rayono City Arena": {
+          "name": "",
+          "status": ""
+        },
+        "Route 5": {
+          "name": "",
+          "status": ""
+        },
+        "Driftveil City": {
+          "name": "",
+          "status": ""
+        },
+        "Driftveil City Arena": {
+          "name": "",
+          "status": ""
+        },
+        "Route 6": {
+          "name": "",
+          "status": ""
+        },
+        "Elektrolithhöhle": {
+          "name": "",
+          "status": ""
+        },
+        "Marea City": {
+          "name": "",
+          "status": ""
+        },
+        "Marea City Arena": {
+          "name": "",
+          "status": ""
+        },
+        "Route 7": {
+          "name": "",
+          "status": ""
+        },
+        "Route 7 - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Turm des Himmels": {
+          "name": "",
+          "status": ""
+        },
+        "Nevaio City": {
+          "name": "",
+          "status": ""
+        },
+        "Nevaio City Arena": {
+          "name": "",
+          "status": ""
+        },
+        "Route 8": {
+          "name": "",
+          "status": ""
+        },
+        "Moor von Nevaio": {
+          "name": "",
+          "status": ""
+        },
+        "Twindrake City": {
+          "name": "",
+          "status": ""
+        },
+        "Drachenstiege": {
+          "name": "",
+          "status": ""
+        },
+        "Drachenstiege - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Twindrake City Arena": {
+          "name": "",
+          "status": ""
+        },
+        "Route 9": {
+          "name": "",
+          "status": ""
+        },
+        "Einkaufszentrum 9": {
+          "name": "",
+          "status": ""
+        },
+        "Route 10": {
+          "name": "",
+          "status": ""
+        },
+        "Siegesstraße": {
+          "name": "",
+          "status": ""
+        },
+        "Pokémon Liga": {
+          "name": "",
+          "status": ""
+        },
+        "N's Schloss": {
+          "name": "",
+          "status": ""
+        },
+        "Route 11": {
+          "name": "",
+          "status": ""
+        },
+        "Route 11 - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Route 12": {
+          "name": "",
+          "status": ""
+        },
+        "Route 13": {
+          "name": "",
+          "status": ""
+        },
+        "Undella Town": {
+          "name": "",
+          "status": ""
+        },
+        "Undella Bucht": {
+          "name": "",
+          "status": ""
+        },
+        "Abyssalruinen": {
+          "name": "",
+          "status": ""
+        },
+        "Route 14": {
+          "name": "",
+          "status": ""
+        },
+        "Route 14 - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Route 15": {
+          "name": "",
+          "status": ""
+        },
+        "Route 15 - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Schwarze Stadt": {
+          "name": "",
+          "status": ""
+        },
+        "Route 17": {
+          "name": "",
+          "status": ""
+        },
+        "Route 18": {
+          "name": "",
+          "status": ""
+        },
+        "Antike Pforte": {
+          "name": "",
+          "status": ""
+        },
+        "Riesengrotte": {
+          "name": "",
+          "status": ""
+        },
+        "Riesengrotte - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Reliktburg – Statik": {
+          "name": "",
+          "status": ""
+        }
+      },
       "mainAdj": {
         "left": 0,
         "top": 0,
@@ -205,7 +1248,272 @@
       "mainStream": "",
       "touchStream": "",
       "taken": false,
-      "catches": {},
+      "catches": {
+        "Avenitia": {
+          "name": "",
+          "status": ""
+        },
+        "Route 1": {
+          "name": "",
+          "status": ""
+        },
+        "Eventura City": {
+          "name": "",
+          "status": ""
+        },
+        "Route 2": {
+          "name": "",
+          "status": ""
+        },
+        "Accumula Town": {
+          "name": "",
+          "status": ""
+        },
+        "Route 3": {
+          "name": "",
+          "status": ""
+        },
+        "Orion City": {
+          "name": "",
+          "status": ""
+        },
+        "Orion City - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Traumbrache": {
+          "name": "",
+          "status": ""
+        },
+        "Orion City Arena": {
+          "name": "",
+          "status": ""
+        },
+        "Ewigenau": {
+          "name": "",
+          "status": ""
+        },
+        "Ewigenau Arena": {
+          "name": "",
+          "status": ""
+        },
+        "Route 4": {
+          "name": "",
+          "status": ""
+        },
+        "Route 4 - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Wüstenresort": {
+          "name": "",
+          "status": ""
+        },
+        "Reliktburg": {
+          "name": "",
+          "status": ""
+        },
+        "Reliktburg - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Stratos City": {
+          "name": "",
+          "status": ""
+        },
+        "Stratos City - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Stratos City Arena": {
+          "name": "",
+          "status": ""
+        },
+        "Rayono City": {
+          "name": "",
+          "status": ""
+        },
+        "Route 16": {
+          "name": "",
+          "status": ""
+        },
+        "Wunderbrücke": {
+          "name": "",
+          "status": ""
+        },
+        "Rayono City Arena": {
+          "name": "",
+          "status": ""
+        },
+        "Route 5": {
+          "name": "",
+          "status": ""
+        },
+        "Driftveil City": {
+          "name": "",
+          "status": ""
+        },
+        "Driftveil City Arena": {
+          "name": "",
+          "status": ""
+        },
+        "Route 6": {
+          "name": "",
+          "status": ""
+        },
+        "Elektrolithhöhle": {
+          "name": "",
+          "status": ""
+        },
+        "Marea City": {
+          "name": "",
+          "status": ""
+        },
+        "Marea City Arena": {
+          "name": "",
+          "status": ""
+        },
+        "Route 7": {
+          "name": "",
+          "status": ""
+        },
+        "Route 7 - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Turm des Himmels": {
+          "name": "",
+          "status": ""
+        },
+        "Nevaio City": {
+          "name": "",
+          "status": ""
+        },
+        "Nevaio City Arena": {
+          "name": "",
+          "status": ""
+        },
+        "Route 8": {
+          "name": "",
+          "status": ""
+        },
+        "Moor von Nevaio": {
+          "name": "",
+          "status": ""
+        },
+        "Twindrake City": {
+          "name": "",
+          "status": ""
+        },
+        "Drachenstiege": {
+          "name": "",
+          "status": ""
+        },
+        "Drachenstiege - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Twindrake City Arena": {
+          "name": "",
+          "status": ""
+        },
+        "Route 9": {
+          "name": "",
+          "status": ""
+        },
+        "Einkaufszentrum 9": {
+          "name": "",
+          "status": ""
+        },
+        "Route 10": {
+          "name": "",
+          "status": ""
+        },
+        "Siegesstraße": {
+          "name": "",
+          "status": ""
+        },
+        "Pokémon Liga": {
+          "name": "",
+          "status": ""
+        },
+        "N's Schloss": {
+          "name": "",
+          "status": ""
+        },
+        "Route 11": {
+          "name": "",
+          "status": ""
+        },
+        "Route 11 - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Route 12": {
+          "name": "",
+          "status": ""
+        },
+        "Route 13": {
+          "name": "",
+          "status": ""
+        },
+        "Undella Town": {
+          "name": "",
+          "status": ""
+        },
+        "Undella Bucht": {
+          "name": "",
+          "status": ""
+        },
+        "Abyssalruinen": {
+          "name": "",
+          "status": ""
+        },
+        "Route 14": {
+          "name": "",
+          "status": ""
+        },
+        "Route 14 - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Route 15": {
+          "name": "",
+          "status": ""
+        },
+        "Route 15 - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Schwarze Stadt": {
+          "name": "",
+          "status": ""
+        },
+        "Route 17": {
+          "name": "",
+          "status": ""
+        },
+        "Route 18": {
+          "name": "",
+          "status": ""
+        },
+        "Antike Pforte": {
+          "name": "",
+          "status": ""
+        },
+        "Riesengrotte": {
+          "name": "",
+          "status": ""
+        },
+        "Riesengrotte - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Reliktburg – Statik": {
+          "name": "",
+          "status": ""
+        }
+      },
       "mainAdj": {
         "left": 0,
         "top": 0,
@@ -244,7 +1552,272 @@
       "mainStream": "",
       "touchStream": "",
       "taken": false,
-      "catches": {},
+      "catches": {
+        "Avenitia": {
+          "name": "",
+          "status": ""
+        },
+        "Route 1": {
+          "name": "",
+          "status": ""
+        },
+        "Eventura City": {
+          "name": "",
+          "status": ""
+        },
+        "Route 2": {
+          "name": "",
+          "status": ""
+        },
+        "Accumula Town": {
+          "name": "",
+          "status": ""
+        },
+        "Route 3": {
+          "name": "",
+          "status": ""
+        },
+        "Orion City": {
+          "name": "",
+          "status": ""
+        },
+        "Orion City - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Traumbrache": {
+          "name": "",
+          "status": ""
+        },
+        "Orion City Arena": {
+          "name": "",
+          "status": ""
+        },
+        "Ewigenau": {
+          "name": "",
+          "status": ""
+        },
+        "Ewigenau Arena": {
+          "name": "",
+          "status": ""
+        },
+        "Route 4": {
+          "name": "",
+          "status": ""
+        },
+        "Route 4 - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Wüstenresort": {
+          "name": "",
+          "status": ""
+        },
+        "Reliktburg": {
+          "name": "",
+          "status": ""
+        },
+        "Reliktburg - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Stratos City": {
+          "name": "",
+          "status": ""
+        },
+        "Stratos City - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Stratos City Arena": {
+          "name": "",
+          "status": ""
+        },
+        "Rayono City": {
+          "name": "",
+          "status": ""
+        },
+        "Route 16": {
+          "name": "",
+          "status": ""
+        },
+        "Wunderbrücke": {
+          "name": "",
+          "status": ""
+        },
+        "Rayono City Arena": {
+          "name": "",
+          "status": ""
+        },
+        "Route 5": {
+          "name": "",
+          "status": ""
+        },
+        "Driftveil City": {
+          "name": "",
+          "status": ""
+        },
+        "Driftveil City Arena": {
+          "name": "",
+          "status": ""
+        },
+        "Route 6": {
+          "name": "",
+          "status": ""
+        },
+        "Elektrolithhöhle": {
+          "name": "",
+          "status": ""
+        },
+        "Marea City": {
+          "name": "",
+          "status": ""
+        },
+        "Marea City Arena": {
+          "name": "",
+          "status": ""
+        },
+        "Route 7": {
+          "name": "",
+          "status": ""
+        },
+        "Route 7 - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Turm des Himmels": {
+          "name": "",
+          "status": ""
+        },
+        "Nevaio City": {
+          "name": "",
+          "status": ""
+        },
+        "Nevaio City Arena": {
+          "name": "",
+          "status": ""
+        },
+        "Route 8": {
+          "name": "",
+          "status": ""
+        },
+        "Moor von Nevaio": {
+          "name": "",
+          "status": ""
+        },
+        "Twindrake City": {
+          "name": "",
+          "status": ""
+        },
+        "Drachenstiege": {
+          "name": "",
+          "status": ""
+        },
+        "Drachenstiege - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Twindrake City Arena": {
+          "name": "",
+          "status": ""
+        },
+        "Route 9": {
+          "name": "",
+          "status": ""
+        },
+        "Einkaufszentrum 9": {
+          "name": "",
+          "status": ""
+        },
+        "Route 10": {
+          "name": "",
+          "status": ""
+        },
+        "Siegesstraße": {
+          "name": "",
+          "status": ""
+        },
+        "Pokémon Liga": {
+          "name": "",
+          "status": ""
+        },
+        "N's Schloss": {
+          "name": "",
+          "status": ""
+        },
+        "Route 11": {
+          "name": "",
+          "status": ""
+        },
+        "Route 11 - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Route 12": {
+          "name": "",
+          "status": ""
+        },
+        "Route 13": {
+          "name": "",
+          "status": ""
+        },
+        "Undella Town": {
+          "name": "",
+          "status": ""
+        },
+        "Undella Bucht": {
+          "name": "",
+          "status": ""
+        },
+        "Abyssalruinen": {
+          "name": "",
+          "status": ""
+        },
+        "Route 14": {
+          "name": "",
+          "status": ""
+        },
+        "Route 14 - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Route 15": {
+          "name": "",
+          "status": ""
+        },
+        "Route 15 - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Schwarze Stadt": {
+          "name": "",
+          "status": ""
+        },
+        "Route 17": {
+          "name": "",
+          "status": ""
+        },
+        "Route 18": {
+          "name": "",
+          "status": ""
+        },
+        "Antike Pforte": {
+          "name": "",
+          "status": ""
+        },
+        "Riesengrotte": {
+          "name": "",
+          "status": ""
+        },
+        "Riesengrotte - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Reliktburg – Statik": {
+          "name": "",
+          "status": ""
+        }
+      },
       "mainAdj": {
         "left": 0,
         "top": 0,
@@ -283,7 +1856,272 @@
       "mainStream": "",
       "touchStream": "",
       "taken": false,
-      "catches": {},
+      "catches": {
+        "Avenitia": {
+          "name": "",
+          "status": ""
+        },
+        "Route 1": {
+          "name": "",
+          "status": ""
+        },
+        "Eventura City": {
+          "name": "",
+          "status": ""
+        },
+        "Route 2": {
+          "name": "",
+          "status": ""
+        },
+        "Accumula Town": {
+          "name": "",
+          "status": ""
+        },
+        "Route 3": {
+          "name": "",
+          "status": ""
+        },
+        "Orion City": {
+          "name": "",
+          "status": ""
+        },
+        "Orion City - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Traumbrache": {
+          "name": "",
+          "status": ""
+        },
+        "Orion City Arena": {
+          "name": "",
+          "status": ""
+        },
+        "Ewigenau": {
+          "name": "",
+          "status": ""
+        },
+        "Ewigenau Arena": {
+          "name": "",
+          "status": ""
+        },
+        "Route 4": {
+          "name": "",
+          "status": ""
+        },
+        "Route 4 - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Wüstenresort": {
+          "name": "",
+          "status": ""
+        },
+        "Reliktburg": {
+          "name": "",
+          "status": ""
+        },
+        "Reliktburg - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Stratos City": {
+          "name": "",
+          "status": ""
+        },
+        "Stratos City - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Stratos City Arena": {
+          "name": "",
+          "status": ""
+        },
+        "Rayono City": {
+          "name": "",
+          "status": ""
+        },
+        "Route 16": {
+          "name": "",
+          "status": ""
+        },
+        "Wunderbrücke": {
+          "name": "",
+          "status": ""
+        },
+        "Rayono City Arena": {
+          "name": "",
+          "status": ""
+        },
+        "Route 5": {
+          "name": "",
+          "status": ""
+        },
+        "Driftveil City": {
+          "name": "",
+          "status": ""
+        },
+        "Driftveil City Arena": {
+          "name": "",
+          "status": ""
+        },
+        "Route 6": {
+          "name": "",
+          "status": ""
+        },
+        "Elektrolithhöhle": {
+          "name": "",
+          "status": ""
+        },
+        "Marea City": {
+          "name": "",
+          "status": ""
+        },
+        "Marea City Arena": {
+          "name": "",
+          "status": ""
+        },
+        "Route 7": {
+          "name": "",
+          "status": ""
+        },
+        "Route 7 - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Turm des Himmels": {
+          "name": "",
+          "status": ""
+        },
+        "Nevaio City": {
+          "name": "",
+          "status": ""
+        },
+        "Nevaio City Arena": {
+          "name": "",
+          "status": ""
+        },
+        "Route 8": {
+          "name": "",
+          "status": ""
+        },
+        "Moor von Nevaio": {
+          "name": "",
+          "status": ""
+        },
+        "Twindrake City": {
+          "name": "",
+          "status": ""
+        },
+        "Drachenstiege": {
+          "name": "",
+          "status": ""
+        },
+        "Drachenstiege - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Twindrake City Arena": {
+          "name": "",
+          "status": ""
+        },
+        "Route 9": {
+          "name": "",
+          "status": ""
+        },
+        "Einkaufszentrum 9": {
+          "name": "",
+          "status": ""
+        },
+        "Route 10": {
+          "name": "",
+          "status": ""
+        },
+        "Siegesstraße": {
+          "name": "",
+          "status": ""
+        },
+        "Pokémon Liga": {
+          "name": "",
+          "status": ""
+        },
+        "N's Schloss": {
+          "name": "",
+          "status": ""
+        },
+        "Route 11": {
+          "name": "",
+          "status": ""
+        },
+        "Route 11 - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Route 12": {
+          "name": "",
+          "status": ""
+        },
+        "Route 13": {
+          "name": "",
+          "status": ""
+        },
+        "Undella Town": {
+          "name": "",
+          "status": ""
+        },
+        "Undella Bucht": {
+          "name": "",
+          "status": ""
+        },
+        "Abyssalruinen": {
+          "name": "",
+          "status": ""
+        },
+        "Route 14": {
+          "name": "",
+          "status": ""
+        },
+        "Route 14 - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Route 15": {
+          "name": "",
+          "status": ""
+        },
+        "Route 15 - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Schwarze Stadt": {
+          "name": "",
+          "status": ""
+        },
+        "Route 17": {
+          "name": "",
+          "status": ""
+        },
+        "Route 18": {
+          "name": "",
+          "status": ""
+        },
+        "Antike Pforte": {
+          "name": "",
+          "status": ""
+        },
+        "Riesengrotte": {
+          "name": "",
+          "status": ""
+        },
+        "Riesengrotte - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Reliktburg – Statik": {
+          "name": "",
+          "status": ""
+        }
+      },
       "mainAdj": {
         "left": 0,
         "top": 0,
@@ -322,7 +2160,272 @@
       "mainStream": "",
       "touchStream": "",
       "taken": false,
-      "catches": {},
+      "catches": {
+        "Avenitia": {
+          "name": "",
+          "status": ""
+        },
+        "Route 1": {
+          "name": "",
+          "status": ""
+        },
+        "Eventura City": {
+          "name": "",
+          "status": ""
+        },
+        "Route 2": {
+          "name": "",
+          "status": ""
+        },
+        "Accumula Town": {
+          "name": "",
+          "status": ""
+        },
+        "Route 3": {
+          "name": "",
+          "status": ""
+        },
+        "Orion City": {
+          "name": "",
+          "status": ""
+        },
+        "Orion City - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Traumbrache": {
+          "name": "",
+          "status": ""
+        },
+        "Orion City Arena": {
+          "name": "",
+          "status": ""
+        },
+        "Ewigenau": {
+          "name": "",
+          "status": ""
+        },
+        "Ewigenau Arena": {
+          "name": "",
+          "status": ""
+        },
+        "Route 4": {
+          "name": "",
+          "status": ""
+        },
+        "Route 4 - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Wüstenresort": {
+          "name": "",
+          "status": ""
+        },
+        "Reliktburg": {
+          "name": "",
+          "status": ""
+        },
+        "Reliktburg - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Stratos City": {
+          "name": "",
+          "status": ""
+        },
+        "Stratos City - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Stratos City Arena": {
+          "name": "",
+          "status": ""
+        },
+        "Rayono City": {
+          "name": "",
+          "status": ""
+        },
+        "Route 16": {
+          "name": "",
+          "status": ""
+        },
+        "Wunderbrücke": {
+          "name": "",
+          "status": ""
+        },
+        "Rayono City Arena": {
+          "name": "",
+          "status": ""
+        },
+        "Route 5": {
+          "name": "",
+          "status": ""
+        },
+        "Driftveil City": {
+          "name": "",
+          "status": ""
+        },
+        "Driftveil City Arena": {
+          "name": "",
+          "status": ""
+        },
+        "Route 6": {
+          "name": "",
+          "status": ""
+        },
+        "Elektrolithhöhle": {
+          "name": "",
+          "status": ""
+        },
+        "Marea City": {
+          "name": "",
+          "status": ""
+        },
+        "Marea City Arena": {
+          "name": "",
+          "status": ""
+        },
+        "Route 7": {
+          "name": "",
+          "status": ""
+        },
+        "Route 7 - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Turm des Himmels": {
+          "name": "",
+          "status": ""
+        },
+        "Nevaio City": {
+          "name": "",
+          "status": ""
+        },
+        "Nevaio City Arena": {
+          "name": "",
+          "status": ""
+        },
+        "Route 8": {
+          "name": "",
+          "status": ""
+        },
+        "Moor von Nevaio": {
+          "name": "",
+          "status": ""
+        },
+        "Twindrake City": {
+          "name": "",
+          "status": ""
+        },
+        "Drachenstiege": {
+          "name": "",
+          "status": ""
+        },
+        "Drachenstiege - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Twindrake City Arena": {
+          "name": "",
+          "status": ""
+        },
+        "Route 9": {
+          "name": "",
+          "status": ""
+        },
+        "Einkaufszentrum 9": {
+          "name": "",
+          "status": ""
+        },
+        "Route 10": {
+          "name": "",
+          "status": ""
+        },
+        "Siegesstraße": {
+          "name": "",
+          "status": ""
+        },
+        "Pokémon Liga": {
+          "name": "",
+          "status": ""
+        },
+        "N's Schloss": {
+          "name": "",
+          "status": ""
+        },
+        "Route 11": {
+          "name": "",
+          "status": ""
+        },
+        "Route 11 - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Route 12": {
+          "name": "",
+          "status": ""
+        },
+        "Route 13": {
+          "name": "",
+          "status": ""
+        },
+        "Undella Town": {
+          "name": "",
+          "status": ""
+        },
+        "Undella Bucht": {
+          "name": "",
+          "status": ""
+        },
+        "Abyssalruinen": {
+          "name": "",
+          "status": ""
+        },
+        "Route 14": {
+          "name": "",
+          "status": ""
+        },
+        "Route 14 - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Route 15": {
+          "name": "",
+          "status": ""
+        },
+        "Route 15 - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Schwarze Stadt": {
+          "name": "",
+          "status": ""
+        },
+        "Route 17": {
+          "name": "",
+          "status": ""
+        },
+        "Route 18": {
+          "name": "",
+          "status": ""
+        },
+        "Antike Pforte": {
+          "name": "",
+          "status": ""
+        },
+        "Riesengrotte": {
+          "name": "",
+          "status": ""
+        },
+        "Riesengrotte - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Reliktburg – Statik": {
+          "name": "",
+          "status": ""
+        }
+      },
       "mainAdj": {
         "left": 0,
         "top": 0,
