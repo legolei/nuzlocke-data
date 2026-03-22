@@ -87,7 +87,10 @@
         "left": 0,
         "top": 0,
         "w": 100,
-        "h": 100
+        "h": 100,
+        "userScale": 2,
+        "offX": -121,
+        "offY": -26
       },
       "touchAdj": {
         "left": 0,
