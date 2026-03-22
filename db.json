@@ -6,7 +6,7 @@
       "color": "red",
       "team": [
         "Chelcarain",
-        "Glutexo",
+        null,
         "Igelavar",
         "Vibrava",
         null,
@@ -1853,7 +1853,7 @@
       "name": "Antonino",
       "color": "pink",
       "team": [
-        "Nidoran♀",
+        null,
         "Tarnpignon",
         "Toxiped",
         null,
@@ -1877,7 +1877,7 @@
       "catches": {
         "Avenitia": {
           "name": "Nidoran♀",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Route 1": {
           "name": "Tarnpignon",
