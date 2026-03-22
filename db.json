@@ -1852,7 +1852,7 @@
         null,
         "Zirpeise",
         null,
-        "Tangela"
+        null
       ],
       "badges": [
         false,
@@ -1887,7 +1887,7 @@
         },
         "Accumula Town": {
           "name": "Tangela",
-          "status": "Lebendig"
+          "status": ""
         },
         "Route 3": {
           "name": "Zirpeise",
