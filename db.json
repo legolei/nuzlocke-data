@@ -65,7 +65,12 @@
       "mainStream": "",
       "touchStream": "",
       "taken": false,
-      "catches": {},
+      "catches": {
+        "Avenitia": {
+          "name": "Gengar",
+          "status": ""
+        }
+      },
       "mainAdj": {
         "left": 0,
         "top": 0,
