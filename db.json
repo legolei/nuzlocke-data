@@ -626,7 +626,7 @@
       "color": "green",
       "team": [
         "Klikk",
-        "Sedimantur",
+        null,
         null,
         null,
         null,
@@ -642,7 +642,7 @@
         false,
         false
       ],
-      "deaths": 0,
+      "deaths": 1,
       "mainStream": "https://vdo.ninja/?view=VAUg5TV",
       "touchStream": "https://vdo.ninja/?view=VAUg5TV",
       "taken": false,
@@ -653,7 +653,7 @@
         },
         "Route 1": {
           "name": "Sedimantur",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Eventura City": {
           "name": "",
@@ -2469,6 +2469,11 @@
       "name": "Shuppet",
       "player": 0,
       "color": "red"
+    },
+    {
+      "name": "Sedimantur",
+      "player": 2,
+      "color": "green"
     }
   ]
 }
