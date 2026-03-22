@@ -642,7 +642,7 @@
         false,
         false
       ],
-      "deaths": 6,
+      "deaths": 5,
       "mainStream": "https://vdo.ninja/?view=VAUg5TV",
       "touchStream": "https://vdo.ninja/?view=VAUg5TV",
       "taken": false,
@@ -653,7 +653,7 @@
         },
         "Route 1": {
           "name": "Girafarig",
-          "status": "Tot"
+          "status": "Lebendig"
         },
         "Eventura City": {
           "name": "Wattzapf",
@@ -2465,11 +2465,6 @@
     }
   ],
   "graveyard": [
-    {
-      "name": "Girafarig",
-      "player": 2,
-      "color": "green"
-    },
     {
       "name": "Hydropi",
       "player": 2,
