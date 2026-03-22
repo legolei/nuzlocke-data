@@ -332,7 +332,7 @@
         false,
         false
       ],
-      "deaths": 1,
+      "deaths": 0,
       "mainStream": "https://vdo.ninja/?view=DV4Z6SZ",
       "touchStream": "https://vdo.ninja/?view=DV4Z6SZ",
       "taken": false,
@@ -2479,11 +2479,6 @@
       "name": "Golking",
       "player": 2,
       "color": "green"
-    },
-    {
-      "name": "Hydropi",
-      "player": 1,
-      "color": "blue"
     }
   ]
 }
