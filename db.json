@@ -1543,7 +1543,7 @@
       "name": "Jannik",
       "color": "cyan",
       "team": [
-        "Chelast",
+        null,
         "Plusle",
         null,
         null,
@@ -1566,7 +1566,7 @@
       "taken": false,
       "catches": {
         "Avenitia": {
-          "name": "Chelast",
+          "name": "",
           "status": "Lebendig"
         },
         "Route 1": {
