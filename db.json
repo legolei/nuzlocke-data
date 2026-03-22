@@ -1571,7 +1571,7 @@
         },
         "Route 1": {
           "name": "Jurob",
-          "status": "Lebendig"
+          "status": ""
         },
         "Eventura City": {
           "name": "",
@@ -1864,14 +1864,14 @@
         false,
         false
       ],
-      "deaths": 1,
+      "deaths": 0,
       "mainStream": "https://vdo.ninja/?view=nkS5Ysx",
       "touchStream": "https://vdo.ninja/?view=nkS5Ysx",
       "taken": false,
       "catches": {
         "Avenitia": {
           "name": "Glutexo",
-          "status": "Tot"
+          "status": "Lebendig"
         },
         "Route 1": {
           "name": "",
@@ -2468,11 +2468,6 @@
       "name": "Girafarig",
       "player": 2,
       "color": "green"
-    },
-    {
-      "name": "Glutexo",
-      "player": 6,
-      "color": "pink"
     },
     {
       "name": "Hydropi",
