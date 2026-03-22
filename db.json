@@ -628,7 +628,7 @@
         "Plinfa",
         "Smogon",
         "Stolloss",
-        "Matrifol",
+        null,
         null,
         null
       ],
@@ -680,7 +680,7 @@
           "status": ""
         },
         "Traumbrache": {
-          "name": "mat",
+          "name": "Matrifol",
           "status": "Lebendig"
         },
         "Orion City Arena": {
