@@ -642,7 +642,7 @@
         false,
         false
       ],
-      "deaths": 4,
+      "deaths": 3,
       "mainStream": "https://vdo.ninja/?view=VAUg5TV",
       "touchStream": "https://vdo.ninja/?view=VAUg5TV",
       "taken": false,
@@ -661,7 +661,7 @@
         },
         "Route 2": {
           "name": "Golking",
-          "status": "Tot"
+          "status": "Lebendig"
         },
         "Accumula Town": {
           "name": "",
@@ -2465,11 +2465,6 @@
     }
   ],
   "graveyard": [
-    {
-      "name": "Golking",
-      "player": 2,
-      "color": "green"
-    },
     {
       "name": "Scherox",
       "player": 2,
