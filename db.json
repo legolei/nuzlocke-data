@@ -626,7 +626,7 @@
       "color": "green",
       "team": [
         "Plinfa",
-        "Smogon",
+        null,
         "Stolloss",
         "Matrifol",
         "Sumpex",
@@ -642,7 +642,7 @@
         false,
         false
       ],
-      "deaths": 1,
+      "deaths": 2,
       "mainStream": "https://vdo.ninja/?view=VAUg5TV",
       "touchStream": "https://vdo.ninja/?view=VAUg5TV",
       "taken": false,
@@ -665,7 +665,7 @@
         },
         "Accumula Town": {
           "name": "Smogon",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Route 3": {
           "name": "Sumpex",
@@ -2504,6 +2504,11 @@
       "name": "Karpador",
       "player": 0,
       "color": "red"
+    },
+    {
+      "name": "Smogon",
+      "player": 2,
+      "color": "green"
     }
   ]
 }
