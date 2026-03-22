@@ -1847,7 +1847,7 @@
       "name": "Antonino",
       "color": "pink",
       "team": [
-        "Noctuh",
+        null,
         "Pixi",
         "Fiffyen",
         "Zirpeise",
@@ -1871,7 +1871,7 @@
       "catches": {
         "Avenitia": {
           "name": "Noctuh",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Route 1": {
           "name": "Ledyba",
