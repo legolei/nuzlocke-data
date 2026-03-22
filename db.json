@@ -1851,7 +1851,7 @@
         "Pixi",
         "Fiffyen",
         "Zirpeise",
-        "Ledyba",
+        null,
         "Tangela"
       ],
       "badges": [
@@ -1875,7 +1875,7 @@
         },
         "Route 1": {
           "name": "Ledyba",
-          "status": "Lebendig"
+          "status": "Blockiert"
         },
         "Eventura City": {
           "name": "Fiffyen",
