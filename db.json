@@ -627,7 +627,7 @@
       "team": [
         "Griffel",
         "Wattzapf",
-        "Scherox",
+        null,
         null,
         null,
         null
@@ -642,7 +642,7 @@
         false,
         false
       ],
-      "deaths": 3,
+      "deaths": 4,
       "mainStream": "https://vdo.ninja/?view=VAUg5TV",
       "touchStream": "https://vdo.ninja/?view=VAUg5TV",
       "taken": false,
@@ -669,7 +669,7 @@
         },
         "Route 3": {
           "name": "Scherox",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Orion City": {
           "name": "",
@@ -2477,6 +2477,11 @@
     },
     {
       "name": "Golking",
+      "player": 2,
+      "color": "green"
+    },
+    {
+      "name": "Scherox",
       "player": 2,
       "color": "green"
     }
