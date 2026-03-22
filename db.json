@@ -8,7 +8,7 @@
         "Geckarbor",
         "Riolu",
         "Laschoking",
-        "Zoroark",
+        null,
         null,
         null
       ],
@@ -48,7 +48,7 @@
           "status": ""
         },
         "Route 3": {
-          "name": "Zoroark",
+          "name": "zo",
           "status": "Lebendig"
         },
         "Orion City": {
