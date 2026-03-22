@@ -1855,7 +1855,7 @@
       "team": [
         null,
         "Tarnpignon",
-        "Toxiped",
+        null,
         null,
         null,
         null
@@ -1870,7 +1870,7 @@
         false,
         false
       ],
-      "deaths": 1,
+      "deaths": 2,
       "mainStream": "https://vdo.ninja/?view=nkS5Ysx",
       "touchStream": "https://vdo.ninja/?view=nkS5Ysx",
       "taken": false,
@@ -1885,7 +1885,7 @@
         },
         "Eventura City": {
           "name": "Toxiped",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Route 2": {
           "name": "",
@@ -2477,6 +2477,11 @@
     },
     {
       "name": "Nidoran♀",
+      "player": 6,
+      "color": "pink"
+    },
+    {
+      "name": "Toxiped",
       "player": 6,
       "color": "pink"
     }
