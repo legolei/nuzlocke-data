@@ -627,13 +627,13 @@
       "team": [
         "Golking",
         "Wattzapf",
-        "Griffel",
+        null,
         null,
         null,
         null
       ],
       "badges": [
-        false,
+        true,
         false,
         false,
         false,
