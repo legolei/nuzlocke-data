@@ -1545,7 +1545,7 @@
       "team": [
         "Karnimani",
         "Irokex",
-        "Wingull",
+        null,
         null,
         null,
         null
@@ -1560,7 +1560,7 @@
         false,
         false
       ],
-      "deaths": 1,
+      "deaths": 2,
       "mainStream": "https://vdo.ninja/?view=XTrCCZ3",
       "touchStream": "https://vdo.ninja/?view=XTrCCZ3",
       "taken": false,
@@ -1575,7 +1575,7 @@
         },
         "Eventura City": {
           "name": "Wingull",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Route 2": {
           "name": "Meistagrif",
@@ -2477,6 +2477,11 @@
     },
     {
       "name": "Meistagrif",
+      "player": 5,
+      "color": "cyan"
+    },
+    {
+      "name": "Wingull",
       "player": 5,
       "color": "cyan"
     }
