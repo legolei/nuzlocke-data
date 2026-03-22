@@ -1844,9 +1844,9 @@
         "top": 0,
         "w": 100,
         "h": 100,
-        "offX": -1,
-        "offY": -147,
-        "userScale": 0.95
+        "offX": 11,
+        "offY": -152,
+        "userScale": 1.1
       }
     },
     {
