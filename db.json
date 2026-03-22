@@ -642,7 +642,7 @@
         false,
         false
       ],
-      "deaths": 1,
+      "deaths": 0,
       "mainStream": "https://vdo.ninja/?view=VAUg5TV",
       "touchStream": "https://vdo.ninja/?view=VAUg5TV",
       "taken": false,
@@ -653,7 +653,7 @@
         },
         "Route 1": {
           "name": "Sedimantur",
-          "status": "Tot"
+          "status": "Lebendig"
         },
         "Eventura City": {
           "name": "Kryppuk",
@@ -2469,11 +2469,6 @@
       "name": "Shuppet",
       "player": 0,
       "color": "red"
-    },
-    {
-      "name": "Sedimantur",
-      "player": 2,
-      "color": "green"
     },
     {
       "name": "Nidoran♀",
