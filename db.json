@@ -630,7 +630,7 @@
         "Stolloss",
         "Matrifol",
         "Sumpex",
-        "Rattikarl"
+        null
       ],
       "badges": [
         true,
@@ -642,7 +642,7 @@
         false,
         false
       ],
-      "deaths": 2,
+      "deaths": 3,
       "mainStream": "https://vdo.ninja/?view=VAUg5TV",
       "touchStream": "https://vdo.ninja/?view=VAUg5TV",
       "taken": false,
@@ -865,7 +865,7 @@
         },
         "Abyssalruinen": {
           "name": "Rattikarl",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Route 14": {
           "name": "",
@@ -2507,6 +2507,11 @@
     },
     {
       "name": "Smogon",
+      "player": 2,
+      "color": "green"
+    },
+    {
+      "name": "Rattikarl",
       "player": 2,
       "color": "green"
     }
