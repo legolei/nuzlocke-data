@@ -1853,7 +1853,7 @@
       "name": "Antonino",
       "color": "pink",
       "team": [
-        "Nidoran♀",
+        null,
         "Tarnpignon",
         "Toxiped",
         null,
@@ -1870,14 +1870,14 @@
         false,
         false
       ],
-      "deaths": 0,
+      "deaths": 1,
       "mainStream": "https://vdo.ninja/?view=nkS5Ysx",
       "touchStream": "https://vdo.ninja/?view=nkS5Ysx",
       "taken": false,
       "catches": {
         "Avenitia": {
           "name": "Nidoran♀",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Route 1": {
           "name": "Tarnpignon",
@@ -2474,6 +2474,11 @@
       "name": "Sedimantur",
       "player": 2,
       "color": "green"
+    },
+    {
+      "name": "Nidoran♀",
+      "player": 6,
+      "color": "pink"
     }
   ]
 }
