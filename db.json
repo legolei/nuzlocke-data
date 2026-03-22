@@ -6,7 +6,7 @@
       "color": "red",
       "team": [
         null,
-        "Glutexo",
+        null,
         "Igelavar",
         null,
         null,
@@ -36,7 +36,7 @@
           "status": "Tot"
         },
         "Eventura City": {
-          "name": "Glutexo",
+          "name": "",
           "status": "Lebendig"
         },
         "Route 2": {
