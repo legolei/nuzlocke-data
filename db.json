@@ -326,14 +326,14 @@
         false,
         false
       ],
-      "deaths": 3,
+      "deaths": 2,
       "mainStream": "",
       "touchStream": "",
       "taken": false,
       "catches": {
         "Avenitia": {
           "name": "Lugia",
-          "status": "Tot"
+          "status": "Lebendig"
         },
         "Route 1": {
           "name": "Despotar",
@@ -2448,11 +2448,6 @@
     },
     {
       "name": "Glurak",
-      "player": 1,
-      "color": "blue"
-    },
-    {
-      "name": "Lugia",
       "player": 1,
       "color": "blue"
     }
