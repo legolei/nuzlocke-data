@@ -642,7 +642,7 @@
         false,
         false
       ],
-      "deaths": 3,
+      "deaths": 1,
       "mainStream": "https://vdo.ninja/?view=VAUg5TV",
       "touchStream": "https://vdo.ninja/?view=VAUg5TV",
       "taken": false,
@@ -657,7 +657,7 @@
         },
         "Eventura City": {
           "name": "Wattzapf",
-          "status": "Tot"
+          "status": "Lebendig"
         },
         "Route 2": {
           "name": "Golking",
@@ -669,7 +669,7 @@
         },
         "Route 3": {
           "name": "Scherox",
-          "status": "Tot"
+          "status": "Lebendig"
         },
         "Orion City": {
           "name": "",
@@ -1855,7 +1855,7 @@
       "team": [
         "Nidoran♀",
         "Tarnpignon",
-        "Toxiped",
+        null,
         null,
         null,
         null
@@ -2466,19 +2466,9 @@
   ],
   "graveyard": [
     {
-      "name": "Scherox",
-      "player": 2,
-      "color": "green"
-    },
-    {
       "name": "Shuppet",
       "player": 0,
       "color": "red"
-    },
-    {
-      "name": "Wattzapf",
-      "player": 2,
-      "color": "green"
     },
     {
       "name": "Griffel",
