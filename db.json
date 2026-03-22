@@ -625,7 +625,7 @@
       "name": "Kevin",
       "color": "green",
       "team": [
-        "Golking",
+        null,
         "Wattzapf",
         "Griffel",
         null,
@@ -642,7 +642,7 @@
         false,
         false
       ],
-      "deaths": 2,
+      "deaths": 3,
       "mainStream": "https://vdo.ninja/?view=VAUg5TV",
       "touchStream": "https://vdo.ninja/?view=VAUg5TV",
       "taken": false,
@@ -661,7 +661,7 @@
         },
         "Route 2": {
           "name": "Golking",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Accumula Town": {
           "name": "",
@@ -2472,6 +2472,11 @@
     },
     {
       "name": "Hydropi",
+      "player": 2,
+      "color": "green"
+    },
+    {
+      "name": "Golking",
       "player": 2,
       "color": "green"
     }
