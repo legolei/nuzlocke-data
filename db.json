@@ -910,10 +910,7 @@
         "left": 0,
         "top": 0,
         "w": 100,
-        "h": 100,
-        "userScale": 1.6500000000000006,
-        "offX": -156,
-        "offY": -104
+        "h": 100
       },
       "touchAdj": {
         "left": 0,
@@ -1856,8 +1853,8 @@
         false
       ],
       "deaths": 0,
-      "mainStream": "",
-      "touchStream": "",
+      "mainStream": "https://vdo.ninja/?view=nkS5Ysx",
+      "touchStream": "https://vdo.ninja/?view=nkS5Ysx",
       "taken": false,
       "catches": {
         "Avenitia": {
