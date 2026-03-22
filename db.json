@@ -625,9 +625,9 @@
       "name": "Kevin",
       "color": "green",
       "team": [
-        null,
-        "Wattzapf",
         "Griffel",
+        "Wattzapf",
+        null,
         null,
         null,
         null
