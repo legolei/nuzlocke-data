@@ -1,5 +1,5 @@
 {
-  "game": "Schwarz",
+  "game": "",
   "players": [
     {
       "name": "Player 1",
@@ -44,15 +44,15 @@
       "name": "Jasmin",
       "color": "blue",
       "team": [
-        "Gengar",
         null,
-        "Lugia",
+        null,
+        null,
         null,
         null,
         null
       ],
       "badges": [
-        false,
+        true,
         false,
         false,
         false,
@@ -65,24 +65,7 @@
       "mainStream": "",
       "touchStream": "",
       "taken": false,
-      "catches": {
-        "Avenitia": {
-          "name": "Gengar",
-          "status": "Lebendig"
-        },
-        "Route 1": {
-          "name": "Schiggy",
-          "status": "Lebendig"
-        },
-        "Eventura City": {
-          "name": "Lugia",
-          "status": "Lebendig"
-        },
-        "Route 2": {
-          "name": "Despotar",
-          "status": "Lebendig"
-        }
-      },
+      "catches": {},
       "mainAdj": {
         "left": 0,
         "top": 0,
