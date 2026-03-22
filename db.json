@@ -319,7 +319,7 @@
         "Zwirrlicht",
         "Snibunna",
         "Sharfax",
-        "Stahlos",
+        null,
         "Flegmon"
       ],
       "badges": [
@@ -354,7 +354,7 @@
           "status": "Lebendig"
         },
         "Accumula Town": {
-          "name": "Stahlos",
+          "name": "Stahls",
           "status": "Lebendig"
         },
         "Route 3": {
