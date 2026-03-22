@@ -315,7 +315,7 @@
       "name": "Jasmin",
       "color": "blue",
       "team": [
-        "Hydropi",
+        null,
         "Zwirrlicht",
         "Snibunna",
         "Sharfax",
@@ -338,7 +338,7 @@
       "taken": false,
       "catches": {
         "Avenitia": {
-          "name": "Hydropi",
+          "name": "",
           "status": "Lebendig"
         },
         "Route 1": {
