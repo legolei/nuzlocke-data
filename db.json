@@ -626,7 +626,7 @@
       "color": "green",
       "team": [
         "Plinfa",
-        "Aerodactyl",
+        null,
         null,
         null,
         null,
@@ -652,7 +652,7 @@
           "status": "Lebendig"
         },
         "Route 1": {
-          "name": "ae",
+          "name": "Aerodactyl",
           "status": "Lebendig"
         },
         "Eventura City": {
