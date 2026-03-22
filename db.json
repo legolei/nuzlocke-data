@@ -1560,7 +1560,7 @@
         false,
         false
       ],
-      "deaths": 1,
+      "deaths": 0,
       "mainStream": "https://vdo.ninja/?view=XTrCCZ3",
       "touchStream": "https://vdo.ninja/?view=XTrCCZ3",
       "taken": false,
@@ -2465,11 +2465,6 @@
     }
   ],
   "graveyard": [
-    {
-      "name": "Pikachu",
-      "player": 5,
-      "color": "cyan"
-    },
     {
       "name": "Girafarig",
       "player": 2,
