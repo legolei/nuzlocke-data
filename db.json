@@ -1543,11 +1543,11 @@
       "name": "Jannik",
       "color": "cyan",
       "team": [
-        null,
-        null,
-        null,
-        null,
         "Pikachu",
+        null,
+        null,
+        null,
+        null,
         null
       ],
       "badges": [
