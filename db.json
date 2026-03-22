@@ -309,7 +309,7 @@
       "name": "Jasmin",
       "color": "blue",
       "team": [
-        "Lugia",
+        null,
         null,
         null,
         null,
@@ -326,14 +326,14 @@
         false,
         false
       ],
-      "deaths": 2,
+      "deaths": 3,
       "mainStream": "",
       "touchStream": "",
       "taken": false,
       "catches": {
         "Avenitia": {
           "name": "Lugia",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Route 1": {
           "name": "Despotar",
@@ -619,7 +619,7 @@
       "name": "Kevin",
       "color": "green",
       "team": [
-        "Drifzepeli",
+        null,
         null,
         null,
         null,
@@ -636,14 +636,14 @@
         false,
         false
       ],
-      "deaths": 0,
+      "deaths": 1,
       "mainStream": "",
       "touchStream": "",
       "taken": false,
       "catches": {
         "Avenitia": {
           "name": "Drifzepeli",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Route 1": {
           "name": "",
@@ -2450,6 +2450,16 @@
       "name": "Glurak",
       "player": 1,
       "color": "blue"
+    },
+    {
+      "name": "Lugia",
+      "player": 1,
+      "color": "blue"
+    },
+    {
+      "name": "Drifzepeli",
+      "player": 2,
+      "color": "green"
     }
   ]
 }
