@@ -625,7 +625,7 @@
       "name": "Kevin",
       "color": "green",
       "team": [
-        "Griffel",
+        null,
         null,
         null,
         null,
@@ -642,7 +642,7 @@
         false,
         false
       ],
-      "deaths": 5,
+      "deaths": 6,
       "mainStream": "https://vdo.ninja/?view=VAUg5TV",
       "touchStream": "https://vdo.ninja/?view=VAUg5TV",
       "taken": false,
@@ -681,7 +681,7 @@
         },
         "Traumbrache": {
           "name": "Griffel",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Orion City Arena": {
           "name": "",
@@ -2492,6 +2492,11 @@
     },
     {
       "name": "Wattzapf",
+      "player": 2,
+      "color": "green"
+    },
+    {
+      "name": "Griffel",
       "player": 2,
       "color": "green"
     }
