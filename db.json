@@ -1848,7 +1848,7 @@
       "color": "pink",
       "team": [
         null,
-        "Pixi",
+        null,
         "Fiffyen",
         "Zirpeise",
         null,
@@ -1882,7 +1882,7 @@
           "status": "Lebendig"
         },
         "Route 2": {
-          "name": "Pixi",
+          "name": "",
           "status": "Lebendig"
         },
         "Accumula Town": {
