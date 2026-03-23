@@ -642,7 +642,7 @@
         false,
         false
       ],
-      "deaths": 3,
+      "deaths": 1,
       "mainStream": "https://vdo.ninja/?view=uqBvj6i&fps=30&bitrate=800",
       "touchStream": "https://vdo.ninja/?view=uqBvj6i&fps=30&bitrate=800",
       "taken": false,
@@ -653,7 +653,7 @@
         },
         "Route 1": {
           "name": "Fukano",
-          "status": "Tot"
+          "status": "Lebendig"
         },
         "Eventura City": {
           "name": "",
@@ -2496,16 +2496,6 @@
       "name": "Krebscorps",
       "player": 6,
       "color": "pink"
-    },
-    {
-      "name": "Pottrott",
-      "player": 2,
-      "color": "green"
-    },
-    {
-      "name": "Fukano",
-      "player": 2,
-      "color": "green"
     },
     {
       "name": "Rameidon",
