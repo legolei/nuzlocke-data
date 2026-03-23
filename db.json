@@ -2172,7 +2172,7 @@
         "Kapuno",
         "Grillchita",
         "Absol",
-        null,
+        "Kastadur",
         null,
         null
       ],
@@ -2213,7 +2213,7 @@
         },
         "Route 3": {
           "name": "Kastadur",
-          "status": ""
+          "status": "Lebendig"
         },
         "Orion City": {
           "name": "",
