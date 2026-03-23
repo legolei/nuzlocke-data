@@ -22,7 +22,7 @@
         false,
         false
       ],
-      "deaths": 8,
+      "deaths": 7,
       "mainStream": "https://vdo.ninja/?view=Y9MsUri&fps=30&bitrate=800",
       "touchStream": "https://vdo.ninja/?view=Y9MsUri&fps=30&bitrate=800",
       "taken": false,
@@ -2491,11 +2491,6 @@
       "name": "Aerodactyl",
       "player": 2,
       "color": "green"
-    },
-    {
-      "name": "Kinoso",
-      "player": 0,
-      "color": "red"
     },
     {
       "name": "Karpador",
