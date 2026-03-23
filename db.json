@@ -1870,7 +1870,7 @@
         false,
         false
       ],
-      "deaths": 1,
+      "deaths": 0,
       "mainStream": "https://vdo.ninja/?view=3jkKYSH&fps=30&bitrate=1500",
       "touchStream": "https://vdo.ninja/?view=3jkKYSH&fps=30&bitrate=1500",
       "taken": false,
@@ -2465,11 +2465,6 @@
     }
   ],
   "graveyard": [
-    {
-      "name": "Nidoran♀",
-      "player": 6,
-      "color": "pink"
-    },
     {
       "name": "Meistagrif",
       "player": 5,
