@@ -625,7 +625,7 @@
       "name": "Kevin",
       "color": "green",
       "team": [
-        "Milza",
+        null,
         null,
         null,
         null,
@@ -648,8 +648,8 @@
       "taken": false,
       "catches": {
         "Avenitia": {
-          "name": "Milza",
-          "status": "Lebendig"
+          "name": "",
+          "status": ""
         },
         "Route 1": {
           "name": "",
@@ -660,11 +660,11 @@
           "status": ""
         },
         "Route 2": {
-          "name": "",
+          "name": "Stolloss",
           "status": ""
         },
         "Accumula Town": {
-          "name": "",
+          "name": "Smogon",
           "status": ""
         },
         "Route 3": {
@@ -1877,8 +1877,8 @@
         false
       ],
       "deaths": 0,
-      "mainStream": "https://vdo.ninja/?view=V5mcRuB&fps=30&bitrate=800",
-      "touchStream": "https://vdo.ninja/?view=V5mcRuB&fps=30&bitrate=800",
+      "mainStream": "https://vdo.ninja/?view=gMgReib&fps=30&bitrate=800",
+      "touchStream": "https://vdo.ninja/?view=gMgReib&fps=30&bitrate=800",
       "taken": false,
       "catches": {
         "Avenitia": {
