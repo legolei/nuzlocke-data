@@ -625,7 +625,7 @@
       "name": "Kevin",
       "color": "green",
       "team": [
-        "Plinfa",
+        null,
         "Sumpex",
         null,
         "Matrifol",
@@ -648,7 +648,7 @@
       "taken": false,
       "catches": {
         "Avenitia": {
-          "name": "Plinfa",
+          "name": "Plip",
           "status": "Lebendig"
         },
         "Route 1": {
