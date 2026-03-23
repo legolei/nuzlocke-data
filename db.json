@@ -2169,7 +2169,7 @@
       "name": "Fabian",
       "color": "yellow",
       "team": [
-        "Mollimorba",
+        null,
         null,
         null,
         null,
@@ -2193,7 +2193,7 @@
       "catches": {
         "Avenitia": {
           "name": "Mollimorba",
-          "status": "Lebendig"
+          "status": ""
         },
         "Route 1": {
           "name": "Raichu",
