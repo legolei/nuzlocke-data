@@ -6,7 +6,7 @@
       "color": "red",
       "team": [
         "Floink",
-        "Iksbat",
+        null,
         null,
         null,
         null,
@@ -32,7 +32,7 @@
           "status": "Lebendig"
         },
         "Route 1": {
-          "name": "Iksbat",
+          "name": "",
           "status": "Lebendig"
         },
         "Eventura City": {
