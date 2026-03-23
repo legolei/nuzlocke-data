@@ -2171,7 +2171,7 @@
       "team": [
         "Gelatini",
         "Camerupt",
-        null,
+        "Deponitox",
         null,
         null,
         null
@@ -2201,7 +2201,7 @@
         },
         "Eventura City": {
           "name": "Deponitox",
-          "status": ""
+          "status": "Lebendig"
         },
         "Route 2": {
           "name": "Camerupt",
