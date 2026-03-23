@@ -8,7 +8,7 @@
         null,
         null,
         null,
-        "Zurrokex",
+        null,
         null,
         "Nidoking"
       ],
@@ -22,7 +22,7 @@
         false,
         false
       ],
-      "deaths": 6,
+      "deaths": 7,
       "mainStream": "https://vdo.ninja/?view=Y9MsUri&fps=30&bitrate=800",
       "touchStream": "https://vdo.ninja/?view=Y9MsUri&fps=30&bitrate=800",
       "taken": false,
@@ -49,7 +49,7 @@
         },
         "Route 3": {
           "name": "Zurrokex",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Orion City": {
           "name": "",
@@ -2544,6 +2544,11 @@
     },
     {
       "name": "Laschoking",
+      "player": 0,
+      "color": "red"
+    },
+    {
+      "name": "Zurrokex",
       "player": 0,
       "color": "red"
     }
