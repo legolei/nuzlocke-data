@@ -2170,7 +2170,7 @@
       "color": "yellow",
       "team": [
         "Kapuno",
-        "Grillchita",
+        null,
         "Absol",
         "Kastadur",
         "Armaldo",
@@ -2197,7 +2197,7 @@
         },
         "Route 1": {
           "name": "Grillchita",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Eventura City": {
           "name": "",
