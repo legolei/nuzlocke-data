@@ -324,7 +324,7 @@
       ],
       "badges": [
         true,
-        false,
+        true,
         false,
         false,
         false,
@@ -1256,7 +1256,7 @@
         false,
         false
       ],
-      "deaths": 1,
+      "deaths": 0,
       "mainStream": "https://vdo.ninja/?view=3AwSGQE&fps=30&bitrate=800",
       "touchStream": "https://vdo.ninja/?view=3AwSGQE&fps=30&bitrate=800",
       "taken": false,
@@ -2516,11 +2516,6 @@
       "name": "Stolloss",
       "player": 2,
       "color": "green"
-    },
-    {
-      "name": "Frosdedje",
-      "player": 4,
-      "color": "orange"
     }
   ]
 }
