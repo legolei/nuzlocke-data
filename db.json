@@ -22,7 +22,7 @@
         false,
         false
       ],
-      "deaths": 1,
+      "deaths": 8,
       "mainStream": "https://vdo.ninja/?view=Y9MsUri&fps=30&bitrate=800",
       "touchStream": "https://vdo.ninja/?view=Y9MsUri&fps=30&bitrate=800",
       "taken": false,
@@ -1877,8 +1877,8 @@
         false
       ],
       "deaths": 0,
-      "mainStream": "https://vdo.ninja/?view=3jkKYSH&fps=30&bitrate=800",
-      "touchStream": "https://vdo.ninja/?view=3jkKYSH&fps=30&bitrate=800",
+      "mainStream": "https://vdo.ninja/?view=V5mcRuB&fps=30&bitrate=800",
+      "touchStream": "https://vdo.ninja/?view=V5mcRuB&fps=30&bitrate=800",
       "taken": false,
       "catches": {
         "Avenitia": {
@@ -2493,6 +2493,16 @@
       "color": "green"
     },
     {
+      "name": "Kinoso",
+      "player": 0,
+      "color": "red"
+    },
+    {
+      "name": "Karpador",
+      "player": 0,
+      "color": "red"
+    },
+    {
       "name": "Smogon",
       "player": 2,
       "color": "green"
@@ -2516,6 +2526,31 @@
       "name": "Zwirrlicht",
       "player": 1,
       "color": "blue"
+    },
+    {
+      "name": "Anorith",
+      "player": 0,
+      "color": "red"
+    },
+    {
+      "name": "Reptain",
+      "player": 0,
+      "color": "red"
+    },
+    {
+      "name": "Riolu",
+      "player": 0,
+      "color": "red"
+    },
+    {
+      "name": "Laschoking",
+      "player": 0,
+      "color": "red"
+    },
+    {
+      "name": "Zurrokex",
+      "player": 0,
+      "color": "red"
     },
     {
       "name": "Nidoking",
