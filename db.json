@@ -316,7 +316,7 @@
       "color": "blue",
       "team": [
         "Moorabbel",
-        "Zwirrlicht",
+        null,
         "Snibunna",
         "Sharfax",
         "Hundemon",
@@ -332,7 +332,7 @@
         false,
         false
       ],
-      "deaths": 0,
+      "deaths": 1,
       "mainStream": "https://vdo.ninja/?view=DV4Z6SZ&fps=30&bitrate=800",
       "touchStream": "https://vdo.ninja/?view=DV4Z6SZ&fps=30&bitrate=800",
       "taken": false,
@@ -343,7 +343,7 @@
         },
         "Route 1": {
           "name": "Zwirrlicht",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Eventura City": {
           "name": "",
@@ -2521,6 +2521,11 @@
       "name": "Pliprin",
       "player": 2,
       "color": "green"
+    },
+    {
+      "name": "Zwirrlicht",
+      "player": 1,
+      "color": "blue"
     }
   ]
 }
