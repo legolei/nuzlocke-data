@@ -316,7 +316,7 @@
       "color": "blue",
       "team": [
         "Moorabbel",
-        "Zwirrlicht",
+        null,
         "Snibunna",
         "Sharfax",
         "Hundemon",
@@ -343,7 +343,7 @@
         },
         "Route 1": {
           "name": "Zwirrlicht",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Eventura City": {
           "name": "",
