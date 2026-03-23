@@ -625,7 +625,7 @@
       "name": "Kevin",
       "color": "green",
       "team": [
-        "Milza",
+        null,
         "Fukano",
         "Rameidon",
         null,
@@ -642,14 +642,14 @@
         false,
         false
       ],
-      "deaths": 0,
+      "deaths": 1,
       "mainStream": "https://vdo.ninja/?view=uqBvj6i&fps=30&bitrate=800",
       "touchStream": "https://vdo.ninja/?view=uqBvj6i&fps=30&bitrate=800",
       "taken": false,
       "catches": {
         "Avenitia": {
           "name": "Milza",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Route 1": {
           "name": "Fukano",
@@ -2496,6 +2496,11 @@
       "name": "Krebscorps",
       "player": 6,
       "color": "pink"
+    },
+    {
+      "name": "Milza",
+      "player": 2,
+      "color": "green"
     }
   ]
 }
