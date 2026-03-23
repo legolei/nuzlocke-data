@@ -1257,8 +1257,8 @@
         false
       ],
       "deaths": 0,
-      "mainStream": "https://vdo.ninja/?view=3AwSGQE&fps=30&bitrate=1500",
-      "touchStream": "https://vdo.ninja/?view=3AwSGQE&fps=30&bitrate=1500",
+      "mainStream": "https://vdo.ninja/?view=3AwSGQE&fps=30&bitrate=800",
+      "touchStream": "https://vdo.ninja/?view=3AwSGQE&fps=30&bitrate=800",
       "taken": false,
       "catches": {
         "Avenitia": {
