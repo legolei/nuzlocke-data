@@ -642,7 +642,7 @@
         false,
         false
       ],
-      "deaths": 7,
+      "deaths": 6,
       "mainStream": "https://vdo.ninja/?view=uqBvj6i&fps=30&bitrate=800",
       "touchStream": "https://vdo.ninja/?view=uqBvj6i&fps=30&bitrate=800",
       "taken": false,
@@ -653,7 +653,7 @@
         },
         "Route 1": {
           "name": "Aerodactyl",
-          "status": ""
+          "status": "Lebendig"
         },
         "Eventura City": {
           "name": "",
@@ -2486,11 +2486,6 @@
       "name": "Wingull",
       "player": 5,
       "color": "cyan"
-    },
-    {
-      "name": "Aerodactyl",
-      "player": 2,
-      "color": "green"
     },
     {
       "name": "Smogon",
