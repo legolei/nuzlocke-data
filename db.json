@@ -642,7 +642,7 @@
         false,
         false
       ],
-      "deaths": 1,
+      "deaths": 0,
       "mainStream": "https://vdo.ninja/?view=uqBvj6i&fps=30&bitrate=800",
       "touchStream": "https://vdo.ninja/?view=uqBvj6i&fps=30&bitrate=800",
       "taken": false,
@@ -697,7 +697,7 @@
         },
         "Route 4": {
           "name": "Golking",
-          "status": ""
+          "status": "Lebendig"
         },
         "Route 4 - Statik": {
           "name": "",
@@ -2491,11 +2491,6 @@
       "name": "Zwirrlicht",
       "player": 1,
       "color": "blue"
-    },
-    {
-      "name": "Golking",
-      "player": 2,
-      "color": "green"
     }
   ]
 }
