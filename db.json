@@ -2173,7 +2173,7 @@
         "Grillchita",
         "Absol",
         "Kastadur",
-        null,
+        "Armaldo",
         null
       ],
       "badges": [
@@ -2213,7 +2213,7 @@
         },
         "Route 3": {
           "name": "Armaldo",
-          "status": ""
+          "status": "Lebendig"
         },
         "Orion City": {
           "name": "",
