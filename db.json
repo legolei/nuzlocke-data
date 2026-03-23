@@ -1870,7 +1870,7 @@
         false,
         false
       ],
-      "deaths": 3,
+      "deaths": 2,
       "mainStream": "https://vdo.ninja/?view=3jkKYSH&fps=30&bitrate=1500",
       "touchStream": "https://vdo.ninja/?view=3jkKYSH&fps=30&bitrate=1500",
       "taken": false,
@@ -2489,11 +2489,6 @@
       "name": "Aerodactyl",
       "player": 2,
       "color": "green"
-    },
-    {
-      "name": "Noctuh",
-      "player": 6,
-      "color": "pink"
     },
     {
       "name": "Kinoso",
