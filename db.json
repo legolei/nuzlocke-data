@@ -1853,7 +1853,7 @@
       "name": "Antonino",
       "color": "pink",
       "team": [
-        "Ottaro",
+        null,
         null,
         null,
         null,
@@ -1876,7 +1876,7 @@
       "taken": false,
       "catches": {
         "Avenitia": {
-          "name": "Ottaro",
+          "name": "",
           "status": "Lebendig"
         },
         "Route 1": {
