@@ -22,7 +22,7 @@
         false,
         false
       ],
-      "deaths": 3,
+      "deaths": 4,
       "mainStream": "https://vdo.ninja/?view=Y9MsUri&fps=30&bitrate=800",
       "touchStream": "https://vdo.ninja/?view=Y9MsUri&fps=30&bitrate=800",
       "taken": false,
@@ -2516,6 +2516,11 @@
       "name": "Zwirrlicht",
       "player": 1,
       "color": "blue"
+    },
+    {
+      "name": "Riolu",
+      "player": 0,
+      "color": "red"
     },
     {
       "name": "Laschoking",
