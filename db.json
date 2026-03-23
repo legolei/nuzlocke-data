@@ -1240,7 +1240,7 @@
       "color": "orange",
       "team": [
         null,
-        "Kikugi",
+        null,
         null,
         null,
         null,
@@ -1266,8 +1266,8 @@
           "status": ""
         },
         "Route 1": {
-          "name": "Kikugi",
-          "status": "Lebendig"
+          "name": "",
+          "status": ""
         },
         "Eventura City": {
           "name": "",
