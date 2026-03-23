@@ -642,7 +642,7 @@
         false,
         false
       ],
-      "deaths": 1,
+      "deaths": 0,
       "mainStream": "https://vdo.ninja/?view=uqBvj6i&fps=30&bitrate=800",
       "touchStream": "https://vdo.ninja/?view=uqBvj6i&fps=30&bitrate=800",
       "taken": false,
@@ -660,8 +660,8 @@
           "status": ""
         },
         "Route 2": {
-          "name": "Rameidon",
-          "status": "Tot"
+          "name": "",
+          "status": "Lebendig"
         },
         "Accumula Town": {
           "name": "",
@@ -2496,11 +2496,6 @@
       "name": "Krebscorps",
       "player": 6,
       "color": "pink"
-    },
-    {
-      "name": "Rameidon",
-      "player": 2,
-      "color": "green"
     }
   ]
 }
