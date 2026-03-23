@@ -627,7 +627,7 @@
       "team": [
         null,
         null,
-        "Rameidon",
+        null,
         null,
         null,
         null
@@ -642,7 +642,7 @@
         false,
         false
       ],
-      "deaths": 3,
+      "deaths": 4,
       "mainStream": "https://vdo.ninja/?view=uqBvj6i&fps=30&bitrate=800",
       "touchStream": "https://vdo.ninja/?view=uqBvj6i&fps=30&bitrate=800",
       "taken": false,
@@ -661,7 +661,7 @@
         },
         "Route 2": {
           "name": "Rameidon",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Accumula Town": {
           "name": "Pottrott",
@@ -2509,6 +2509,11 @@
     },
     {
       "name": "Fukano",
+      "player": 2,
+      "color": "green"
+    },
+    {
+      "name": "Rameidon",
       "player": 2,
       "color": "green"
     }
