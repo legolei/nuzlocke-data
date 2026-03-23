@@ -1859,7 +1859,7 @@
       "name": "Antonino",
       "color": "pink",
       "team": [
-        "Taubsi",
+        null,
         null,
         null,
         null,
@@ -1882,7 +1882,7 @@
       "taken": false,
       "catches": {
         "Avenitia": {
-          "name": "Taubsi",
+          "name": "",
           "status": "Lebendig"
         },
         "Route 1": {
