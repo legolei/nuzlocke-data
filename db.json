@@ -7,7 +7,7 @@
       "team": [
         null,
         null,
-        "Laschoking",
+        null,
         "Zurrokex",
         null,
         "Nidoking"
@@ -22,7 +22,7 @@
         false,
         false
       ],
-      "deaths": 5,
+      "deaths": 6,
       "mainStream": "https://vdo.ninja/?view=Y9MsUri&fps=30&bitrate=800",
       "touchStream": "https://vdo.ninja/?view=Y9MsUri&fps=30&bitrate=800",
       "taken": false,
@@ -61,7 +61,7 @@
         },
         "Traumbrache": {
           "name": "Laschoking",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Orion City Arena": {
           "name": "",
@@ -2539,6 +2539,11 @@
     },
     {
       "name": "Riolu",
+      "player": 0,
+      "color": "red"
+    },
+    {
+      "name": "Laschoking",
       "player": 0,
       "color": "red"
     }
