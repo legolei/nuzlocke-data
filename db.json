@@ -627,7 +627,7 @@
       "team": [
         "Plinfa",
         "Sumpex",
-        "Stolloss",
+        null,
         "Matrifol",
         null,
         null
@@ -642,7 +642,7 @@
         false,
         false
       ],
-      "deaths": 3,
+      "deaths": 4,
       "mainStream": "https://vdo.ninja/?view=uqBvj6i&fps=30&bitrate=800",
       "touchStream": "https://vdo.ninja/?view=uqBvj6i&fps=30&bitrate=800",
       "taken": false,
@@ -661,7 +661,7 @@
         },
         "Route 2": {
           "name": "Stolloss",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Accumula Town": {
           "name": "Smogon",
@@ -2509,6 +2509,11 @@
     },
     {
       "name": "Rattikarl",
+      "player": 2,
+      "color": "green"
+    },
+    {
+      "name": "Stolloss",
       "player": 2,
       "color": "green"
     }
