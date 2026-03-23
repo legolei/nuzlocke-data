@@ -7,7 +7,7 @@
       "team": [
         "Floink",
         "Iksbat",
-        "Ditto",
+        null,
         null,
         null,
         null
@@ -40,7 +40,7 @@
           "status": ""
         },
         "Route 2": {
-          "name": "Ditto",
+          "name": "",
           "status": "Lebendig"
         },
         "Accumula Town": {
