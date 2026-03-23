@@ -642,7 +642,7 @@
         false,
         false
       ],
-      "deaths": 3,
+      "deaths": 1,
       "mainStream": "https://vdo.ninja/?view=uqBvj6i&fps=30&bitrate=800",
       "touchStream": "https://vdo.ninja/?view=uqBvj6i&fps=30&bitrate=800",
       "taken": false,
@@ -669,7 +669,7 @@
         },
         "Route 3": {
           "name": "Sumpex",
-          "status": ""
+          "status": "Lebendig"
         },
         "Orion City": {
           "name": "",
@@ -2488,19 +2488,9 @@
       "color": "cyan"
     },
     {
-      "name": "Pliprin",
-      "player": 2,
-      "color": "green"
-    },
-    {
       "name": "Zwirrlicht",
       "player": 1,
       "color": "blue"
-    },
-    {
-      "name": "Sumpex",
-      "player": 2,
-      "color": "green"
     },
     {
       "name": "Golking",
