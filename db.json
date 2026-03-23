@@ -649,7 +649,7 @@
       "catches": {
         "Avenitia": {
           "name": "mil",
-          "status": "Lebendig"
+          "status": ""
         },
         "Route 1": {
           "name": "",
@@ -664,7 +664,7 @@
           "status": ""
         },
         "Accumula Town": {
-          "name": "Smogon",
+          "name": "",
           "status": ""
         },
         "Route 3": {
@@ -1883,7 +1883,7 @@
       "catches": {
         "Avenitia": {
           "name": "",
-          "status": "Lebendig"
+          "status": ""
         },
         "Route 1": {
           "name": "",
