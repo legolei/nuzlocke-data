@@ -642,7 +642,7 @@
         false,
         false
       ],
-      "deaths": 6,
+      "deaths": 5,
       "mainStream": "https://vdo.ninja/?view=uqBvj6i&fps=30&bitrate=800",
       "touchStream": "https://vdo.ninja/?view=uqBvj6i&fps=30&bitrate=800",
       "taken": false,
@@ -665,7 +665,7 @@
         },
         "Accumula Town": {
           "name": "Smogon",
-          "status": ""
+          "status": "Lebendig"
         },
         "Route 3": {
           "name": "Sumpex",
@@ -2486,11 +2486,6 @@
       "name": "Wingull",
       "player": 5,
       "color": "cyan"
-    },
-    {
-      "name": "Smogon",
-      "player": 2,
-      "color": "green"
     },
     {
       "name": "Rattikarl",
