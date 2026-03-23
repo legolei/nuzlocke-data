@@ -10,7 +10,7 @@
         null,
         null,
         null,
-        "Nidoking"
+        null
       ],
       "badges": [
         true,
@@ -22,7 +22,7 @@
         false,
         false
       ],
-      "deaths": 7,
+      "deaths": 8,
       "mainStream": "https://vdo.ninja/?view=Y9MsUri&fps=30&bitrate=800",
       "touchStream": "https://vdo.ninja/?view=Y9MsUri&fps=30&bitrate=800",
       "taken": false,
@@ -69,7 +69,7 @@
         },
         "Ewigenau": {
           "name": "Nidoking",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Ewigenau Arena": {
           "name": "",
@@ -2549,6 +2549,11 @@
     },
     {
       "name": "Zurrokex",
+      "player": 0,
+      "color": "red"
+    },
+    {
+      "name": "Nidoking",
       "player": 0,
       "color": "red"
     }
