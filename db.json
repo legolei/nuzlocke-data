@@ -625,7 +625,7 @@
       "name": "Kevin",
       "color": "green",
       "team": [
-        null,
+        "Pliprin",
         "Sumpex",
         null,
         "Matrifol",
@@ -2196,7 +2196,7 @@
           "status": "Lebendig"
         },
         "Route 1": {
-          "name": "Honweisel",
+          "name": "",
           "status": ""
         },
         "Eventura City": {
