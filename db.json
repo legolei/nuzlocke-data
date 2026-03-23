@@ -2170,7 +2170,7 @@
       "color": "yellow",
       "team": [
         "Gelatini",
-        "Camerupt",
+        null,
         "Deponitox",
         null,
         null,
@@ -2205,7 +2205,7 @@
         },
         "Route 2": {
           "name": "Camerupt",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Accumula Town": {
           "name": "",
