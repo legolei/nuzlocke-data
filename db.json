@@ -642,14 +642,14 @@
         false,
         false
       ],
-      "deaths": 4,
+      "deaths": 3,
       "mainStream": "https://vdo.ninja/?view=uqBvj6i&fps=30&bitrate=800",
       "touchStream": "https://vdo.ninja/?view=uqBvj6i&fps=30&bitrate=800",
       "taken": false,
       "catches": {
         "Avenitia": {
           "name": "Milza",
-          "status": "Tot"
+          "status": "Lebendig"
         },
         "Route 1": {
           "name": "Fukano",
@@ -2496,11 +2496,6 @@
       "name": "Krebscorps",
       "player": 6,
       "color": "pink"
-    },
-    {
-      "name": "Milza",
-      "player": 2,
-      "color": "green"
     },
     {
       "name": "Pottrott",
