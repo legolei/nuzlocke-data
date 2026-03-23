@@ -2173,7 +2173,7 @@
         "Raichu",
         "Blitza",
         "Zigzachs",
-        "Pachirisu",
+        null,
         null
       ],
       "badges": [
@@ -2233,7 +2233,7 @@
         },
         "Ewigenau": {
           "name": "Pachirisu",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Ewigenau Arena": {
           "name": "",
