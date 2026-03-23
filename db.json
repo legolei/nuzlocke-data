@@ -9,7 +9,7 @@
         "Riolu",
         "Laschoking",
         "Zurrokex",
-        "Anorith",
+        null,
         "Nidoking"
       ],
       "badges": [
@@ -22,7 +22,7 @@
         false,
         false
       ],
-      "deaths": 2,
+      "deaths": 3,
       "mainStream": "https://vdo.ninja/?view=Y9MsUri&fps=30&bitrate=800",
       "touchStream": "https://vdo.ninja/?view=Y9MsUri&fps=30&bitrate=800",
       "taken": false,
@@ -45,7 +45,7 @@
         },
         "Accumula Town": {
           "name": "Anorith",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Route 3": {
           "name": "Zurrokex",
@@ -2526,6 +2526,11 @@
       "name": "Zwirrlicht",
       "player": 1,
       "color": "blue"
+    },
+    {
+      "name": "Anorith",
+      "player": 0,
+      "color": "red"
     }
   ]
 }
