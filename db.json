@@ -22,7 +22,7 @@
         false,
         false
       ],
-      "deaths": 7,
+      "deaths": 5,
       "mainStream": "https://vdo.ninja/?view=Y9MsUri&fps=30&bitrate=800",
       "touchStream": "https://vdo.ninja/?view=Y9MsUri&fps=30&bitrate=800",
       "taken": false,
@@ -2493,11 +2493,6 @@
       "color": "green"
     },
     {
-      "name": "Karpador",
-      "player": 0,
-      "color": "red"
-    },
-    {
       "name": "Smogon",
       "player": 2,
       "color": "green"
@@ -2521,11 +2516,6 @@
       "name": "Zwirrlicht",
       "player": 1,
       "color": "blue"
-    },
-    {
-      "name": "Anorith",
-      "player": 0,
-      "color": "red"
     },
     {
       "name": "Reptain",
