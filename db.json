@@ -661,11 +661,11 @@
         },
         "Route 2": {
           "name": "",
-          "status": "Lebendig"
+          "status": ""
         },
         "Accumula Town": {
           "name": "",
-          "status": "Tot"
+          "status": ""
         },
         "Route 3": {
           "name": "",
@@ -2171,7 +2171,7 @@
       "team": [
         "Mollimorba",
         "Raichu",
-        null,
+        "Blitza",
         null,
         null,
         null
@@ -2213,7 +2213,7 @@
         },
         "Route 3": {
           "name": "Blitza",
-          "status": "Tot"
+          "status": "Lebendig"
         },
         "Orion City": {
           "name": "Flegmon",
