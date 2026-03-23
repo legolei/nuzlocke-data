@@ -2171,7 +2171,7 @@
       "team": [
         null,
         null,
-        "Deponitox",
+        null,
         null,
         null,
         null
@@ -2201,11 +2201,11 @@
         },
         "Eventura City": {
           "name": "Deponitox",
-          "status": "Lebendig"
+          "status": ""
         },
         "Route 2": {
           "name": "",
-          "status": "Tot"
+          "status": ""
         },
         "Accumula Town": {
           "name": "",
