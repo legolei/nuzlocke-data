@@ -1256,7 +1256,7 @@
         false,
         false
       ],
-      "deaths": 3,
+      "deaths": 2,
       "mainStream": "https://vdo.ninja/?view=3AwSGQE&fps=30&bitrate=800",
       "touchStream": "https://vdo.ninja/?view=3AwSGQE&fps=30&bitrate=800",
       "taken": false,
@@ -2524,11 +2524,6 @@
     },
     {
       "name": "Fiffyen",
-      "player": 4,
-      "color": "orange"
-    },
-    {
-      "name": "Stollunior",
       "player": 4,
       "color": "orange"
     }
