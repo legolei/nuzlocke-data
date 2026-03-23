@@ -29,7 +29,7 @@
       "catches": {
         "Avenitia": {
           "name": "",
-          "status": "Tot"
+          "status": ""
         },
         "Route 1": {
           "name": "",
@@ -1239,7 +1239,7 @@
       "name": "Richard",
       "color": "orange",
       "team": [
-        "Sheinux",
+        null,
         null,
         null,
         null,
@@ -1263,7 +1263,7 @@
       "catches": {
         "Avenitia": {
           "name": "Sheinux",
-          "status": "Lebendig"
+          "status": ""
         },
         "Route 1": {
           "name": "",
