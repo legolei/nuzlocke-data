@@ -625,7 +625,7 @@
       "name": "Kevin",
       "color": "green",
       "team": [
-        "Sumpex",
+        null,
         "Golking",
         null,
         null,
@@ -642,7 +642,7 @@
         false,
         false
       ],
-      "deaths": 5,
+      "deaths": 6,
       "mainStream": "https://vdo.ninja/?view=uqBvj6i&fps=30&bitrate=800",
       "touchStream": "https://vdo.ninja/?view=uqBvj6i&fps=30&bitrate=800",
       "taken": false,
@@ -669,7 +669,7 @@
         },
         "Route 3": {
           "name": "Sumpex",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Orion City": {
           "name": "",
@@ -2516,6 +2516,11 @@
       "name": "Zwirrlicht",
       "player": 1,
       "color": "blue"
+    },
+    {
+      "name": "Sumpex",
+      "player": 2,
+      "color": "green"
     }
   ]
 }
