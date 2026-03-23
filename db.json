@@ -625,7 +625,7 @@
       "name": "Kevin",
       "color": "green",
       "team": [
-        "Pottrott",
+        null,
         "Fukano",
         "Rameidon",
         null,
@@ -642,7 +642,7 @@
         false,
         false
       ],
-      "deaths": 1,
+      "deaths": 2,
       "mainStream": "https://vdo.ninja/?view=uqBvj6i&fps=30&bitrate=800",
       "touchStream": "https://vdo.ninja/?view=uqBvj6i&fps=30&bitrate=800",
       "taken": false,
@@ -665,7 +665,7 @@
         },
         "Accumula Town": {
           "name": "Pottrott",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Route 3": {
           "name": "",
@@ -2499,6 +2499,11 @@
     },
     {
       "name": "Milza",
+      "player": 2,
+      "color": "green"
+    },
+    {
+      "name": "Pottrott",
       "player": 2,
       "color": "green"
     }
