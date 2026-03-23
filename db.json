@@ -1239,7 +1239,7 @@
       "name": "Richard",
       "color": "orange",
       "team": [
-        "Ganovil",
+        null,
         null,
         null,
         null,
@@ -1263,7 +1263,7 @@
       "catches": {
         "Avenitia": {
           "name": "Ganovil",
-          "status": "Lebendig"
+          "status": ""
         },
         "Route 1": {
           "name": "",
