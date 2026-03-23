@@ -6,7 +6,7 @@
       "color": "red",
       "team": [
         null,
-        "Riolu",
+        null,
         "Laschoking",
         "Zurrokex",
         null,
@@ -22,7 +22,7 @@
         false,
         false
       ],
-      "deaths": 4,
+      "deaths": 5,
       "mainStream": "https://vdo.ninja/?view=Y9MsUri&fps=30&bitrate=800",
       "touchStream": "https://vdo.ninja/?view=Y9MsUri&fps=30&bitrate=800",
       "taken": false,
@@ -33,7 +33,7 @@
         },
         "Route 1": {
           "name": "Riolu",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Eventura City": {
           "name": "Kinoso",
@@ -2534,6 +2534,11 @@
     },
     {
       "name": "Reptain",
+      "player": 0,
+      "color": "red"
+    },
+    {
+      "name": "Riolu",
       "player": 0,
       "color": "red"
     }
