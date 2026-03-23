@@ -32,7 +32,7 @@
           "status": "Lebendig"
         },
         "Route 1": {
-          "name": "x",
+          "name": "",
           "status": ""
         },
         "Eventura City": {
@@ -1239,7 +1239,7 @@
       "name": "Richard",
       "color": "orange",
       "team": [
-        "Larvitar",
+        null,
         "Kikugi",
         null,
         null,
@@ -1263,7 +1263,7 @@
       "catches": {
         "Avenitia": {
           "name": "Larvitar",
-          "status": "Lebendig"
+          "status": ""
         },
         "Route 1": {
           "name": "Kikugi",
