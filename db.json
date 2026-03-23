@@ -2171,7 +2171,7 @@
       "team": [
         "Mollimorba",
         "Raichu",
-        "Chelast",
+        null,
         null,
         null,
         null
@@ -2201,7 +2201,7 @@
         },
         "Eventura City": {
           "name": "Chelast",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Route 2": {
           "name": "Ku",
