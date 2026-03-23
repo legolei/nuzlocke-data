@@ -2170,7 +2170,7 @@
       "color": "yellow",
       "team": [
         "Mollimorba",
-        "Raichu",
+        null,
         null,
         null,
         null,
@@ -2197,7 +2197,7 @@
         },
         "Route 1": {
           "name": "Raichu",
-          "status": "Lebendig"
+          "status": ""
         },
         "Eventura City": {
           "name": "t",
