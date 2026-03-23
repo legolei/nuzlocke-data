@@ -626,7 +626,7 @@
       "color": "green",
       "team": [
         null,
-        "Golking",
+        null,
         null,
         null,
         null,
@@ -642,7 +642,7 @@
         false,
         false
       ],
-      "deaths": 6,
+      "deaths": 7,
       "mainStream": "https://vdo.ninja/?view=uqBvj6i&fps=30&bitrate=800",
       "touchStream": "https://vdo.ninja/?view=uqBvj6i&fps=30&bitrate=800",
       "taken": false,
@@ -697,7 +697,7 @@
         },
         "Route 4": {
           "name": "Golking",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Route 4 - Statik": {
           "name": "",
@@ -2519,6 +2519,11 @@
     },
     {
       "name": "Sumpex",
+      "player": 2,
+      "color": "green"
+    },
+    {
+      "name": "Golking",
       "player": 2,
       "color": "green"
     }
