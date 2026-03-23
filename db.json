@@ -1256,7 +1256,7 @@
         false,
         false
       ],
-      "deaths": 2,
+      "deaths": 1,
       "mainStream": "https://vdo.ninja/?view=3AwSGQE&fps=30&bitrate=800",
       "touchStream": "https://vdo.ninja/?view=3AwSGQE&fps=30&bitrate=800",
       "taken": false,
@@ -2519,11 +2519,6 @@
     },
     {
       "name": "Frosdedje",
-      "player": 4,
-      "color": "orange"
-    },
-    {
-      "name": "Fiffyen",
       "player": 4,
       "color": "orange"
     }
