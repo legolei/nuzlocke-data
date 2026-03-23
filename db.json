@@ -625,7 +625,7 @@
       "name": "Kevin",
       "color": "green",
       "team": [
-        "Pliprin",
+        null,
         "Sumpex",
         "Matrifol",
         null,
@@ -642,14 +642,14 @@
         false,
         false
       ],
-      "deaths": 4,
+      "deaths": 5,
       "mainStream": "https://vdo.ninja/?view=uqBvj6i&fps=30&bitrate=800",
       "touchStream": "https://vdo.ninja/?view=uqBvj6i&fps=30&bitrate=800",
       "taken": false,
       "catches": {
         "Avenitia": {
           "name": "Pliprin",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Route 1": {
           "name": "Aerodactyl",
@@ -2514,6 +2514,11 @@
     },
     {
       "name": "Stolloss",
+      "player": 2,
+      "color": "green"
+    },
+    {
+      "name": "Pliprin",
       "player": 2,
       "color": "green"
     }
