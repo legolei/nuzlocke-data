@@ -1240,7 +1240,7 @@
       "color": "orange",
       "team": [
         "Stollunior",
-        "Fiffyen",
+        null,
         null,
         null,
         null,
@@ -1256,7 +1256,7 @@
         false,
         false
       ],
-      "deaths": 1,
+      "deaths": 2,
       "mainStream": "https://vdo.ninja/?view=3AwSGQE&fps=30&bitrate=800",
       "touchStream": "https://vdo.ninja/?view=3AwSGQE&fps=30&bitrate=800",
       "taken": false,
@@ -1267,7 +1267,7 @@
         },
         "Route 1": {
           "name": "Fiffyen",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Eventura City": {
           "name": "",
@@ -2519,6 +2519,11 @@
     },
     {
       "name": "Frosdedje",
+      "player": 4,
+      "color": "orange"
+    },
+    {
+      "name": "Fiffyen",
       "player": 4,
       "color": "orange"
     }
