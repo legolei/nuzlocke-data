@@ -2171,7 +2171,7 @@
       "team": [
         "Mollimorba",
         "Raichu",
-        "Blitza",
+        null,
         null,
         null,
         null
@@ -2213,7 +2213,7 @@
         },
         "Route 3": {
           "name": "Blitza",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Orion City": {
           "name": "Flegmon",
