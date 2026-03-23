@@ -1241,7 +1241,7 @@
       "team": [
         "Stollunior",
         "Fiffyen",
-        "Frosdedje",
+        null,
         null,
         null,
         null
@@ -1256,7 +1256,7 @@
         false,
         false
       ],
-      "deaths": 0,
+      "deaths": 1,
       "mainStream": "https://vdo.ninja/?view=3AwSGQE&fps=30&bitrate=800",
       "touchStream": "https://vdo.ninja/?view=3AwSGQE&fps=30&bitrate=800",
       "taken": false,
@@ -1275,7 +1275,7 @@
         },
         "Route 2": {
           "name": "Frosdedje",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Accumula Town": {
           "name": "",
@@ -2516,6 +2516,11 @@
       "name": "Stolloss",
       "player": 2,
       "color": "green"
+    },
+    {
+      "name": "Frosdedje",
+      "player": 4,
+      "color": "orange"
     }
   ]
 }
