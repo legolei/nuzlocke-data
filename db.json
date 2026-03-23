@@ -642,7 +642,7 @@
         false,
         false
       ],
-      "deaths": 5,
+      "deaths": 4,
       "mainStream": "https://vdo.ninja/?view=uqBvj6i&fps=30&bitrate=800",
       "touchStream": "https://vdo.ninja/?view=uqBvj6i&fps=30&bitrate=800",
       "taken": false,
@@ -2486,11 +2486,6 @@
       "name": "Wingull",
       "player": 5,
       "color": "cyan"
-    },
-    {
-      "name": "Rattikarl",
-      "player": 2,
-      "color": "green"
     },
     {
       "name": "Stolloss",
