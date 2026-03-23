@@ -1860,7 +1860,7 @@
       "color": "pink",
       "team": [
         "Ottaro",
-        "Krebscorps",
+        null,
         null,
         null,
         null,
@@ -1876,7 +1876,7 @@
         false,
         false
       ],
-      "deaths": 0,
+      "deaths": 1,
       "mainStream": "https://vdo.ninja/?view=gMgReib&fps=30&bitrate=800",
       "touchStream": "https://vdo.ninja/?view=gMgReib&fps=30&bitrate=800",
       "taken": false,
@@ -1891,7 +1891,7 @@
         },
         "Eventura City": {
           "name": "Krebscorps",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Route 2": {
           "name": "",
@@ -2491,6 +2491,11 @@
       "name": "Zwirrlicht",
       "player": 1,
       "color": "blue"
+    },
+    {
+      "name": "Krebscorps",
+      "player": 6,
+      "color": "pink"
     }
   ]
 }
