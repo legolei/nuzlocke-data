@@ -1860,7 +1860,7 @@
       "color": "pink",
       "team": [
         null,
-        "Rettan",
+        null,
         null,
         null,
         null,
@@ -1886,7 +1886,7 @@
           "status": ""
         },
         "Route 1": {
-          "name": "Rettan",
+          "name": "",
           "status": "Lebendig"
         },
         "Eventura City": {
