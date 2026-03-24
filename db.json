@@ -2169,7 +2169,7 @@
       "name": "Fabian",
       "color": "yellow",
       "team": [
-        "Ottaro",
+        null,
         null,
         null,
         null,
@@ -2192,11 +2192,11 @@
       "taken": false,
       "catches": {
         "Avenitia": {
-          "name": "Ottaro",
+          "name": "",
           "status": "Lebendig"
         },
         "Route 1": {
-          "name": "Barschuft",
+          "name": "",
           "status": "Blockiert"
         },
         "Eventura City": {
