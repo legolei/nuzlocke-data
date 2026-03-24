@@ -2171,7 +2171,7 @@
       "team": [
         null,
         "Bisaknosp",
-        "Tyracroc",
+        null,
         null,
         null,
         null
@@ -2205,7 +2205,7 @@
         },
         "Route 2": {
           "name": "Tyracroc",
-          "status": "Lebendig"
+          "status": ""
         },
         "Accumula Town": {
           "name": "Amonitas",
