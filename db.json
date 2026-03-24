@@ -2169,7 +2169,7 @@
       "name": "Fabian",
       "color": "yellow",
       "team": [
-        "Rihorn",
+        null,
         "Lombrero",
         "Aquana",
         null,
@@ -2192,7 +2192,7 @@
       "taken": false,
       "catches": {
         "Avenitia": {
-          "name": "Rihorn",
+          "name": "",
           "status": "Lebendig"
         },
         "Route 1": {
