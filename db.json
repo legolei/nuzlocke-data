@@ -2170,7 +2170,7 @@
       "color": "yellow",
       "team": [
         "Ottaro",
-        null,
+        "Wingull",
         null,
         null,
         null,
@@ -2205,7 +2205,7 @@
         },
         "Route 2": {
           "name": "Wingull",
-          "status": ""
+          "status": "Lebendig"
         },
         "Accumula Town": {
           "name": "",
