@@ -2170,7 +2170,7 @@
       "color": "yellow",
       "team": [
         "Rihorn",
-        null,
+        "Lombrero",
         null,
         null,
         null,
@@ -2204,8 +2204,8 @@
           "status": ""
         },
         "Route 2": {
-          "name": "Lomb",
-          "status": ""
+          "name": "Lombrero",
+          "status": "Lebendig"
         },
         "Accumula Town": {
           "name": "",
