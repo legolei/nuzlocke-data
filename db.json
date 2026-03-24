@@ -2171,7 +2171,7 @@
       "team": [
         "Kapuno",
         null,
-        "Absol",
+        null,
         null,
         null,
         null
@@ -2205,7 +2205,7 @@
         },
         "Route 2": {
           "name": "Absol",
-          "status": "Lebendig"
+          "status": ""
         },
         "Accumula Town": {
           "name": "Kastadur",
