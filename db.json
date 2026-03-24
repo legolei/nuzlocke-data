@@ -2170,7 +2170,7 @@
       "color": "yellow",
       "team": [
         "Kapuno",
-        "Woingenau",
+        null,
         "Absol",
         null,
         null,
@@ -2217,7 +2217,7 @@
         },
         "Orion City": {
           "name": "Woingenau",
-          "status": "Lebendig"
+          "status": ""
         },
         "Orion City - Statik": {
           "name": "",
