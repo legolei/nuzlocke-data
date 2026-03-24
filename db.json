@@ -2169,7 +2169,7 @@
       "name": "Fabian",
       "color": "yellow",
       "team": [
-        "Zwirrlicht",
+        null,
         "Piondragi",
         null,
         null,
@@ -2193,7 +2193,7 @@
       "catches": {
         "Avenitia": {
           "name": "Zwirrlicht",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Route 1": {
           "name": "Piondragi",
