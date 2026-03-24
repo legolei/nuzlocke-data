@@ -2169,7 +2169,7 @@
       "name": "Fabian",
       "color": "yellow",
       "team": [
-        "Kapuno",
+        null,
         null,
         null,
         null,
@@ -2193,11 +2193,11 @@
       "catches": {
         "Avenitia": {
           "name": "Kapuno",
-          "status": "Lebendig"
+          "status": ""
         },
         "Route 1": {
           "name": "Grillchita",
-          "status": "Tot"
+          "status": ""
         },
         "Eventura City": {
           "name": "",
