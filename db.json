@@ -2170,7 +2170,7 @@
       "color": "yellow",
       "team": [
         "Rizeros",
-        "Rasaff",
+        null,
         "Irokex",
         "Mamutel",
         null,
@@ -2209,7 +2209,7 @@
         },
         "Accumula Town": {
           "name": "Rasaff",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Route 3": {
           "name": "Irokex",
