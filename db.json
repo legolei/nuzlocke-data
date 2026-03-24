@@ -2193,11 +2193,11 @@
       "catches": {
         "Avenitia": {
           "name": "Zwirrlicht",
-          "status": "Tot"
+          "status": ""
         },
         "Route 1": {
           "name": "",
-          "status": "Lebendig"
+          "status": ""
         },
         "Eventura City": {
           "name": "",
