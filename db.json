@@ -625,7 +625,7 @@
       "name": "Kevin",
       "color": "green",
       "team": [
-        "Schiggy",
+        null,
         "Mamolida",
         "Zigzachs",
         "Machomei",
@@ -648,7 +648,7 @@
       "taken": false,
       "catches": {
         "Avenitia": {
-          "name": "Schiggy",
+          "name": "Sch",
           "status": "Lebendig"
         },
         "Route 1": {
