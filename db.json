@@ -2169,7 +2169,7 @@
       "name": "Fabian",
       "color": "yellow",
       "team": [
-        "Rizeros",
+        null,
         null,
         null,
         "Mamutel",
@@ -2201,7 +2201,7 @@
         },
         "Eventura City": {
           "name": "Rizeros",
-          "status": "Lebendig"
+          "status": ""
         },
         "Route 2": {
           "name": "Stahlos",
