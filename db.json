@@ -2169,7 +2169,7 @@
       "name": "Fabian",
       "color": "yellow",
       "team": [
-        null,
+        "Milza",
         null,
         null,
         null,
@@ -2193,7 +2193,7 @@
       "catches": {
         "Avenitia": {
           "name": "Milza",
-          "status": ""
+          "status": "Lebendig"
         },
         "Route 1": {
           "name": "",
