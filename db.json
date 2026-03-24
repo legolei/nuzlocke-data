@@ -2172,7 +2172,7 @@
         null,
         "Bisaknosp",
         "Tyracroc",
-        "Venuflibis",
+        null,
         null,
         null
       ],
@@ -2217,7 +2217,7 @@
         },
         "Orion City": {
           "name": "Venuflibis",
-          "status": "Lebendig"
+          "status": ""
         },
         "Orion City - Statik": {
           "name": "Fasasnob",
