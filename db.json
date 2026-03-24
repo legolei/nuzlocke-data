@@ -864,7 +864,7 @@
           "status": ""
         },
         "Abyssalruinen": {
-          "name": "mac",
+          "name": "Machomei",
           "status": "Lebendig"
         },
         "Route 14": {
@@ -2170,7 +2170,7 @@
       "color": "yellow",
       "team": [
         "Rihorn",
-        "Geckarbor",
+        null,
         null,
         null,
         null,
@@ -2197,7 +2197,7 @@
         },
         "Route 1": {
           "name": "Geckarbor",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Eventura City": {
           "name": "",
