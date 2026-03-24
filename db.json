@@ -2171,7 +2171,7 @@
       "team": [
         "Rizeros",
         null,
-        "Stahlos",
+        null,
         null,
         null,
         null
@@ -2205,7 +2205,7 @@
         },
         "Route 2": {
           "name": "Stahlos",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Accumula Town": {
           "name": "",
