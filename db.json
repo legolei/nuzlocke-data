@@ -2169,7 +2169,7 @@
       "name": "Fabian",
       "color": "yellow",
       "team": [
-        "Strawickl",
+        null,
         "Bisasam",
         "Tyracroc",
         null,
@@ -2193,7 +2193,7 @@
       "catches": {
         "Avenitia": {
           "name": "Strawickl",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Route 1": {
           "name": "Bisasam",
