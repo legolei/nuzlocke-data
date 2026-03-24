@@ -2169,7 +2169,7 @@
       "name": "Fabian",
       "color": "yellow",
       "team": [
-        "Fasasnob",
+        null,
         "Bisaknosp",
         "Tyracroc",
         "Venuflibis",
@@ -2221,7 +2221,7 @@
         },
         "Orion City - Statik": {
           "name": "Fasasnob",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Traumbrache": {
           "name": "",
