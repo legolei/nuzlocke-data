@@ -2170,7 +2170,7 @@
       "color": "yellow",
       "team": [
         "Tauboga",
-        "Bisasam",
+        null,
         "Tyracroc",
         "Amonitas",
         null,
@@ -2196,7 +2196,7 @@
           "status": "Tot"
         },
         "Route 1": {
-          "name": "Bisasam",
+          "name": "Bisa",
           "status": "Lebendig"
         },
         "Eventura City": {
