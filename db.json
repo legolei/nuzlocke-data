@@ -2172,7 +2172,7 @@
         "Tauboga",
         "Bisaknosp",
         "Tyracroc",
-        "Amonitas",
+        null,
         "Venuflibis",
         null
       ],
@@ -2209,7 +2209,7 @@
         },
         "Accumula Town": {
           "name": "Amonitas",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Route 3": {
           "name": "Frizelbliz",
