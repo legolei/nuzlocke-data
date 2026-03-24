@@ -2169,7 +2169,7 @@
       "name": "Fabian",
       "color": "yellow",
       "team": [
-        "Taub",
+        null,
         "Bisasam",
         "Tyracroc",
         null,
@@ -2200,7 +2200,7 @@
           "status": "Lebendig"
         },
         "Eventura City": {
-          "name": "Taub",
+          "name": "Tauboga",
           "status": "Lebendig"
         },
         "Route 2": {
