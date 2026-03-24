@@ -2170,7 +2170,7 @@
       "color": "yellow",
       "team": [
         null,
-        "Piondragi",
+        null,
         null,
         null,
         null,
@@ -2196,7 +2196,7 @@
           "status": "Tot"
         },
         "Route 1": {
-          "name": "Piondragi",
+          "name": "",
           "status": "Lebendig"
         },
         "Eventura City": {
