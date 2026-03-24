@@ -2172,7 +2172,7 @@
         null,
         null,
         null,
-        "Mamutel",
+        null,
         null,
         null
       ],
@@ -2217,7 +2217,7 @@
         },
         "Orion City": {
           "name": "Mamutel",
-          "status": "Lebendig"
+          "status": ""
         },
         "Orion City - Statik": {
           "name": "",
