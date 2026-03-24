@@ -2169,7 +2169,7 @@
       "name": "Fabian",
       "color": "yellow",
       "team": [
-        "Str",
+        null,
         null,
         null,
         null,
@@ -2192,7 +2192,7 @@
       "taken": false,
       "catches": {
         "Avenitia": {
-          "name": "Str",
+          "name": "Strawickl",
           "status": "Lebendig"
         },
         "Route 1": {
