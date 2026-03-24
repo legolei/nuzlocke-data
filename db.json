@@ -2169,7 +2169,7 @@
       "name": "Fabian",
       "color": "yellow",
       "team": [
-        "Kindwurm",
+        null,
         null,
         null,
         null,
@@ -2193,7 +2193,7 @@
       "catches": {
         "Avenitia": {
           "name": "Kindwurm",
-          "status": "Lebendig"
+          "status": ""
         },
         "Route 1": {
           "name": "Tauboga",
