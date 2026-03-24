@@ -2170,7 +2170,7 @@
       "color": "yellow",
       "team": [
         null,
-        "Bisaknosp",
+        null,
         null,
         null,
         null,
@@ -2197,7 +2197,7 @@
         },
         "Route 1": {
           "name": "Bisaknosp",
-          "status": "Lebendig"
+          "status": ""
         },
         "Eventura City": {
           "name": "Tauboga",
