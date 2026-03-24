@@ -2170,7 +2170,7 @@
       "color": "yellow",
       "team": [
         "Rizeros",
-        "Tarnpignon",
+        null,
         "Stahlos",
         null,
         null,
@@ -2197,7 +2197,7 @@
         },
         "Route 1": {
           "name": "Tarnpignon",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Eventura City": {
           "name": "Rizeros",
