@@ -2170,7 +2170,7 @@
       "color": "yellow",
       "team": [
         null,
-        "Lombrero",
+        null,
         "Aquana",
         null,
         null,
@@ -2205,7 +2205,7 @@
         },
         "Route 2": {
           "name": "Lombrero",
-          "status": "Lebendig"
+          "status": ""
         },
         "Accumula Town": {
           "name": "",
