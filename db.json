@@ -1890,7 +1890,7 @@
           "status": ""
         },
         "Eventura City": {
-          "name": "Krebscorps",
+          "name": "",
           "status": ""
         },
         "Route 2": {
@@ -2169,7 +2169,7 @@
       "name": "Fabian",
       "color": "yellow",
       "team": [
-        null,
+        "Rihorn",
         null,
         null,
         null,
