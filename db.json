@@ -2193,11 +2193,11 @@
       "catches": {
         "Avenitia": {
           "name": "",
-          "status": "Lebendig"
+          "status": ""
         },
         "Route 1": {
           "name": "",
-          "status": "Blockiert"
+          "status": ""
         },
         "Eventura City": {
           "name": "",
@@ -2205,7 +2205,7 @@
         },
         "Route 2": {
           "name": "",
-          "status": "Lebendig"
+          "status": ""
         },
         "Accumula Town": {
           "name": "",
