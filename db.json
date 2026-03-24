@@ -2169,7 +2169,7 @@
       "name": "Fabian",
       "color": "yellow",
       "team": [
-        "Milza",
+        null,
         "Tarnpignon",
         "Stahlos",
         null,
@@ -2193,7 +2193,7 @@
       "catches": {
         "Avenitia": {
           "name": "Milza",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Route 1": {
           "name": "Tarnpignon",
