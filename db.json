@@ -9,7 +9,7 @@
         null,
         null,
         null,
-        null,
+        "Wingull",
         null
       ],
       "badges": [
@@ -40,8 +40,8 @@
           "status": "Lebendig"
         },
         "Route 2": {
-          "name": "",
-          "status": ""
+          "name": "Wingull",
+          "status": "Lebendig"
         },
         "Accumula Town": {
           "name": "Spoink",
