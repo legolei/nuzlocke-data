@@ -22,7 +22,7 @@
         false,
         false
       ],
-      "deaths": 1,
+      "deaths": 0,
       "mainStream": "",
       "touchStream": "",
       "taken": false,
@@ -37,7 +37,7 @@
         },
         "Eventura City": {
           "name": "Wingull",
-          "status": "Tot"
+          "status": "Lebendig"
         },
         "Route 2": {
           "name": "Glibunkel",
@@ -2496,11 +2496,6 @@
       "name": "Krebscorps",
       "player": 6,
       "color": "pink"
-    },
-    {
-      "name": "Wingull",
-      "player": 0,
-      "color": "red"
     }
   ]
 }
