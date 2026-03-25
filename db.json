@@ -5,15 +5,15 @@
       "name": "Legolei",
       "color": "red",
       "team": [
-        "Plinfa",
-        "Ohrdoch",
-        "Glibunkel",
-        "Spoink",
-        "Smogmog",
-        "Wingull"
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
       ],
       "badges": [
-        true,
+        false,
         false,
         false,
         false,
@@ -32,24 +32,24 @@
           "status": "Lebendig"
         },
         "Route 1": {
-          "name": "Ohrdoch",
-          "status": "Lebendig"
+          "name": "",
+          "status": ""
         },
         "Eventura City": {
           "name": "Wingull",
           "status": "Lebendig"
         },
         "Route 2": {
-          "name": "Glibunkel",
-          "status": "Lebendig"
+          "name": "",
+          "status": ""
         },
         "Accumula Town": {
           "name": "Spoink",
           "status": "Lebendig"
         },
         "Route 3": {
-          "name": "Draschel",
-          "status": "Lebendig"
+          "name": "",
+          "status": ""
         },
         "Orion City": {
           "name": "",
