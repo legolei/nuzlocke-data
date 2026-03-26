@@ -6,7 +6,7 @@
       "color": "red",
       "team": [
         "Ottaro",
-        null,
+        "Lorblatt",
         null,
         null,
         null,
@@ -32,8 +32,8 @@
           "status": "Lebendig"
         },
         "Route 1": {
-          "name": "",
-          "status": ""
+          "name": "Lorblatt",
+          "status": "Lebendig"
         },
         "Eventura City": {
           "name": "Wingull",
@@ -1914,16 +1914,16 @@
           "status": ""
         },
         "Route 4": {
-          "name": "Pantimos",
-          "status": "Blockiert"
+          "name": "",
+          "status": ""
         },
         "Route 4 - Statik": {
           "name": "",
           "status": ""
         },
         "Wüstenresort": {
-          "name": "",
-          "status": ""
+          "name": "Shaymin",
+          "status": "Blockiert"
         },
         "Reliktburg": {
           "name": "",
