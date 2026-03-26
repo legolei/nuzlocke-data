@@ -11028,7 +11028,7 @@
       "color": "pink",
       "team": [
         "Zapplardin",
-        null,
+        "Navitaub",
         null,
         null,
         null,
@@ -11054,8 +11054,8 @@
           "status": "Lebendig"
         },
         "Route 1": {
-          "name": "",
-          "status": ""
+          "name": "Navitaub",
+          "status": "Lebendig"
         },
         "Eventura City": {
           "name": "Entei",
