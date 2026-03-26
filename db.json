@@ -3663,9 +3663,9 @@
         "top": 0,
         "w": 100,
         "h": 100,
-        "userScale": 2.9499999999999966,
-        "offX": -101,
-        "offY": -24
+        "userScale": 2.549999999999998,
+        "offX": -136,
+        "offY": 23
       },
       "touchAdj": {
         "left": 0,
@@ -3887,7 +3887,7 @@
           "name": "",
           "status": ""
         },
-        "Pokémon Liga": {
+        "Pok��mon Liga": {
           "name": "",
           "status": ""
         },
