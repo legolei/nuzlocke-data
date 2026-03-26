@@ -1861,8 +1861,8 @@
         false
       ],
       "deaths": 1,
-      "mainStream": "https://vdo.ninja/?view=WZfvnrxps&=fps25bitrate=500",
-      "touchStream": "https://vdo.ninja/?view=WZfvnrxps&=fps25bitrate=500",
+      "mainStream": "https://vdo.ninja/?view=WZfvnrx&fps=30&bitrate=800",
+      "touchStream": "https://vdo.ninja/?view=WZfvnrx&fps=30&bitrate=800",
       "taken": false,
       "catches": {
         "Avenitia": {
@@ -3673,8 +3673,8 @@
         "w": 100,
         "h": 100,
         "userScale": 2.899999999999997,
-        "offX": -102,
-        "offY": -114
+        "offX": -86,
+        "offY": -90
       }
     },
     {
@@ -11030,7 +11030,7 @@
         "Zapplardin",
         "Navitaub",
         "Voltenso",
-        null,
+        "Brutalanda",
         null,
         null
       ],
@@ -11318,8 +11318,8 @@
           "status": "Lebendig"
         },
         "Orion City – Geschenk": {
-          "name": "",
-          "status": ""
+          "name": "Brutalanda",
+          "status": "Lebendig"
         },
         "Traumbrache (Dreamyard)": {
           "name": "",
