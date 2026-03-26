@@ -1843,10 +1843,10 @@
       "name": "Jasmin",
       "color": "blue",
       "team": [
-        "Moorabbel",
-        "Stahlos",
+        null,
+        null,
         "Snibunna",
-        "Sharfax",
+        null,
         null,
         "Flegmon"
       ],
@@ -3663,7 +3663,7 @@
         "top": 0,
         "w": 100,
         "h": 100,
-        "userScale": 2.849999999999997,
+        "userScale": 2.9999999999999964,
         "offX": -92,
         "offY": -19
       },
@@ -3681,10 +3681,10 @@
       "name": "Kevin",
       "color": "green",
       "team": [
-        "Schillok",
-        "Somnivora",
-        "Machomei",
-        "Zytomega",
+        null,
+        null,
+        null,
+        null,
         "Elfun",
         "Wielie"
       ],
@@ -9189,9 +9189,9 @@
       "name": "Jannik",
       "color": "cyan",
       "team": [
-        "Karnimani",
+        null,
         "Irokex",
-        "Sharfax",
+        null,
         null,
         null,
         null
@@ -11027,7 +11027,7 @@
       "name": "Antonino",
       "color": "pink",
       "team": [
-        "Zapplardin",
+        null,
         "Fleknoil",
         null,
         null,
