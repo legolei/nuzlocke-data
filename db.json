@@ -14,7 +14,7 @@
       ],
       "badges": [
         true,
-        false,
+        true,
         false,
         false,
         false,
@@ -1861,8 +1861,8 @@
         false
       ],
       "deaths": 1,
-      "mainStream": "https://vdo.ninja/?view=WZfvnrx&fps=30&bitrate=800",
-      "touchStream": "https://vdo.ninja/?view=WZfvnrx&fps=30&bitrate=800",
+      "mainStream": "",
+      "touchStream": "",
       "taken": false,
       "catches": {
         "Avenitia": {
