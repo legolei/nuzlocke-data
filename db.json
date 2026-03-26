@@ -11032,7 +11032,7 @@
         "Voltenso",
         "Brutalanda",
         "Milotic",
-        null
+        "Noktuska"
       ],
       "badges": [
         true,
@@ -11070,8 +11070,8 @@
           "status": ""
         },
         "Route 3": {
-          "name": "",
-          "status": ""
+          "name": "Noktuska",
+          "status": "Lebendig"
         },
         "Orion City": {
           "name": "",
