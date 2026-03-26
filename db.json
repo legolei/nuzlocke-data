@@ -9,7 +9,7 @@
         null,
         null,
         null,
-        "Wingull",
+        null,
         null
       ],
       "badges": [
@@ -40,8 +40,8 @@
           "status": "Lebendig"
         },
         "Route 2": {
-          "name": "Wingull",
-          "status": "Lebendig"
+          "name": "",
+          "status": ""
         },
         "Accumula Town": {
           "name": "Spoink",
@@ -300,8 +300,8 @@
           "status": ""
         },
         "Traumbrache (Dreamyard)": {
-          "name": "Glumanda",
-          "status": "Lebendig"
+          "name": "",
+          "status": ""
         },
         "Ewigenau (Daycare Bereich)": {
           "name": "",
@@ -12847,8 +12847,8 @@
         "top": 0,
         "w": 100,
         "h": 100,
-        "offX": -75,
-        "offY": -22,
+        "offX": -39,
+        "offY": 13,
         "userScale": 1.4499999999999995
       },
       "touchAdj": {
