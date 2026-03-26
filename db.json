@@ -8,7 +8,7 @@
         "Ottaro",
         "Lorblatt",
         "Voltilamm",
-        null,
+        "Brutalanda",
         null,
         null
       ],
@@ -296,8 +296,8 @@
           "status": "Lebendig"
         },
         "Orion City – Geschenk": {
-          "name": "",
-          "status": ""
+          "name": "Brutalanda",
+          "status": "Lebendig"
         },
         "Traumbrache (Dreamyard)": {
           "name": "",
@@ -11035,7 +11035,7 @@
         null
       ],
       "badges": [
-        false,
+        true,
         false,
         false,
         false,
