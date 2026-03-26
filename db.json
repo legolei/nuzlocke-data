@@ -10,7 +10,7 @@
         "Waaty",
         "Brutalanda",
         "Barschuft",
-        null
+        "Hydropi"
       ],
       "badges": [
         true,
@@ -48,8 +48,8 @@
           "status": "Lebendig"
         },
         "Route 3": {
-          "name": "",
-          "status": ""
+          "name": "Hydropi",
+          "status": "Lebendig"
         },
         "Orion City": {
           "name": "",
