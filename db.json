@@ -3664,8 +3664,8 @@
         "w": 100,
         "h": 100,
         "userScale": 2,
-        "offX": -96,
-        "offY": 0
+        "offX": -111,
+        "offY": -9
       },
       "touchAdj": {
         "left": 0,
