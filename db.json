@@ -5,7 +5,7 @@
       "name": "Legolei",
       "color": "red",
       "team": [
-        null,
+        "Ottaro",
         null,
         null,
         null,
@@ -292,8 +292,8 @@
           "status": ""
         },
         "Avenitia – Starter": {
-          "name": "",
-          "status": ""
+          "name": "Ottaro",
+          "status": "Lebendig"
         },
         "Orion City – Geschenk": {
           "name": "",
@@ -1843,17 +1843,17 @@
       "name": "Jasmin",
       "color": "blue",
       "team": [
-        null,
-        null,
+        "Morlord",
+        "Sharfax",
         "Snibunna",
-        null,
-        null,
+        "Stahlos",
+        "Hundemon",
         "Flegmon"
       ],
       "badges": [
         true,
         true,
-        false,
+        true,
         false,
         false,
         false,
@@ -2130,20 +2130,20 @@
           "status": ""
         },
         "Avenitia – Starter": {
-          "name": "",
-          "status": ""
+          "name": "Morlord",
+          "status": "Lebendig"
         },
         "Orion City – Geschenk": {
-          "name": "",
-          "status": ""
+          "name": "Sharfax",
+          "status": "Lebendig"
         },
         "Traumbrache (Dreamyard)": {
-          "name": "",
-          "status": ""
+          "name": "Stahlos",
+          "status": "Lebendig"
         },
         "Ewigenau (Daycare Bereich)": {
-          "name": "",
-          "status": ""
+          "name": "Hundemon",
+          "status": "Lebendig"
         },
         "Septerna City": {
           "name": "",
