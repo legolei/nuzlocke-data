@@ -308,8 +308,8 @@
           "status": "Lebendig"
         },
         "Septerna City": {
-          "name": "",
-          "status": ""
+          "name": "Tanhel",
+          "status": "Blockiert"
         },
         "Reliktburg (Relic Castle)": {
           "name": "",
@@ -1826,8 +1826,8 @@
         "w": 100,
         "h": 100,
         "userScale": 3.649999999999999,
-        "offX": -77,
-        "offY": -9
+        "offX": -89,
+        "offY": -12
       },
       "touchAdj": {
         "left": 0,
