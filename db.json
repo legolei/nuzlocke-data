@@ -11028,7 +11028,7 @@
       "color": "pink",
       "team": [
         null,
-        "Fleknoil",
+        null,
         null,
         null,
         null,
@@ -11045,8 +11045,8 @@
         false
       ],
       "deaths": 1,
-      "mainStream": "https://vdo.ninja/?view=wCG3237&fps=30&bitrate=800",
-      "touchStream": "https://vdo.ninja/?view=wCG3237&fps=30&bitrate=800",
+      "mainStream": "https://vdo.ninja/?view=pe3jBwV&fps=30&bitrate=800",
+      "touchStream": "https://vdo.ninja/?view=pe3jBwV&fps=30&bitrate=800",
       "taken": false,
       "catches": {
         "Avenitia": {
@@ -11054,8 +11054,8 @@
           "status": "Lebendig"
         },
         "Route 1": {
-          "name": "Fleknoil",
-          "status": "Lebendig"
+          "name": "",
+          "status": ""
         },
         "Eventura City": {
           "name": "Entei",
