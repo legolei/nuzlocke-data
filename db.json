@@ -7,7 +7,7 @@
       "team": [
         "Ottaro",
         "Lorblatt",
-        null,
+        "Voltilamm",
         null,
         null,
         null
@@ -40,8 +40,8 @@
           "status": "Lebendig"
         },
         "Route 2": {
-          "name": "",
-          "status": ""
+          "name": "Voltilamm",
+          "status": "Lebendig"
         },
         "Accumula Town": {
           "name": "Spoink",
