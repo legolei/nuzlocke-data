@@ -23,8 +23,8 @@
         false
       ],
       "deaths": 0,
-      "mainStream": "",
-      "touchStream": "",
+      "mainStream": "https://vdo.ninja/?view=CNZQwKJ&fps=25&bitrate=600",
+      "touchStream": "https://vdo.ninja/?view=CNZQwKJ&fps=25&bitrate=600",
       "taken": false,
       "catches": {
         "Avenitia": {
@@ -1826,8 +1826,8 @@
         "w": 100,
         "h": 100,
         "userScale": 2,
-        "offX": -157,
-        "offY": -31
+        "offX": -65,
+        "offY": -4
       },
       "touchAdj": {
         "left": 0,
@@ -1861,8 +1861,8 @@
         false
       ],
       "deaths": 1,
-      "mainStream": "https://vdo.ninja/?view=6VZx4Qh&fps=30&bitrate=500",
-      "touchStream": "https://vdo.ninja/?view=6VZx4Qh&fps=30&bitrate=500",
+      "mainStream": "",
+      "touchStream": "",
       "taken": false,
       "catches": {
         "Avenitia": {
@@ -11029,7 +11029,7 @@
       "team": [
         "Zapplardin",
         "Navitaub",
-        null,
+        "Voltenso",
         null,
         null,
         null
@@ -11062,8 +11062,8 @@
           "status": "Blockiert"
         },
         "Route 2": {
-          "name": "",
-          "status": ""
+          "name": "Voltenso",
+          "status": "Lebendig"
         },
         "Accumula Town": {
           "name": "",
