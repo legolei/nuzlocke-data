@@ -12865,7 +12865,7 @@
       "name": "Fabian",
       "color": "yellow",
       "team": [
-        null,
+        "Flemmli",
         null,
         null,
         null,
@@ -12873,8 +12873,8 @@
         null
       ],
       "badges": [
-        true,
-        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -13152,8 +13152,8 @@
           "status": ""
         },
         "Avenitia – Starter": {
-          "name": "",
-          "status": ""
+          "name": "Flemmli",
+          "status": "Lebendig"
         },
         "Orion City – Geschenk": {
           "name": "",
