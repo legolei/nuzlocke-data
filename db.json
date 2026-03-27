@@ -4032,7 +4032,7 @@
           "status": ""
         },
         "Septerna City (Museum) – Fossil": {
-          "name": "rih",
+          "name": "Rihorn",
           "status": ""
         },
         "Neuborkia": {
@@ -5510,8 +5510,8 @@
         "top": 0,
         "w": 100,
         "h": 100,
-        "offX": -103,
-        "offY": -181,
+        "offX": -78,
+        "offY": -73,
         "userScale": 1.6000000000000005
       }
     },
