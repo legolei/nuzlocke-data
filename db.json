@@ -7351,8 +7351,8 @@
       "name": "Richard",
       "color": "orange",
       "team": [
-        null,
-        null,
+        "Kapuno",
+        "Qurtel",
         null,
         null,
         null,
@@ -7378,8 +7378,8 @@
           "status": ""
         },
         "Route 1": {
-          "name": "",
-          "status": ""
+          "name": "Qurtel",
+          "status": "Lebendig"
         },
         "Eventura City": {
           "name": "",
@@ -7638,8 +7638,8 @@
           "status": ""
         },
         "Avenitia – Starter": {
-          "name": "",
-          "status": ""
+          "name": "Kapuno",
+          "status": "Lebendig"
         },
         "Orion City – Geschenk": {
           "name": "",
