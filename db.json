@@ -7359,7 +7359,7 @@
         null
       ],
       "badges": [
-        false,
+        true,
         false,
         false,
         false,
@@ -13216,8 +13216,8 @@
           "status": ""
         },
         "Septerna City (Museum) – Fossil": {
-          "name": "",
-          "status": ""
+          "name": "Dragoran",
+          "status": "Lebendig"
         },
         "Neuborkia": {
           "name": "",
