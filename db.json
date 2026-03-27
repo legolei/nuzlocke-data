@@ -23,8 +23,8 @@
         false
       ],
       "deaths": 0,
-      "mainStream": "https://vdo.ninja/?view=CNZQwKJ&fps=25&bitrate=600",
-      "touchStream": "https://vdo.ninja/?view=CNZQwKJ&fps=25&bitrate=600",
+      "mainStream": "",
+      "touchStream": "",
       "taken": false,
       "catches": {
         "Avenitia": {
@@ -11045,8 +11045,8 @@
         false
       ],
       "deaths": 1,
-      "mainStream": "https://vdo.ninja/?view=pe3jBwV&fps=30&bitrate=800",
-      "touchStream": "https://vdo.ninja/?view=pe3jBwV&fps=30&bitrate=800",
+      "mainStream": "",
+      "touchStream": "",
       "taken": false,
       "catches": {
         "Avenitia": {
