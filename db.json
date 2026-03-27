@@ -328,8 +328,8 @@
           "status": "Lebendig"
         },
         "Elektrikhöhle (Chargestone Cave)": {
-          "name": "",
-          "status": ""
+          "name": "Siberio",
+          "status": "Lebendig"
         },
         "Panaero City": {
           "name": "",
@@ -3996,8 +3996,8 @@
           "status": ""
         },
         "Pinwheel Forest (Außen)": {
-          "name": "",
-          "status": ""
+          "name": "Boreos",
+          "status": "Lebendig"
         },
         "Pinwheel Forest (Innen)": {
           "name": "Zwirrlicht",
@@ -12866,7 +12866,7 @@
       "color": "yellow",
       "team": [
         "Ganovil",
-        null,
+        "Ampharos",
         "Traunfugil",
         "Ledian",
         null,
@@ -12908,8 +12908,8 @@
           "status": ""
         },
         "Route 3": {
-          "name": "",
-          "status": ""
+          "name": "Ampharos",
+          "status": "Lebendig"
         },
         "Orion City": {
           "name": "",
