@@ -136,8 +136,8 @@
           "status": ""
         },
         "Route 6": {
-          "name": "",
-          "status": ""
+          "name": "Jungglut",
+          "status": "Blockiert"
         },
         "Elektrolithhöhle": {
           "name": "",
@@ -12865,8 +12865,8 @@
       "name": "Fabian",
       "color": "yellow",
       "team": [
-        "Geckarbor",
-        "Starmie",
+        null,
+        null,
         null,
         null,
         null,
@@ -12892,16 +12892,16 @@
           "status": ""
         },
         "Route 1": {
-          "name": "Starmie",
-          "status": "Lebendig"
+          "name": "",
+          "status": ""
         },
         "Eventura City": {
           "name": "",
           "status": ""
         },
         "Route 2": {
-          "name": "Geckarbor",
-          "status": "Lebendig"
+          "name": "",
+          "status": ""
         },
         "Accumula Town": {
           "name": "",
@@ -13152,8 +13152,8 @@
           "status": ""
         },
         "Avenitia – Starter": {
-          "name": "Glumanda",
-          "status": "Tot"
+          "name": "",
+          "status": ""
         },
         "Orion City – Geschenk": {
           "name": "",
