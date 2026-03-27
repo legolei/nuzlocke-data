@@ -12865,7 +12865,7 @@
       "name": "Fabian",
       "color": "yellow",
       "team": [
-        null,
+        "Geckarbor",
         "Starmie",
         null,
         null,
@@ -12901,7 +12901,7 @@
         },
         "Route 2": {
           "name": "Geckarbor",
-          "status": ""
+          "status": "Lebendig"
         },
         "Accumula Town": {
           "name": "",
