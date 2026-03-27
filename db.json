@@ -4024,7 +4024,7 @@
           "status": ""
         },
         "Riesige Kluft (Giant Chasm)": {
-          "name": "Dusselgurr",
+          "name": "Navitaub",
           "status": "Lebendig"
         },
         "Siegesstraße (Victory Road)": {
@@ -12865,8 +12865,8 @@
       "name": "Fabian",
       "color": "yellow",
       "team": [
-        "Flemmli",
-        "Lilminip",
+        "Kapuno",
+        null,
         null,
         null,
         null,
@@ -12892,16 +12892,16 @@
           "status": ""
         },
         "Route 1": {
-          "name": "Miltank",
-          "status": "Blockiert"
+          "name": "",
+          "status": ""
         },
         "Eventura City": {
           "name": "",
           "status": ""
         },
         "Route 2": {
-          "name": "Lilminip",
-          "status": "Lebendig"
+          "name": "",
+          "status": ""
         },
         "Accumula Town": {
           "name": "",
@@ -13152,7 +13152,7 @@
           "status": ""
         },
         "Avenitia – Starter": {
-          "name": "Flemmli",
+          "name": "Kapuno",
           "status": "Lebendig"
         },
         "Orion City – Geschenk": {
