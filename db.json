@@ -3699,8 +3699,8 @@
         false
       ],
       "deaths": 0,
-      "mainStream": "",
-      "touchStream": "",
+      "mainStream": "https://vdo.ninja/?view=JjaUtxv&fps=30&bitrate=800",
+      "touchStream": "https://vdo.ninja/?view=JjaUtxv&fps=30&bitrate=800",
       "taken": false,
       "catches": {
         "Avenitia": {
@@ -4032,7 +4032,7 @@
           "status": ""
         },
         "Septerna City (Museum) – Fossil": {
-          "name": "",
+          "name": "rih",
           "status": ""
         },
         "Neuborkia": {
@@ -5501,8 +5501,8 @@
         "top": 0,
         "w": 100,
         "h": 100,
-        "offX": -81,
-        "offY": -28,
+        "offX": -48,
+        "offY": 6,
         "userScale": 1.4499999999999995
       },
       "touchAdj": {
