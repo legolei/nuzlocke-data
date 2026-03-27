@@ -12868,7 +12868,7 @@
         "Ganovil",
         "Elektek",
         "Traunfugil",
-        null,
+        "Ledian",
         null,
         null
       ],
@@ -13156,8 +13156,8 @@
           "status": "Lebendig"
         },
         "Orion City – Geschenk": {
-          "name": "",
-          "status": ""
+          "name": "Ledian",
+          "status": "Lebendig"
         },
         "Traumbrache (Dreamyard)": {
           "name": "",
