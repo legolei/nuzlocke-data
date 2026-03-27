@@ -12870,7 +12870,7 @@
         "Traunfugil",
         "Ledian",
         "Nidorina",
-        null
+        "Tauros"
       ],
       "badges": [
         true,
@@ -13165,7 +13165,7 @@
         },
         "Ewigenau (Daycare Bereich)": {
           "name": "Tauros",
-          "status": ""
+          "status": "Lebendig"
         },
         "Septerna City": {
           "name": "Nidorina",
