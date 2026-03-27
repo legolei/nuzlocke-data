@@ -7355,7 +7355,7 @@
         "Qurtel",
         "Milza",
         "Sonnkern",
-        null,
+        "Krakeelo",
         null
       ],
       "badges": [
@@ -7646,8 +7646,8 @@
           "status": "Lebendig"
         },
         "Traumbrache (Dreamyard)": {
-          "name": "",
-          "status": ""
+          "name": "Krakeelo",
+          "status": "Lebendig"
         },
         "Ewigenau (Daycare Bereich)": {
           "name": "",
