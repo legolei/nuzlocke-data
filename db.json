@@ -6,7 +6,7 @@
       "color": "red",
       "team": [
         "Nidoking",
-        "Lorblatt",
+        "Meganie",
         "Ampharos",
         "Brutalanda",
         "Boreos",
@@ -32,7 +32,7 @@
           "status": "Lebendig"
         },
         "Route 1": {
-          "name": "Lorblatt",
+          "name": "Meganie",
           "status": "Lebendig"
         },
         "Eventura City": {
@@ -152,8 +152,8 @@
           "status": ""
         },
         "Route 7": {
-          "name": "",
-          "status": ""
+          "name": "Panpyro",
+          "status": "Lebendig"
         },
         "Route 7 - Statik": {
           "name": "",
