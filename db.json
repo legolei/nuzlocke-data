@@ -3788,8 +3788,8 @@
           "status": ""
         },
         "Route 16": {
-          "name": "",
-          "status": ""
+          "name": "Pikachu",
+          "status": "Lebendig"
         },
         "Wunderbrücke": {
           "name": "",
@@ -9171,8 +9171,8 @@
         "top": 0,
         "w": 100,
         "h": 100,
-        "offX": -103,
-        "offY": -13,
+        "offX": -77,
+        "offY": -8,
         "userScale": 1.7000000000000006
       },
       "touchAdj": {
