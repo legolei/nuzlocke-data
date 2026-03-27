@@ -12867,7 +12867,7 @@
       "team": [
         "Ganovil",
         "Elektek",
-        null,
+        "Traunfugil",
         null,
         null,
         null
@@ -12901,7 +12901,7 @@
         },
         "Route 2": {
           "name": "Traunfugil",
-          "status": ""
+          "status": "Lebendig"
         },
         "Accumula Town": {
           "name": "",
