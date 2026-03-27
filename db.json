@@ -7353,7 +7353,7 @@
       "team": [
         "Kapuno",
         "Qurtel",
-        null,
+        "Milza",
         null,
         null,
         null
@@ -7386,8 +7386,8 @@
           "status": ""
         },
         "Route 2": {
-          "name": "",
-          "status": ""
+          "name": "Milza",
+          "status": "Lebendig"
         },
         "Accumula Town": {
           "name": "",
