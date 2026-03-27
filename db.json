@@ -3686,7 +3686,7 @@
         "Sumpex",
         "Machomei",
         "Elfun",
-        "Wielie"
+        null
       ],
       "badges": [
         true,
@@ -3698,7 +3698,7 @@
         false,
         false
       ],
-      "deaths": 0,
+      "deaths": 1,
       "mainStream": "https://vdo.ninja/?view=JjaUtxv&fps=30&bitrate=800",
       "touchStream": "https://vdo.ninja/?view=JjaUtxv&fps=30&bitrate=800",
       "taken": false,
@@ -3725,7 +3725,7 @@
         },
         "Route 3": {
           "name": "Wielie",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Orion City": {
           "name": "",
@@ -12883,8 +12883,8 @@
         false
       ],
       "deaths": 0,
-      "mainStream": "",
-      "touchStream": "",
+      "mainStream": "https://vdo.ninja/?view=euKQcV6&fps=30&bitrate=800",
+      "touchStream": "https://vdo.ninja/?view=euKQcV6&fps=30&bitrate=800",
       "taken": false,
       "catches": {
         "Avenitia": {
@@ -14685,7 +14685,7 @@
         "top": 0,
         "w": 100,
         "h": 100,
-        "offX": -69,
+        "offX": -54,
         "offY": -9,
         "userScale": 1.4000000000000004
       },
@@ -14720,6 +14720,11 @@
       "name": "Krebscorps",
       "player": 6,
       "color": "pink"
+    },
+    {
+      "name": "Wielie",
+      "player": 2,
+      "color": "green"
     }
   ]
 }
