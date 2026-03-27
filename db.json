@@ -12866,7 +12866,7 @@
       "color": "yellow",
       "team": [
         "Flemmli",
-        null,
+        "Lilminip",
         null,
         null,
         null,
@@ -12900,8 +12900,8 @@
           "status": ""
         },
         "Route 2": {
-          "name": "",
-          "status": ""
+          "name": "Lilminip",
+          "status": "Lebendig"
         },
         "Accumula Town": {
           "name": "",
