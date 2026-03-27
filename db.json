@@ -12869,8 +12869,8 @@
         "Ampharos",
         "Traunfugil",
         "Ledian",
-        "Nidorina",
-        "Tauros"
+        null,
+        null
       ],
       "badges": [
         true,
@@ -13165,11 +13165,11 @@
         },
         "Ewigenau (Daycare Bereich)": {
           "name": "Tauros",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Septerna City": {
           "name": "Nidorina",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Reliktburg (Relic Castle)": {
           "name": "",
