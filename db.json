@@ -1861,8 +1861,8 @@
         false
       ],
       "deaths": 1,
-      "mainStream": "",
-      "touchStream": "",
+      "mainStream": "https://vdo.ninja/?view=UpdaeCn&fps=30&bitrate=800",
+      "touchStream": "https://vdo.ninja/?view=UpdaeCn&fps=30&bitrate=800",
       "taken": false,
       "catches": {
         "Avenitia": {
@@ -3681,10 +3681,10 @@
       "name": "Kevin",
       "color": "green",
       "team": [
-        null,
-        null,
-        null,
-        null,
+        "Zytomega",
+        "Somnivora",
+        "Schillok",
+        "Machomei",
         "Elfun",
         "Wielie"
       ],
@@ -3968,24 +3968,24 @@
           "status": ""
         },
         "Avenitia – Starter": {
-          "name": "",
-          "status": ""
+          "name": "Schillok",
+          "status": "Lebendig"
         },
         "Orion City – Geschenk": {
-          "name": "",
-          "status": ""
+          "name": "Zytomega",
+          "status": "Lebendig"
         },
         "Traumbrache (Dreamyard)": {
-          "name": "",
-          "status": ""
+          "name": "Pygraulon",
+          "status": "Lebendig"
         },
         "Ewigenau (Daycare Bereich)": {
-          "name": "",
-          "status": ""
+          "name": "Somnivora",
+          "status": "Lebendig"
         },
         "Septerna City": {
-          "name": "",
-          "status": ""
+          "name": "Machomei",
+          "status": "Lebendig"
         },
         "Reliktburg (Relic Castle)": {
           "name": "",
@@ -4033,7 +4033,7 @@
         },
         "Septerna City (Museum) – Fossil": {
           "name": "Rihorn",
-          "status": ""
+          "status": "Lebendig"
         },
         "Neuborkia": {
           "name": "",
