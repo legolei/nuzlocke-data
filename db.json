@@ -7,7 +7,7 @@
       "team": [
         "Nidoking",
         "Lorblatt",
-        "Waaty",
+        "Ampharos",
         "Brutalanda",
         "Boreos",
         "Moorabbel"
@@ -40,7 +40,7 @@
           "status": "Lebendig"
         },
         "Route 2": {
-          "name": "Waaty",
+          "name": "Ampharos",
           "status": "Lebendig"
         },
         "Accumula Town": {
@@ -1846,7 +1846,7 @@
         "Moorabbel",
         "Sharfax",
         "Snibunna",
-        "Stahlos",
+        "Tauboss",
         "Hundemon",
         "Flegmon"
       ],
@@ -3692,7 +3692,7 @@
         true,
         true,
         true,
-        false,
+        true,
         false,
         false,
         false,
