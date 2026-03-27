@@ -124,8 +124,8 @@
           "status": ""
         },
         "Route 5": {
-          "name": "",
-          "status": ""
+          "name": "Larvitar",
+          "status": "Lebendig"
         },
         "Driftveil City": {
           "name": "",
@@ -3800,8 +3800,8 @@
           "status": ""
         },
         "Route 5": {
-          "name": "",
-          "status": ""
+          "name": "Sumpex",
+          "status": "Lebendig"
         },
         "Driftveil City": {
           "name": "",
@@ -7369,8 +7369,8 @@
         false
       ],
       "deaths": 0,
-      "mainStream": "",
-      "touchStream": "",
+      "mainStream": "https://vdo.ninja/?view=7MF7isw&fps=30&bitrate=800",
+      "touchStream": "https://vdo.ninja/?view=7MF7isw&fps=30&bitrate=800",
       "taken": false,
       "catches": {
         "Avenitia": {
