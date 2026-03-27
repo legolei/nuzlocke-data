@@ -16,7 +16,7 @@
         true,
         true,
         true,
-        false,
+        true,
         false,
         false,
         false,
@@ -2158,8 +2158,8 @@
           "status": ""
         },
         "Pinwheel Forest (Außen)": {
-          "name": "",
-          "status": ""
+          "name": "Magbrant",
+          "status": "Lebendig"
         },
         "Pinwheel Forest (Innen)": {
           "name": "",
