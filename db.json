@@ -7354,7 +7354,7 @@
         "Kapuno",
         "Qurtel",
         "Milza",
-        null,
+        "Sonnkern",
         null,
         null
       ],
@@ -7642,8 +7642,8 @@
           "status": "Lebendig"
         },
         "Orion City – Geschenk": {
-          "name": "",
-          "status": ""
+          "name": "Sonnkern",
+          "status": "Lebendig"
         },
         "Traumbrache (Dreamyard)": {
           "name": "",
@@ -12865,7 +12865,7 @@
       "name": "Fabian",
       "color": "yellow",
       "team": [
-        "Glumanda",
+        null,
         "Starmie",
         null,
         null,
@@ -12900,7 +12900,7 @@
           "status": ""
         },
         "Route 2": {
-          "name": "",
+          "name": "Geckarbor",
           "status": ""
         },
         "Accumula Town": {
@@ -13153,7 +13153,7 @@
         },
         "Avenitia – Starter": {
           "name": "Glumanda",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Orion City – Geschenk": {
           "name": "",
