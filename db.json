@@ -1974,8 +1974,8 @@
           "status": ""
         },
         "Route 6": {
-          "name": "",
-          "status": ""
+          "name": "Mogelbaum",
+          "status": "Lebendig"
         },
         "Elektrolithhöhle": {
           "name": "",
@@ -4024,8 +4024,8 @@
           "status": ""
         },
         "Riesige Kluft (Giant Chasm)": {
-          "name": "",
-          "status": ""
+          "name": "Dusselgurr",
+          "status": "Lebendig"
         },
         "Siegesstraße (Victory Road)": {
           "name": "",
@@ -11045,8 +11045,8 @@
         false
       ],
       "deaths": 1,
-      "mainStream": "",
-      "touchStream": "",
+      "mainStream": "https://vdo.ninja/?view=wuqM6jS&fps=30&bitrate=800",
+      "touchStream": "https://vdo.ninja/?view=wuqM6jS&fps=30&bitrate=800",
       "taken": false,
       "catches": {
         "Avenitia": {
