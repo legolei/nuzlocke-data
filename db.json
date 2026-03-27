@@ -4024,7 +4024,7 @@
           "status": ""
         },
         "Riesige Kluft (Giant Chasm)": {
-          "name": "Navitaub",
+          "name": "Fasasnob",
           "status": "Lebendig"
         },
         "Siegesstraße (Victory Road)": {
@@ -12865,7 +12865,7 @@
       "name": "Fabian",
       "color": "yellow",
       "team": [
-        "Kapuno",
+        null,
         "Rihornior",
         "Skallyk",
         "Finneon",
@@ -13153,7 +13153,7 @@
         },
         "Avenitia – Starter": {
           "name": "Kapuno",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Orion City – Geschenk": {
           "name": "Skallyk",
@@ -13164,8 +13164,8 @@
           "status": "Lebendig"
         },
         "Ewigenau (Daycare Bereich)": {
-          "name": "",
-          "status": ""
+          "name": "Taubsi",
+          "status": "Lebendig"
         },
         "Septerna City": {
           "name": "Staravia",
