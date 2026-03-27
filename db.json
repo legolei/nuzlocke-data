@@ -12865,8 +12865,8 @@
       "name": "Fabian",
       "color": "yellow",
       "team": [
-        "Ganovil",
-        "Ampharos",
+        null,
+        null,
         "Traunfugil",
         "Ledian",
         null,
@@ -12909,7 +12909,7 @@
         },
         "Route 3": {
           "name": "Ampharos",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Orion City": {
           "name": "",
@@ -13153,7 +13153,7 @@
         },
         "Avenitia – Starter": {
           "name": "Ganovil",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Orion City – Geschenk": {
           "name": "Ledian",
