@@ -12866,7 +12866,7 @@
       "color": "yellow",
       "team": [
         "Kapuno",
-        null,
+        "Rihornior",
         null,
         null,
         null,
@@ -12892,8 +12892,8 @@
           "status": ""
         },
         "Route 1": {
-          "name": "",
-          "status": ""
+          "name": "Rihornior",
+          "status": "Lebendig"
         },
         "Eventura City": {
           "name": "",
