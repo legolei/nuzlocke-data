@@ -348,8 +348,8 @@
           "status": ""
         },
         "Riesige Kluft (Giant Chasm)": {
-          "name": "",
-          "status": ""
+          "name": "Rizeros",
+          "status": "Lebendig"
         },
         "Siegesstraße (Victory Road)": {
           "name": "",
@@ -1861,8 +1861,8 @@
         false
       ],
       "deaths": 1,
-      "mainStream": "https://vdo.ninja/?view=UpdaeCn&fps=30&bitrate=800",
-      "touchStream": "https://vdo.ninja/?view=UpdaeCn&fps=30&bitrate=800",
+      "mainStream": "https://vdo.ninja/?view=wWzcDMD&fps=30&bitrate=800",
+      "touchStream": "https://vdo.ninja/?view=wWzcDMD&fps=30&bitrate=800",
       "taken": false,
       "catches": {
         "Avenitia": {
