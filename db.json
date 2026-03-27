@@ -17,7 +17,7 @@
         true,
         true,
         true,
-        false,
+        true,
         false,
         false,
         false
@@ -12866,14 +12866,14 @@
       "color": "yellow",
       "team": [
         "Ganovil",
-        "Elektek",
+        null,
         "Traunfugil",
         "Ledian",
         null,
         null
       ],
       "badges": [
-        false,
+        true,
         false,
         false,
         false,
@@ -12893,7 +12893,7 @@
         },
         "Route 1": {
           "name": "Elektek",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Eventura City": {
           "name": "",
