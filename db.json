@@ -12867,8 +12867,8 @@
       "team": [
         null,
         null,
-        "Traunfugil",
-        "Ledian",
+        null,
+        null,
         null,
         null
       ],
@@ -12892,24 +12892,24 @@
           "status": ""
         },
         "Route 1": {
-          "name": "Elektek",
-          "status": "Tot"
+          "name": "",
+          "status": ""
         },
         "Eventura City": {
           "name": "",
           "status": ""
         },
         "Route 2": {
-          "name": "Traunfugil",
-          "status": "Lebendig"
+          "name": "",
+          "status": ""
         },
         "Accumula Town": {
           "name": "",
           "status": ""
         },
         "Route 3": {
-          "name": "Ampharos",
-          "status": "Tot"
+          "name": "",
+          "status": ""
         },
         "Orion City": {
           "name": "",
@@ -12936,8 +12936,8 @@
           "status": ""
         },
         "Route 4": {
-          "name": "Laternecto",
-          "status": "Tot"
+          "name": "",
+          "status": ""
         },
         "Route 4 - Statik": {
           "name": "",
@@ -13152,24 +13152,24 @@
           "status": ""
         },
         "Avenitia – Starter": {
-          "name": "Ganovil",
-          "status": "Tot"
+          "name": "",
+          "status": ""
         },
         "Orion City – Geschenk": {
-          "name": "Ledian",
-          "status": "Lebendig"
+          "name": "",
+          "status": ""
         },
         "Traumbrache (Dreamyard)": {
-          "name": "Quabbel",
-          "status": "Blockiert"
+          "name": "",
+          "status": ""
         },
         "Ewigenau (Daycare Bereich)": {
-          "name": "Tauros",
-          "status": "Tot"
+          "name": "",
+          "status": ""
         },
         "Septerna City": {
-          "name": "Nidorina",
-          "status": "Tot"
+          "name": "",
+          "status": ""
         },
         "Reliktburg (Relic Castle)": {
           "name": "",
@@ -13216,8 +13216,8 @@
           "status": ""
         },
         "Septerna City (Museum) – Fossil": {
-          "name": "Dragoran",
-          "status": "Lebendig"
+          "name": "",
+          "status": ""
         },
         "Neuborkia": {
           "name": "",
