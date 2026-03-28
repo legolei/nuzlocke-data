@@ -10,7 +10,7 @@
         "Ampharos",
         "Brutalanda",
         "Boreos",
-        "Moorabbel"
+        "Sumpex"
       ],
       "badges": [
         true,
@@ -48,7 +48,7 @@
           "status": "Lebendig"
         },
         "Route 3": {
-          "name": "Moorabbel",
+          "name": "Sumpex",
           "status": "Lebendig"
         },
         "Orion City": {
@@ -3948,8 +3948,8 @@
           "status": "Lebendig"
         },
         "Route 18": {
-          "name": "",
-          "status": ""
+          "name": "Suicune",
+          "status": "Lebendig"
         },
         "Antike Pforte": {
           "name": "",
@@ -7356,7 +7356,7 @@
         "Milza",
         "Sonnkern",
         "Krakeelo",
-        null
+        "Sniebel"
       ],
       "badges": [
         true,
@@ -7694,8 +7694,8 @@
           "status": ""
         },
         "Riesige Kluft (Giant Chasm)": {
-          "name": "",
-          "status": ""
+          "name": "Sniebel",
+          "status": "Lebendig"
         },
         "Siegesstraße (Victory Road)": {
           "name": "",
