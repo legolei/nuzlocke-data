@@ -7369,8 +7369,8 @@
         false
       ],
       "deaths": 0,
-      "mainStream": "",
-      "touchStream": "",
+      "mainStream": "https://vdo.ninja/?view=ZwMebCb&fps=30&bitrate=800",
+      "touchStream": "https://vdo.ninja/?view=ZwMebCb&fps=30&bitrate=800",
       "taken": false,
       "catches": {
         "Avenitia": {
@@ -9171,8 +9171,8 @@
         "top": 0,
         "w": 100,
         "h": 100,
-        "offX": -95,
-        "offY": -11,
+        "offX": -185,
+        "offY": -10,
         "userScale": 2.9
       },
       "touchAdj": {
