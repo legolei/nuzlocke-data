@@ -3681,7 +3681,7 @@
       "name": "Kevin",
       "color": "green",
       "team": [
-        null,
+        "Pygraulon",
         "Raichu",
         "Sumpex",
         "Machomei",
@@ -3699,8 +3699,8 @@
         false
       ],
       "deaths": 2,
-      "mainStream": "https://vdo.ninja/?view=6b8dRLC&fps=30&bitrate=800",
-      "touchStream": "https://vdo.ninja/?view=6b8dRLC&fps=30&bitrate=800",
+      "mainStream": "",
+      "touchStream": "",
       "taken": false,
       "catches": {
         "Avenitia": {
