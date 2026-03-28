@@ -272,8 +272,8 @@
           "status": "Lebendig"
         },
         "Route 18": {
-          "name": "",
-          "status": ""
+          "name": "Relicanth",
+          "status": "Blockiert"
         },
         "Antike Pforte": {
           "name": "",
@@ -3852,8 +3852,8 @@
           "status": "Lebendig"
         },
         "Moor von Nevaio": {
-          "name": "",
-          "status": ""
+          "name": "Ibitak",
+          "status": "Lebendig"
         },
         "Twindrake City": {
           "name": "",
@@ -3992,8 +3992,8 @@
           "status": ""
         },
         "Stratos City – Geschenk": {
-          "name": "",
-          "status": ""
+          "name": "Knilz",
+          "status": "Lebendig"
         },
         "Pinwheel Forest (Außen)": {
           "name": "Boreos",
@@ -4008,8 +4008,8 @@
           "status": "Blockiert"
         },
         "Panaero City": {
-          "name": "Knilz",
-          "status": "Lebendig"
+          "name": "",
+          "status": ""
         },
         "Himmelturm (Celestial Tower)": {
           "name": "Corasonn",
