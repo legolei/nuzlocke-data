@@ -12868,8 +12868,8 @@
         "Glutexo",
         "Rihornior",
         "Skallyk",
-        "Finneon",
-        "Taubsi",
+        null,
+        null,
         "Staravia"
       ],
       "badges": [
@@ -13161,11 +13161,11 @@
         },
         "Traumbrache (Dreamyard)": {
           "name": "Finneon",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Ewigenau (Daycare Bereich)": {
           "name": "Taubsi",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Septerna City": {
           "name": "Staravia",
