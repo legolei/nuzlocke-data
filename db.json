@@ -7351,9 +7351,9 @@
       "name": "Richard",
       "color": "orange",
       "team": [
-        "Kapuno",
+        "Finneon",
         "Qurtel",
-        "Milza",
+        "Hoothoot",
         "Sonnkern",
         "Krakeelo",
         "Sniebel"
@@ -7387,7 +7387,7 @@
         },
         "Route 2": {
           "name": "Milza",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Accumula Town": {
           "name": "",
@@ -7639,7 +7639,7 @@
         },
         "Avenitia – Starter": {
           "name": "Kapuno",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Orion City – Geschenk": {
           "name": "Sonnkern",
