@@ -1861,8 +1861,8 @@
         false
       ],
       "deaths": 1,
-      "mainStream": "https://vdo.ninja/?view=2jTkBQS",
-      "touchStream": "https://vdo.ninja/?view=2jTkBQS",
+      "mainStream": "",
+      "touchStream": "",
       "taken": false,
       "catches": {
         "Avenitia": {
@@ -3681,7 +3681,7 @@
       "name": "Kevin",
       "color": "green",
       "team": [
-        "Zytomega",
+        null,
         "Raichu",
         "Sumpex",
         "Machomei",
@@ -3698,7 +3698,7 @@
         true,
         false
       ],
-      "deaths": 1,
+      "deaths": 2,
       "mainStream": "https://vdo.ninja/?view=6b8dRLC&fps=30&bitrate=800",
       "touchStream": "https://vdo.ninja/?view=6b8dRLC&fps=30&bitrate=800",
       "taken": false,
@@ -3721,7 +3721,7 @@
         },
         "Accumula Town": {
           "name": "Zytomega",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Route 3": {
           "name": "Wielie",
@@ -3973,7 +3973,7 @@
         },
         "Orion City – Geschenk": {
           "name": "Zytomega",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Traumbrache (Dreamyard)": {
           "name": "Pygraulon",
@@ -14745,6 +14745,11 @@
       "name": "Boreos",
       "player": 0,
       "color": "red"
+    },
+    {
+      "name": "Zytomega",
+      "player": 2,
+      "color": "green"
     }
   ]
 }
