@@ -5,11 +5,11 @@
       "name": "Legolei",
       "color": "red",
       "team": [
-        "Nidoking",
-        "Meganie",
-        "Ampharos",
+        "Rayquaza",
+        null,
+        null,
         "Brutalanda",
-        "Boreos",
+        null,
         "Sumpex"
       ],
       "badges": [
@@ -22,7 +22,7 @@
         true,
         false
       ],
-      "deaths": 0,
+      "deaths": 4,
       "mainStream": "https://vdo.ninja/?view=Tf55kiQ&fps=30&bitrate=800",
       "touchStream": "https://vdo.ninja/?view=Tf55kiQ&fps=30&bitrate=800",
       "taken": false,
@@ -33,7 +33,7 @@
         },
         "Route 1": {
           "name": "Meganie",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Eventura City": {
           "name": "Wingull",
@@ -41,7 +41,7 @@
         },
         "Route 2": {
           "name": "Ampharos",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Accumula Town": {
           "name": "Spoink",
@@ -305,7 +305,7 @@
         },
         "Ewigenau (Daycare Bereich)": {
           "name": "Nidoking",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Septerna City": {
           "name": "Tanhel",
@@ -325,15 +325,15 @@
         },
         "Pinwheel Forest (Innen)": {
           "name": "Boreos",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Elektrikhöhle (Chargestone Cave)": {
           "name": "Siberio",
           "status": "Lebendig"
         },
         "Panaero City": {
-          "name": "",
-          "status": ""
+          "name": "Rayquaza",
+          "status": "Lebendig"
         },
         "Himmelturm (Celestial Tower)": {
           "name": "Mew",
@@ -14725,6 +14725,26 @@
       "name": "Wielie",
       "player": 2,
       "color": "green"
+    },
+    {
+      "name": "Nidoking",
+      "player": 0,
+      "color": "red"
+    },
+    {
+      "name": "Meganie",
+      "player": 0,
+      "color": "red"
+    },
+    {
+      "name": "Ampharos",
+      "player": 0,
+      "color": "red"
+    },
+    {
+      "name": "Boreos",
+      "player": 0,
+      "color": "red"
     }
   ]
 }
