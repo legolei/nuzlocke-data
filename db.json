@@ -336,8 +336,8 @@
           "status": ""
         },
         "Himmelturm (Celestial Tower)": {
-          "name": "",
-          "status": ""
+          "name": "Mew",
+          "status": "Lebendig"
         },
         "Twist Mountain": {
           "name": "",
@@ -1861,8 +1861,8 @@
         false
       ],
       "deaths": 1,
-      "mainStream": "",
-      "touchStream": "",
+      "mainStream": "https://vdo.ninja/?view=2jTkBQS",
+      "touchStream": "https://vdo.ninja/?view=2jTkBQS",
       "taken": false,
       "catches": {
         "Avenitia": {
