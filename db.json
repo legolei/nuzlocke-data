@@ -3695,7 +3695,7 @@
         true,
         true,
         true,
-        false,
+        true,
         false
       ],
       "deaths": 1,
