@@ -268,8 +268,8 @@
           "status": ""
         },
         "Route 17": {
-          "name": "",
-          "status": ""
+          "name": "Maskeregen",
+          "status": "Lebendig"
         },
         "Route 18": {
           "name": "",
@@ -2002,7 +2002,7 @@
           "status": ""
         },
         "Nevaio City": {
-          "name": "Echnatoll",
+          "name": "Endivie",
           "status": "Lebendig"
         },
         "Nevaio City Arena": {
@@ -2182,8 +2182,8 @@
           "status": "Lebendig"
         },
         "Drachenstiege (Dragonspiral Tower)": {
-          "name": "",
-          "status": ""
+          "name": "Echnatoll",
+          "status": "Lebendig"
         },
         "Riesige Kluft (Giant Chasm)": {
           "name": "",
