@@ -1848,7 +1848,7 @@
         "Snibunna",
         "Tauboss",
         "Hundemon",
-        "Flegmon"
+        "Lahmus"
       ],
       "badges": [
         true,
@@ -1886,7 +1886,7 @@
           "status": "Lebendig"
         },
         "Route 3": {
-          "name": "Flegmon",
+          "name": "Lahmus",
           "status": "Lebendig"
         },
         "Orion City": {
