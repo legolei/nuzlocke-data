@@ -7,10 +7,10 @@
       "team": [
         "Rayquaza",
         "Mew",
-        "Luxtra",
-        "Nachtara",
         "Brutalanda",
-        "Sumpex"
+        "Nachtara",
+        "Luxtra",
+        null
       ],
       "badges": [
         true,
@@ -22,7 +22,7 @@
         true,
         false
       ],
-      "deaths": 4,
+      "deaths": 3,
       "mainStream": "https://vdo.ninja/?view=NYM7FQy&fps=30&bitrate=800",
       "touchStream": "https://vdo.ninja/?view=NYM7FQy&fps=30&bitrate=800",
       "taken": false,
@@ -184,8 +184,8 @@
           "status": ""
         },
         "Drachenstiege": {
-          "name": "Icognito",
-          "status": "Blockiert"
+          "name": "",
+          "status": ""
         },
         "Drachenstiege - Statik": {
           "name": "",
@@ -305,7 +305,7 @@
         },
         "Ewigenau (Daycare Bereich)": {
           "name": "Nidoking",
-          "status": "Tot"
+          "status": "Lebendig"
         },
         "Septerna City": {
           "name": "Tanhel",
@@ -1828,16 +1828,16 @@
           "status": "Lebendig"
         },
         "Grundwassersenke": {
-          "name": "Nidoking",
-          "status": "Tot"
+          "name": "",
+          "status": ""
         },
         "Septerna City (Fossil)": {
           "name": "Rasaff",
           "status": "Lebendig"
         },
         "Ewigenwald": {
-          "name": "Xatu",
-          "status": "Blockiert"
+          "name": "",
+          "status": ""
         },
         "Ewigenwald (Statik)": {
           "name": "Regigigas",
@@ -1856,8 +1856,8 @@
           "status": "Lebendig"
         },
         "Panaero-Höhle": {
-          "name": "Dusselgurr",
-          "status": "Blockiert"
+          "name": "",
+          "status": ""
         },
         "Panaero-Höhle (Statik)": {
           "name": "Rayquaza",
@@ -3866,11 +3866,11 @@
       "color": "green",
       "team": [
         "Rizeros",
-        "Raichu",
+        "Fasasnob",
         "Sumpex",
-        "Zwirrfinst",
+        "Zapplarang",
         "Elfun",
-        "Zapplarang"
+        "Zwirrfinst"
       ],
       "badges": [
         true,
@@ -4020,8 +4020,8 @@
           "status": ""
         },
         "Turm des Himmels": {
-          "name": "",
-          "status": ""
+          "name": "Corasonn",
+          "status": "Blockiert"
         },
         "Nevaio City": {
           "name": "Zapplarang",
@@ -5708,8 +5708,8 @@
           "status": "Lebendig"
         },
         "Marea-Zugbrücke": {
-          "name": "",
-          "status": ""
+          "name": "Pandir",
+          "status": "Blockiert"
         },
         "Tiefkühlcontainer": {
           "name": "Boreos",
@@ -5725,7 +5725,7 @@
         },
         "Elektrolithöhle": {
           "name": "",
-          "status": ""
+          "status": "Blockiert"
         },
         "Wendelberg": {
           "name": "Noktuska",
@@ -13509,17 +13509,17 @@
       "name": "Fabian",
       "color": "yellow",
       "team": [
-        null,
+        "Glutexo",
         "Rihornior",
         "Victini",
         "Skallyk",
-        null,
+        "Staravia",
         null
       ],
       "badges": [
         true,
         true,
-        true,
+        false,
         false,
         false,
         false,
@@ -13553,7 +13553,7 @@
         },
         "Route 3": {
           "name": "Glutexo",
-          "status": "Tot"
+          "status": "Lebendig"
         },
         "Orion City": {
           "name": "",
@@ -15333,7 +15333,7 @@
         },
         "Grundwassersenke": {
           "name": "Staravia",
-          "status": "Tot"
+          "status": "Lebendig"
         },
         "Septerna City (Fossil)": {
           "name": "Rollum",
@@ -15468,12 +15468,7 @@
       "color": "green"
     },
     {
-      "name": "Boreos",
-      "player": 0,
-      "color": "red"
-    },
-    {
-      "name": "Nidoking",
+      "name": "Meganie",
       "player": 0,
       "color": "red"
     },
@@ -15483,7 +15478,7 @@
       "color": "red"
     },
     {
-      "name": "Meganie",
+      "name": "Boreos",
       "player": 0,
       "color": "red"
     }
