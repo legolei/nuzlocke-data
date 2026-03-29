@@ -7,9 +7,9 @@
       "team": [
         "Rayquaza",
         "Mew",
-        "Brutalanda",
-        "Nachtara",
         "Luxtra",
+        "Nachtara",
+        "Brutalanda",
         "Sumpex"
       ],
       "badges": [
@@ -22,9 +22,9 @@
         true,
         false
       ],
-      "deaths": 0,
-      "mainStream": "https://vdo.ninja/?view=Tf55kiQ&fps=30&bitrate=800",
-      "touchStream": "https://vdo.ninja/?view=Tf55kiQ&fps=30&bitrate=800",
+      "deaths": 4,
+      "mainStream": "https://vdo.ninja/?view=NYM7FQy&fps=30&bitrate=800",
+      "touchStream": "https://vdo.ninja/?view=NYM7FQy&fps=30&bitrate=800",
       "taken": false,
       "catches": {
         "Avenitia": {
@@ -33,7 +33,7 @@
         },
         "Route 1": {
           "name": "Meganie",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Eventura City": {
           "name": "Wingull",
@@ -41,7 +41,7 @@
         },
         "Route 2": {
           "name": "Ampharos",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Accumula Town": {
           "name": "Spoink",
@@ -184,8 +184,8 @@
           "status": ""
         },
         "Drachenstiege": {
-          "name": "",
-          "status": ""
+          "name": "Icognito",
+          "status": "Blockiert"
         },
         "Drachenstiege - Statik": {
           "name": "",
@@ -305,7 +305,7 @@
         },
         "Ewigenau (Daycare Bereich)": {
           "name": "Nidoking",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Septerna City": {
           "name": "Tanhel",
@@ -325,7 +325,7 @@
         },
         "Pinwheel Forest (Innen)": {
           "name": "Boreos",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Elektrikhöhle (Chargestone Cave)": {
           "name": "Siberio",
@@ -1828,16 +1828,16 @@
           "status": "Lebendig"
         },
         "Grundwassersenke": {
-          "name": "",
-          "status": ""
+          "name": "Nidoking",
+          "status": "Tot"
         },
         "Septerna City (Fossil)": {
           "name": "Rasaff",
           "status": "Lebendig"
         },
         "Ewigenwald": {
-          "name": "",
-          "status": ""
+          "name": "Xatu",
+          "status": "Blockiert"
         },
         "Ewigenwald (Statik)": {
           "name": "Regigigas",
@@ -1856,8 +1856,8 @@
           "status": "Lebendig"
         },
         "Panaero-Höhle": {
-          "name": "",
-          "status": ""
+          "name": "Dusselgurr",
+          "status": "Blockiert"
         },
         "Panaero-Höhle (Statik)": {
           "name": "Rayquaza",
@@ -1904,12 +1904,12 @@
           "status": ""
         },
         "Hain der Täuschung": {
-          "name": "",
-          "status": ""
+          "name": "Boreos",
+          "status": "Tot"
         },
         "Route 18 (Ei)": {
-          "name": "",
-          "status": ""
+          "name": "Flurmel",
+          "status": "Lebendig"
         }
       },
       "mainAdj": {
@@ -3865,12 +3865,12 @@
       "name": "Kevin",
       "color": "green",
       "team": [
-        null,
+        "Rizeros",
         "Raichu",
         "Sumpex",
-        null,
+        "Zwirrfinst",
         "Elfun",
-        null
+        "Zapplarang"
       ],
       "badges": [
         true,
@@ -3883,8 +3883,8 @@
         false
       ],
       "deaths": 2,
-      "mainStream": "",
-      "touchStream": "",
+      "mainStream": "https://vdo.ninja/?view=jQC9czj&fps=30&bitrate=800",
+      "touchStream": "https://vdo.ninja/?view=jQC9czj&fps=30&bitrate=800",
       "taken": false,
       "catches": {
         "Avenitia": {
@@ -4024,7 +4024,7 @@
           "status": ""
         },
         "Nevaio City": {
-          "name": "Zapplardin",
+          "name": "Zapplarang",
           "status": "Lebendig"
         },
         "Nevaio City Arena": {
@@ -5684,8 +5684,8 @@
           "status": ""
         },
         "Traumbrache (Geschenk)": {
-          "name": "",
-          "status": ""
+          "name": "Zytomega",
+          "status": "Tot"
         },
         "Grundwassersenke": {
           "name": "Machomei",
@@ -13509,17 +13509,17 @@
       "name": "Fabian",
       "color": "yellow",
       "team": [
-        "Glutexo",
+        null,
         "Rihornior",
         "Victini",
         "Skallyk",
-        "Staravia",
+        null,
         null
       ],
       "badges": [
         true,
         true,
-        false,
+        true,
         false,
         false,
         false,
@@ -13553,7 +13553,7 @@
         },
         "Route 3": {
           "name": "Glutexo",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Orion City": {
           "name": "",
@@ -15333,7 +15333,7 @@
         },
         "Grundwassersenke": {
           "name": "Staravia",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Septerna City (Fossil)": {
           "name": "Rollum",
@@ -15466,6 +15466,26 @@
       "name": "Zytomega",
       "player": 2,
       "color": "green"
+    },
+    {
+      "name": "Boreos",
+      "player": 0,
+      "color": "red"
+    },
+    {
+      "name": "Nidoking",
+      "player": 0,
+      "color": "red"
+    },
+    {
+      "name": "Ampharos",
+      "player": 0,
+      "color": "red"
+    },
+    {
+      "name": "Meganie",
+      "player": 0,
+      "color": "red"
     }
   ]
 }
