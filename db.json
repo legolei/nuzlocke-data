@@ -3866,7 +3866,7 @@
       "color": "green",
       "team": [
         "Rihornior",
-        null,
+        "Giratina",
         "Sumpex",
         "Zapplarang",
         "Elfun",
@@ -7737,8 +7737,8 @@
         false
       ],
       "deaths": 2,
-      "mainStream": "https://vdo.ninja/?view=iE6xgLy&fps=30&bitrate=800",
-      "touchStream": "https://vdo.ninja/?view=iE6xgLy&fps=30&bitrate=800",
+      "mainStream": "",
+      "touchStream": "",
       "taken": false,
       "catches": {
         "Avenitia": {
