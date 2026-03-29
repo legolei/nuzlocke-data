@@ -13509,7 +13509,7 @@
       "name": "Fabian",
       "color": "yellow",
       "team": [
-        "Bisasam",
+        null,
         null,
         null,
         null,
@@ -13532,20 +13532,20 @@
       "taken": false,
       "catches": {
         "Avenitia": {
-          "name": "Bisasam",
-          "status": "Lebendig"
+          "name": "",
+          "status": ""
         },
         "Route 1": {
-          "name": "Kangama",
-          "status": "Blockiert"
+          "name": "",
+          "status": ""
         },
         "Eventura City": {
           "name": "",
           "status": ""
         },
         "Route 2": {
-          "name": "Somnivora",
-          "status": "Blockiert"
+          "name": "",
+          "status": ""
         },
         "Accumula Town": {
           "name": "",
