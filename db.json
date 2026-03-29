@@ -13510,9 +13510,9 @@
       "color": "yellow",
       "team": [
         null,
-        "Bojelin",
-        "Geradaks",
-        "Zobiris",
+        null,
+        null,
+        null,
         null,
         null
       ],
@@ -13532,28 +13532,28 @@
       "taken": false,
       "catches": {
         "Avenitia": {
-          "name": "Kleinstein",
-          "status": "Tot"
+          "name": "",
+          "status": ""
         },
         "Route 1": {
-          "name": "Knarksel",
-          "status": "Blockiert"
+          "name": "",
+          "status": ""
         },
         "Eventura City": {
           "name": "",
           "status": ""
         },
         "Route 2": {
-          "name": "Bojelin",
-          "status": "Lebendig"
+          "name": "",
+          "status": ""
         },
         "Accumula Town": {
           "name": "",
           "status": ""
         },
         "Route 3": {
-          "name": "Keifel",
-          "status": "Tot"
+          "name": "",
+          "status": ""
         },
         "Orion City": {
           "name": "",
@@ -13564,8 +13564,8 @@
           "status": ""
         },
         "Traumbrache": {
-          "name": "Symvolara",
-          "status": "Tot"
+          "name": "",
+          "status": ""
         },
         "Orion City Arena": {
           "name": "",
@@ -13580,8 +13580,8 @@
           "status": ""
         },
         "Route 4": {
-          "name": "Zobiris",
-          "status": "Lebendig"
+          "name": "",
+          "status": ""
         },
         "Route 4 - Statik": {
           "name": "",
@@ -15328,20 +15328,20 @@
           "status": ""
         },
         "Traumbrache (Geschenk)": {
-          "name": "Luxio",
-          "status": "Tot"
+          "name": "",
+          "status": ""
         },
         "Grundwassersenke": {
-          "name": "Rotom",
-          "status": "Tot"
+          "name": "",
+          "status": ""
         },
         "Septerna City (Fossil)": {
           "name": "",
           "status": ""
         },
         "Ewigenwald": {
-          "name": "Geradaks",
-          "status": "Lebendig"
+          "name": "",
+          "status": ""
         },
         "Ewigenwald (Statik)": {
           "name": "",
