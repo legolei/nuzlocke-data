@@ -172,8 +172,8 @@
           "status": ""
         },
         "Route 8": {
-          "name": "",
-          "status": ""
+          "name": "Pionskora",
+          "status": "Lebendig"
         },
         "Moor von Nevaio": {
           "name": "",
@@ -13509,17 +13509,17 @@
       "name": "Fabian",
       "color": "yellow",
       "team": [
-        "Glutexo",
+        "Rollum",
         "Rihornior",
         "Victini",
         "Skallyk",
-        "Staravia",
+        "Plinfa",
         null
       ],
       "badges": [
         true,
         true,
-        false,
+        true,
         false,
         false,
         false,
@@ -13553,7 +13553,7 @@
         },
         "Route 3": {
           "name": "Glutexo",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Orion City": {
           "name": "",
@@ -13588,8 +13588,8 @@
           "status": ""
         },
         "Wüstenresort": {
-          "name": "",
-          "status": ""
+          "name": "Plinfa",
+          "status": "Lebendig"
         },
         "Reliktburg": {
           "name": "",
@@ -15333,7 +15333,7 @@
         },
         "Grundwassersenke": {
           "name": "Staravia",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Septerna City (Fossil)": {
           "name": "Rollum",
