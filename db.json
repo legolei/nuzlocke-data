@@ -3866,7 +3866,7 @@
       "color": "green",
       "team": [
         "Rihornior",
-        "Fasasnob",
+        null,
         "Sumpex",
         "Zapplarang",
         "Elfun",
@@ -3882,7 +3882,7 @@
         true,
         false
       ],
-      "deaths": 2,
+      "deaths": 3,
       "mainStream": "https://vdo.ninja/?view=jQC9czj&fps=30&bitrate=800",
       "touchStream": "https://vdo.ninja/?view=jQC9czj&fps=30&bitrate=800",
       "taken": false,
@@ -4209,7 +4209,7 @@
         },
         "Riesige Kluft (Giant Chasm)": {
           "name": "Fasasnob",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Siegesstraße (Victory Road)": {
           "name": "",
@@ -5705,7 +5705,7 @@
         },
         "Alter Palast": {
           "name": "Fasasnob",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Marea-Zugbrücke": {
           "name": "Pandir",
@@ -13509,12 +13509,12 @@
       "name": "Fabian",
       "color": "yellow",
       "team": [
-        "Rollum",
-        null,
-        "Skuntank",
-        "Bisaflor",
         "Pliprin",
-        "Folipurba"
+        "Skallyk",
+        "Burmy",
+        null,
+        null,
+        null
       ],
       "badges": [
         true,
@@ -13617,7 +13617,7 @@
         },
         "Route 16": {
           "name": "Bisaflor",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Wunderbrücke": {
           "name": "",
@@ -13629,7 +13629,7 @@
         },
         "Route 5": {
           "name": "Folipurba",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Driftveil City": {
           "name": "",
@@ -15337,7 +15337,7 @@
         },
         "Septerna City (Fossil)": {
           "name": "Rollum",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Ewigenwald": {
           "name": "Taubsi",
@@ -15409,7 +15409,7 @@
         },
         "Hain der Täuschung": {
           "name": "Skuntank",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Route 18 (Ei)": {
           "name": "",
@@ -15496,6 +15496,11 @@
       "name": "Milza",
       "player": 4,
       "color": "orange"
+    },
+    {
+      "name": "Fasasnob",
+      "player": 2,
+      "color": "green"
     }
   ]
 }
