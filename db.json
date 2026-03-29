@@ -13513,7 +13513,7 @@
         "Bojelin",
         "Luxio",
         "Symvolara",
-        null,
+        "Keifel",
         null
       ],
       "badges": [
@@ -13553,7 +13553,7 @@
         },
         "Route 3": {
           "name": "Keifel",
-          "status": ""
+          "status": "Lebendig"
         },
         "Orion City": {
           "name": "",
