@@ -13509,7 +13509,7 @@
       "name": "Fabian",
       "color": "yellow",
       "team": [
-        null,
+        "Kleinstein",
         null,
         null,
         null,
@@ -13532,8 +13532,8 @@
       "taken": false,
       "catches": {
         "Avenitia": {
-          "name": "",
-          "status": ""
+          "name": "Kleinstein",
+          "status": "Lebendig"
         },
         "Route 1": {
           "name": "",
