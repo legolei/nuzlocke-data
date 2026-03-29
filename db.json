@@ -13517,9 +13517,9 @@
         null
       ],
       "badges": [
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -13536,8 +13536,8 @@
           "status": "Lebendig"
         },
         "Route 1": {
-          "name": "",
-          "status": ""
+          "name": "Kangama",
+          "status": "Blockiert"
         },
         "Eventura City": {
           "name": "",
