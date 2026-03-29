@@ -6,10 +6,10 @@
       "color": "red",
       "team": [
         "Rayquaza",
-        null,
-        null,
-        null,
-        "Luxio",
+        "Mew",
+        "Brutalanda",
+        "Nachtara",
+        "Luxtra",
         "Sumpex"
       ],
       "badges": [
@@ -22,18 +22,18 @@
         true,
         false
       ],
-      "deaths": 4,
+      "deaths": 0,
       "mainStream": "https://vdo.ninja/?view=Tf55kiQ&fps=30&bitrate=800",
       "touchStream": "https://vdo.ninja/?view=Tf55kiQ&fps=30&bitrate=800",
       "taken": false,
       "catches": {
         "Avenitia": {
-          "name": "Plinfa",
+          "name": "Zwottronin",
           "status": "Lebendig"
         },
         "Route 1": {
           "name": "Meganie",
-          "status": "Tot"
+          "status": "Lebendig"
         },
         "Eventura City": {
           "name": "Wingull",
@@ -41,7 +41,7 @@
         },
         "Route 2": {
           "name": "Ampharos",
-          "status": "Tot"
+          "status": "Lebendig"
         },
         "Accumula Town": {
           "name": "Spoink",
@@ -60,7 +60,7 @@
           "status": ""
         },
         "Traumbrache": {
-          "name": "Smogmog",
+          "name": "Barschuft",
           "status": "Lebendig"
         },
         "Orion City Arena": {
@@ -76,7 +76,7 @@
           "status": ""
         },
         "Route 4": {
-          "name": "Luxio",
+          "name": "Luxtra",
           "status": "Lebendig"
         },
         "Route 4 - Statik": {
@@ -112,7 +112,7 @@
           "status": ""
         },
         "Route 16": {
-          "name": "Zigzachs",
+          "name": "Geradaks",
           "status": "Lebendig"
         },
         "Wunderbrücke": {
@@ -160,8 +160,8 @@
           "status": ""
         },
         "Turm des Himmels": {
-          "name": "",
-          "status": ""
+          "name": "Mew",
+          "status": "Lebendig"
         },
         "Nevaio City": {
           "name": "Bibor",
@@ -232,8 +232,8 @@
           "status": ""
         },
         "Route 13": {
-          "name": "Regigigas",
-          "status": "Lebendig"
+          "name": "",
+          "status": ""
         },
         "Undella Town": {
           "name": "",
@@ -305,7 +305,7 @@
         },
         "Ewigenau (Daycare Bereich)": {
           "name": "Nidoking",
-          "status": "Tot"
+          "status": "Lebendig"
         },
         "Septerna City": {
           "name": "Tanhel",
@@ -325,15 +325,15 @@
         },
         "Pinwheel Forest (Innen)": {
           "name": "Boreos",
-          "status": "Tot"
+          "status": "Lebendig"
         },
         "Elektrikhöhle (Chargestone Cave)": {
           "name": "Siberio",
           "status": "Lebendig"
         },
         "Panaero City": {
-          "name": "Rayquaza",
-          "status": "Lebendig"
+          "name": "",
+          "status": ""
         },
         "Himmelturm (Celestial Tower)": {
           "name": "Mew",
@@ -1824,52 +1824,52 @@
           "status": ""
         },
         "Traumbrache (Geschenk)": {
-          "name": "",
-          "status": ""
+          "name": "Brutalanda",
+          "status": "Lebendig"
         },
         "Grundwassersenke": {
           "name": "",
           "status": ""
         },
         "Septerna City (Fossil)": {
-          "name": "",
-          "status": ""
+          "name": "Rasaff",
+          "status": "Lebendig"
         },
         "Ewigenwald": {
           "name": "",
           "status": ""
         },
         "Ewigenwald (Statik)": {
-          "name": "",
-          "status": ""
+          "name": "Regigigas",
+          "status": "Lebendig"
         },
         "Alter Palast": {
-          "name": "",
-          "status": ""
+          "name": "Rizeros",
+          "status": "Lebendig"
         },
         "Marea-Zugbrücke": {
           "name": "",
           "status": ""
         },
         "Tiefkühlcontainer": {
-          "name": "",
-          "status": ""
+          "name": "Grillchita",
+          "status": "Lebendig"
         },
         "Panaero-Höhle": {
           "name": "",
           "status": ""
         },
         "Panaero-Höhle (Statik)": {
-          "name": "",
-          "status": ""
+          "name": "Rayquaza",
+          "status": "Lebendig"
         },
         "Elektrolithöhle": {
-          "name": "",
-          "status": ""
+          "name": "Siberio",
+          "status": "Lebendig"
         },
         "Wendelberg": {
-          "name": "",
-          "status": ""
+          "name": "Nachtara",
+          "status": "Lebendig"
         },
         "Höhle der Schulung": {
           "name": "",
@@ -3865,7 +3865,7 @@
       "name": "Kevin",
       "color": "green",
       "team": [
-        "Pygraulon",
+        null,
         "Raichu",
         "Sumpex",
         null,
@@ -3888,7 +3888,7 @@
       "taken": false,
       "catches": {
         "Avenitia": {
-          "name": "Schillok",
+          "name": "Turtok",
           "status": "Lebendig"
         },
         "Route 1": {
@@ -3920,7 +3920,7 @@
           "status": ""
         },
         "Traumbrache": {
-          "name": "Pygraulon",
+          "name": "Megalon",
           "status": "Lebendig"
         },
         "Orion City Arena": {
@@ -4044,8 +4044,8 @@
           "status": ""
         },
         "Drachenstiege": {
-          "name": "",
-          "status": ""
+          "name": "Ampharos",
+          "status": "Lebendig"
         },
         "Drachenstiege - Statik": {
           "name": "",
@@ -5688,48 +5688,48 @@
           "status": ""
         },
         "Grundwassersenke": {
-          "name": "",
-          "status": ""
+          "name": "Machomei",
+          "status": "Lebendig"
         },
         "Septerna City (Fossil)": {
-          "name": "",
-          "status": ""
+          "name": "Rizeros",
+          "status": "Lebendig"
         },
         "Ewigenwald": {
-          "name": "",
-          "status": ""
+          "name": "Somnivora",
+          "status": "Lebendig"
         },
         "Ewigenwald (Statik)": {
-          "name": "",
-          "status": ""
+          "name": "Shaymin",
+          "status": "Lebendig"
         },
         "Alter Palast": {
-          "name": "",
-          "status": ""
+          "name": "Fasasnob",
+          "status": "Lebendig"
         },
         "Marea-Zugbrücke": {
           "name": "",
           "status": ""
         },
         "Tiefkühlcontainer": {
-          "name": "",
-          "status": ""
+          "name": "Boreos",
+          "status": "Lebendig"
         },
         "Panaero-Höhle": {
-          "name": "",
-          "status": ""
+          "name": "Bisaflor",
+          "status": "Lebendig"
         },
         "Panaero-Höhle (Statik)": {
-          "name": "",
-          "status": ""
+          "name": "Mana",
+          "status": "Lebendig"
         },
         "Elektrolithöhle": {
           "name": "",
           "status": ""
         },
         "Wendelberg": {
-          "name": "",
-          "status": ""
+          "name": "Noktuska",
+          "status": "Lebendig"
         },
         "Höhle der Schulung": {
           "name": "",
@@ -5764,12 +5764,12 @@
           "status": ""
         },
         "Hain der Täuschung": {
-          "name": "",
-          "status": ""
+          "name": "Zwirrfinst",
+          "status": "Lebendig"
         },
         "Route 18 (Ei)": {
-          "name": "",
-          "status": ""
+          "name": "Kapilz",
+          "status": "Lebendig"
         }
       },
       "mainAdj": {
@@ -13511,9 +13511,9 @@
       "team": [
         "Glutexo",
         "Rihornior",
-        null,
-        null,
-        null,
+        "Victini",
+        "Skallyk",
+        "Staravia",
         null
       ],
       "badges": [
@@ -13532,8 +13532,8 @@
       "taken": false,
       "catches": {
         "Avenitia": {
-          "name": "",
-          "status": ""
+          "name": "Kapuno",
+          "status": "Tot"
         },
         "Route 1": {
           "name": "Rihornior",
@@ -13564,8 +13564,8 @@
           "status": ""
         },
         "Traumbrache": {
-          "name": "",
-          "status": ""
+          "name": "Finneon",
+          "status": "Tot"
         },
         "Orion City Arena": {
           "name": "",
@@ -13580,8 +13580,8 @@
           "status": ""
         },
         "Route 4": {
-          "name": "",
-          "status": ""
+          "name": "Victini",
+          "status": "Lebendig"
         },
         "Route 4 - Statik": {
           "name": "",
@@ -15328,20 +15328,20 @@
           "status": ""
         },
         "Traumbrache (Geschenk)": {
-          "name": "",
-          "status": ""
+          "name": "Skallyk",
+          "status": "Lebendig"
         },
         "Grundwassersenke": {
-          "name": "",
-          "status": ""
+          "name": "Staravia",
+          "status": "Lebendig"
         },
         "Septerna City (Fossil)": {
-          "name": "",
-          "status": ""
+          "name": "Rollum",
+          "status": "Lebendig"
         },
         "Ewigenwald": {
-          "name": "",
-          "status": ""
+          "name": "Taubsi",
+          "status": "Tot"
         },
         "Ewigenwald (Statik)": {
           "name": "",
@@ -15461,26 +15461,6 @@
       "name": "Wielie",
       "player": 2,
       "color": "green"
-    },
-    {
-      "name": "Nidoking",
-      "player": 0,
-      "color": "red"
-    },
-    {
-      "name": "Meganie",
-      "player": 0,
-      "color": "red"
-    },
-    {
-      "name": "Ampharos",
-      "player": 0,
-      "color": "red"
-    },
-    {
-      "name": "Boreos",
-      "player": 0,
-      "color": "red"
     },
     {
       "name": "Zytomega",
