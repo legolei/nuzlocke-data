@@ -13509,9 +13509,9 @@
       "name": "Fabian",
       "color": "yellow",
       "team": [
-        "Pliprin",
-        "Skallyk",
-        "Burmy",
+        null,
+        null,
+        null,
         null,
         null,
         null
@@ -13532,28 +13532,28 @@
       "taken": false,
       "catches": {
         "Avenitia": {
-          "name": "Kapuno",
-          "status": "Tot"
+          "name": "",
+          "status": ""
         },
         "Route 1": {
-          "name": "Rihornior",
-          "status": "Tot"
+          "name": "",
+          "status": ""
         },
         "Eventura City": {
           "name": "",
           "status": ""
         },
         "Route 2": {
-          "name": "Gelatini",
-          "status": "Blockiert"
+          "name": "",
+          "status": ""
         },
         "Accumula Town": {
           "name": "",
           "status": ""
         },
         "Route 3": {
-          "name": "Glutexo",
-          "status": "Tot"
+          "name": "",
+          "status": ""
         },
         "Orion City": {
           "name": "",
@@ -13564,8 +13564,8 @@
           "status": ""
         },
         "Traumbrache": {
-          "name": "Finneon",
-          "status": "Tot"
+          "name": "",
+          "status": ""
         },
         "Orion City Arena": {
           "name": "",
@@ -13580,16 +13580,16 @@
           "status": ""
         },
         "Route 4": {
-          "name": "Victini",
-          "status": "Tot"
+          "name": "",
+          "status": ""
         },
         "Route 4 - Statik": {
           "name": "",
           "status": ""
         },
         "Wüstenresort": {
-          "name": "Pliprin",
-          "status": "Lebendig"
+          "name": "",
+          "status": ""
         },
         "Reliktburg": {
           "name": "",
@@ -13616,8 +13616,8 @@
           "status": ""
         },
         "Route 16": {
-          "name": "Bisaflor",
-          "status": "Tot"
+          "name": "",
+          "status": ""
         },
         "Wunderbrücke": {
           "name": "",
@@ -13628,8 +13628,8 @@
           "status": ""
         },
         "Route 5": {
-          "name": "Folipurba",
-          "status": "Tot"
+          "name": "",
+          "status": ""
         },
         "Driftveil City": {
           "name": "",
@@ -15328,28 +15328,28 @@
           "status": ""
         },
         "Traumbrache (Geschenk)": {
-          "name": "Skallyk",
-          "status": "Lebendig"
+          "name": "",
+          "status": ""
         },
         "Grundwassersenke": {
-          "name": "Staravia",
-          "status": "Tot"
+          "name": "",
+          "status": ""
         },
         "Septerna City (Fossil)": {
-          "name": "Rollum",
-          "status": "Tot"
+          "name": "",
+          "status": ""
         },
         "Ewigenwald": {
-          "name": "Taubsi",
-          "status": "Tot"
+          "name": "",
+          "status": ""
         },
         "Ewigenwald (Statik)": {
           "name": "",
           "status": ""
         },
         "Alter Palast": {
-          "name": "Burmy",
-          "status": "Lebendig"
+          "name": "",
+          "status": ""
         },
         "Marea-Zugbrücke": {
           "name": "",
@@ -15408,8 +15408,8 @@
           "status": ""
         },
         "Hain der Täuschung": {
-          "name": "Skuntank",
-          "status": "Tot"
+          "name": "",
+          "status": ""
         },
         "Route 18 (Ei)": {
           "name": "",
