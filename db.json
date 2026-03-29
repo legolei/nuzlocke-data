@@ -7721,14 +7721,14 @@
       "team": [
         "Finneon",
         "Qurtel",
-        null,
-        null,
-        null,
-        null
+        "Krakeelo",
+        "Sonnkern",
+        "Sniebel",
+        "Hoothoot"
       ],
       "badges": [
         true,
-        false,
+        true,
         false,
         false,
         false,
@@ -7736,14 +7736,14 @@
         false,
         false
       ],
-      "deaths": 0,
-      "mainStream": "https://vdo.ninja/?view=ZwMebCb&fps=30&bitrate=800",
-      "touchStream": "https://vdo.ninja/?view=ZwMebCb&fps=30&bitrate=800",
+      "deaths": 2,
+      "mainStream": "https://vdo.ninja/?view=iE6xgLy&fps=30&bitrate=800",
+      "touchStream": "https://vdo.ninja/?view=iE6xgLy&fps=30&bitrate=800",
       "taken": false,
       "catches": {
         "Avenitia": {
-          "name": "",
-          "status": ""
+          "name": "Kapuno",
+          "status": "Tot"
         },
         "Route 1": {
           "name": "Qurtel",
@@ -7774,8 +7774,8 @@
           "status": ""
         },
         "Traumbrache": {
-          "name": "",
-          "status": ""
+          "name": "Krakeelo",
+          "status": "Lebendig"
         },
         "Orion City Arena": {
           "name": "",
@@ -9538,20 +9538,20 @@
           "status": ""
         },
         "Traumbrache (Geschenk)": {
-          "name": "",
-          "status": ""
+          "name": "Sonnkern",
+          "status": "Lebendig"
         },
         "Grundwassersenke": {
-          "name": "",
-          "status": ""
+          "name": "Sniebel",
+          "status": "Lebendig"
         },
         "Septerna City (Fossil)": {
           "name": "",
           "status": ""
         },
         "Ewigenwald": {
-          "name": "",
-          "status": ""
+          "name": "Hoothoot",
+          "status": "Lebendig"
         },
         "Ewigenwald (Statik)": {
           "name": "",
@@ -13511,7 +13511,7 @@
       "team": [
         "Rollum",
         "Rihornior",
-        "Victini",
+        "Burmy",
         "Skallyk",
         "Plinfa",
         null
@@ -13581,7 +13581,7 @@
         },
         "Route 4": {
           "name": "Victini",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Route 4 - Statik": {
           "name": "",
@@ -15348,8 +15348,8 @@
           "status": ""
         },
         "Alter Palast": {
-          "name": "",
-          "status": ""
+          "name": "Burmy",
+          "status": "Lebendig"
         },
         "Marea-Zugbrücke": {
           "name": "",
@@ -15486,6 +15486,16 @@
       "name": "Nidoking",
       "player": 0,
       "color": "red"
+    },
+    {
+      "name": "Kapuno",
+      "player": 4,
+      "color": "orange"
+    },
+    {
+      "name": "Milza",
+      "player": 4,
+      "color": "orange"
     }
   ]
 }
