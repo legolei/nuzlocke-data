@@ -10,7 +10,7 @@
         null,
         null,
         "Luxio",
-        null
+        "Sumpex"
       ],
       "badges": [
         true,
@@ -1940,7 +1940,7 @@
         "Snibunna",
         "Tauboss",
         null,
-        null
+        "Lahmus"
       ],
       "badges": [
         true,
@@ -7719,7 +7719,7 @@
       "name": "Richard",
       "color": "orange",
       "team": [
-        null,
+        "Finneon",
         "Qurtel",
         null,
         null,
@@ -11584,7 +11584,7 @@
         "Voltenso",
         null,
         null,
-        null
+        "Noktuska"
       ],
       "badges": [
         true,
@@ -13509,10 +13509,10 @@
       "name": "Fabian",
       "color": "yellow",
       "team": [
-        null,
+        "Glutexo",
         "Rihornior",
-        "Skallyk",
-        "Victini",
+        null,
+        null,
         null,
         null
       ],
@@ -13532,8 +13532,8 @@
       "taken": false,
       "catches": {
         "Avenitia": {
-          "name": "Kapuno",
-          "status": "Tot"
+          "name": "",
+          "status": ""
         },
         "Route 1": {
           "name": "Rihornior",
@@ -13564,8 +13564,8 @@
           "status": ""
         },
         "Traumbrache": {
-          "name": "Finneon",
-          "status": "Tot"
+          "name": "",
+          "status": ""
         },
         "Orion City Arena": {
           "name": "",
@@ -13580,8 +13580,8 @@
           "status": ""
         },
         "Route 4": {
-          "name": "Victini",
-          "status": "Lebendig"
+          "name": "",
+          "status": ""
         },
         "Route 4 - Statik": {
           "name": "",
@@ -15328,20 +15328,20 @@
           "status": ""
         },
         "Traumbrache (Geschenk)": {
-          "name": "Skallyk",
-          "status": "Lebendig"
+          "name": "",
+          "status": ""
         },
         "Grundwassersenke": {
-          "name": "Staravia",
-          "status": "Lebendig"
+          "name": "",
+          "status": ""
         },
         "Septerna City (Fossil)": {
-          "name": "Rollum",
-          "status": "Lebendig"
+          "name": "",
+          "status": ""
         },
         "Ewigenwald": {
-          "name": "Taubsi",
-          "status": "Tot"
+          "name": "",
+          "status": ""
         },
         "Ewigenwald (Statik)": {
           "name": "",
