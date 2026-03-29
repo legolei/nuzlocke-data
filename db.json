@@ -13509,12 +13509,12 @@
       "name": "Fabian",
       "color": "yellow",
       "team": [
-        "Kleinstein",
-        "Bojelin",
-        "Luxio",
-        "Symvolara",
         null,
-        "Rotom"
+        "Bojelin",
+        null,
+        null,
+        null,
+        null
       ],
       "badges": [
         true,
@@ -13533,7 +13533,7 @@
       "catches": {
         "Avenitia": {
           "name": "Kleinstein",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Route 1": {
           "name": "Knarksel",
@@ -13565,7 +13565,7 @@
         },
         "Traumbrache": {
           "name": "Symvolara",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Orion City Arena": {
           "name": "",
@@ -15329,11 +15329,11 @@
         },
         "Traumbrache (Geschenk)": {
           "name": "Luxio",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Grundwassersenke": {
           "name": "Rotom",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Septerna City (Fossil)": {
           "name": "",
