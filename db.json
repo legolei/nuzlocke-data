@@ -13514,7 +13514,7 @@
         "Luxio",
         "Symvolara",
         "Keifel",
-        null
+        "Rotom"
       ],
       "badges": [
         true,
@@ -15332,8 +15332,8 @@
           "status": "Lebendig"
         },
         "Grundwassersenke": {
-          "name": "",
-          "status": ""
+          "name": "Rotom",
+          "status": "Lebendig"
         },
         "Septerna City (Fossil)": {
           "name": "",
