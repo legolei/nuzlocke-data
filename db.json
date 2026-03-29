@@ -10,7 +10,7 @@
         "Brutalanda",
         "Nachtara",
         "Luxtra",
-        null
+        "Sumpex"
       ],
       "badges": [
         true,
@@ -22,7 +22,7 @@
         true,
         false
       ],
-      "deaths": 3,
+      "deaths": 4,
       "mainStream": "https://vdo.ninja/?view=NYM7FQy&fps=30&bitrate=800",
       "touchStream": "https://vdo.ninja/?view=NYM7FQy&fps=30&bitrate=800",
       "taken": false,
@@ -184,8 +184,8 @@
           "status": ""
         },
         "Drachenstiege": {
-          "name": "",
-          "status": ""
+          "name": "Icognito",
+          "status": "Blockiert"
         },
         "Drachenstiege - Statik": {
           "name": "",
@@ -305,7 +305,7 @@
         },
         "Ewigenau (Daycare Bereich)": {
           "name": "Nidoking",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Septerna City": {
           "name": "Tanhel",
@@ -1828,16 +1828,16 @@
           "status": "Lebendig"
         },
         "Grundwassersenke": {
-          "name": "",
-          "status": ""
+          "name": "Nidoking",
+          "status": "Tot"
         },
         "Septerna City (Fossil)": {
           "name": "Rasaff",
           "status": "Lebendig"
         },
         "Ewigenwald": {
-          "name": "",
-          "status": ""
+          "name": "Xatu",
+          "status": "Blockiert"
         },
         "Ewigenwald (Statik)": {
           "name": "Regigigas",
@@ -1856,8 +1856,8 @@
           "status": "Lebendig"
         },
         "Panaero-Höhle": {
-          "name": "",
-          "status": ""
+          "name": "Bidifas",
+          "status": "Blockiert"
         },
         "Panaero-Höhle (Statik)": {
           "name": "Rayquaza",
@@ -4192,8 +4192,8 @@
           "status": "Blockiert"
         },
         "Panaero City": {
-          "name": "Manaphy",
-          "status": "Lebendig"
+          "name": "",
+          "status": ""
         },
         "Himmelturm (Celestial Tower)": {
           "name": "Corasonn",
@@ -5720,7 +5720,7 @@
           "status": "Lebendig"
         },
         "Panaero-Höhle (Statik)": {
-          "name": "Mana",
+          "name": "Manaphy",
           "status": "Lebendig"
         },
         "Elektrolithöhle": {
@@ -15479,6 +15479,11 @@
     },
     {
       "name": "Boreos",
+      "player": 0,
+      "color": "red"
+    },
+    {
+      "name": "Nidoking",
       "player": 0,
       "color": "red"
     }
