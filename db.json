@@ -13510,7 +13510,7 @@
       "color": "yellow",
       "team": [
         "Kleinstein",
-        null,
+        "Bojelin",
         null,
         null,
         null,
@@ -13544,8 +13544,8 @@
           "status": ""
         },
         "Route 2": {
-          "name": "",
-          "status": ""
+          "name": "Bojelin",
+          "status": "Lebendig"
         },
         "Accumula Town": {
           "name": "",
