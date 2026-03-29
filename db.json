@@ -1,16 +1,16 @@
 {
-  "game": "error",
+  "game": "Schwarz",
   "players": [
     {
       "name": "Legolei",
       "color": "red",
       "team": [
         "Rayquaza",
-        "Mew",
-        "Nachtara",
-        "Brutalanda",
+        null,
+        null,
+        null,
         "Luxio",
-        "Sumpex"
+        null
       ],
       "badges": [
         true,
@@ -1818,6 +1818,98 @@
         "Mirage Spots - Statik": {
           "name": "",
           "status": ""
+        },
+        "Gavina": {
+          "name": "",
+          "status": ""
+        },
+        "Traumbrache (Geschenk)": {
+          "name": "",
+          "status": ""
+        },
+        "Grundwassersenke": {
+          "name": "",
+          "status": ""
+        },
+        "Septerna City (Fossil)": {
+          "name": "",
+          "status": ""
+        },
+        "Ewigenwald": {
+          "name": "",
+          "status": ""
+        },
+        "Ewigenwald (Statik)": {
+          "name": "",
+          "status": ""
+        },
+        "Alter Palast": {
+          "name": "",
+          "status": ""
+        },
+        "Marea-Zugbrücke": {
+          "name": "",
+          "status": ""
+        },
+        "Tiefkühlcontainer": {
+          "name": "",
+          "status": ""
+        },
+        "Panaero-Höhle": {
+          "name": "",
+          "status": ""
+        },
+        "Panaero-Höhle (Statik)": {
+          "name": "",
+          "status": ""
+        },
+        "Elektrolithöhle": {
+          "name": "",
+          "status": ""
+        },
+        "Wendelberg": {
+          "name": "",
+          "status": ""
+        },
+        "Höhle der Schulung": {
+          "name": "",
+          "status": ""
+        },
+        "Siegesstraße (Statik)": {
+          "name": "",
+          "status": ""
+        },
+        "Dorfbrücke": {
+          "name": "",
+          "status": ""
+        },
+        "Tessera": {
+          "name": "",
+          "status": ""
+        },
+        "Riesengrotte (Statik)": {
+          "name": "",
+          "status": ""
+        },
+        "Ondula": {
+          "name": "",
+          "status": ""
+        },
+        "Bucht von Ondula": {
+          "name": "",
+          "status": ""
+        },
+        "Schrein der Ernte": {
+          "name": "",
+          "status": ""
+        },
+        "Hain der Täuschung": {
+          "name": "",
+          "status": ""
+        },
+        "Route 18 (Ei)": {
+          "name": "",
+          "status": ""
         }
       },
       "mainAdj": {
@@ -1844,11 +1936,11 @@
       "color": "blue",
       "team": [
         "Moorabbel",
-        "Zekrom",
+        null,
         "Snibunna",
         "Tauboss",
-        "Hundemon",
-        "Lahmus"
+        null,
+        null
       ],
       "badges": [
         true,
@@ -3656,6 +3748,98 @@
         "Mirage Spots - Statik": {
           "name": "",
           "status": ""
+        },
+        "Gavina": {
+          "name": "",
+          "status": ""
+        },
+        "Traumbrache (Geschenk)": {
+          "name": "",
+          "status": ""
+        },
+        "Grundwassersenke": {
+          "name": "",
+          "status": ""
+        },
+        "Septerna City (Fossil)": {
+          "name": "",
+          "status": ""
+        },
+        "Ewigenwald": {
+          "name": "",
+          "status": ""
+        },
+        "Ewigenwald (Statik)": {
+          "name": "",
+          "status": ""
+        },
+        "Alter Palast": {
+          "name": "",
+          "status": ""
+        },
+        "Marea-Zugbrücke": {
+          "name": "",
+          "status": ""
+        },
+        "Tiefkühlcontainer": {
+          "name": "",
+          "status": ""
+        },
+        "Panaero-Höhle": {
+          "name": "",
+          "status": ""
+        },
+        "Panaero-Höhle (Statik)": {
+          "name": "",
+          "status": ""
+        },
+        "Elektrolithöhle": {
+          "name": "",
+          "status": ""
+        },
+        "Wendelberg": {
+          "name": "",
+          "status": ""
+        },
+        "Höhle der Schulung": {
+          "name": "",
+          "status": ""
+        },
+        "Siegesstraße (Statik)": {
+          "name": "",
+          "status": ""
+        },
+        "Dorfbrücke": {
+          "name": "",
+          "status": ""
+        },
+        "Tessera": {
+          "name": "",
+          "status": ""
+        },
+        "Riesengrotte (Statik)": {
+          "name": "",
+          "status": ""
+        },
+        "Ondula": {
+          "name": "",
+          "status": ""
+        },
+        "Bucht von Ondula": {
+          "name": "",
+          "status": ""
+        },
+        "Schrein der Ernte": {
+          "name": "",
+          "status": ""
+        },
+        "Hain der Täuschung": {
+          "name": "",
+          "status": ""
+        },
+        "Route 18 (Ei)": {
+          "name": "",
+          "status": ""
         }
       },
       "mainAdj": {
@@ -3684,9 +3868,9 @@
         "Pygraulon",
         "Raichu",
         "Sumpex",
-        "Machomei",
+        null,
         "Elfun",
-        "Fasasnob"
+        null
       ],
       "badges": [
         true,
@@ -5492,6 +5676,98 @@
           "status": ""
         },
         "Mirage Spots - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Gavina": {
+          "name": "",
+          "status": ""
+        },
+        "Traumbrache (Geschenk)": {
+          "name": "",
+          "status": ""
+        },
+        "Grundwassersenke": {
+          "name": "",
+          "status": ""
+        },
+        "Septerna City (Fossil)": {
+          "name": "",
+          "status": ""
+        },
+        "Ewigenwald": {
+          "name": "",
+          "status": ""
+        },
+        "Ewigenwald (Statik)": {
+          "name": "",
+          "status": ""
+        },
+        "Alter Palast": {
+          "name": "",
+          "status": ""
+        },
+        "Marea-Zugbrücke": {
+          "name": "",
+          "status": ""
+        },
+        "Tiefkühlcontainer": {
+          "name": "",
+          "status": ""
+        },
+        "Panaero-Höhle": {
+          "name": "",
+          "status": ""
+        },
+        "Panaero-Höhle (Statik)": {
+          "name": "",
+          "status": ""
+        },
+        "Elektrolithöhle": {
+          "name": "",
+          "status": ""
+        },
+        "Wendelberg": {
+          "name": "",
+          "status": ""
+        },
+        "Höhle der Schulung": {
+          "name": "",
+          "status": ""
+        },
+        "Siegesstraße (Statik)": {
+          "name": "",
+          "status": ""
+        },
+        "Dorfbrücke": {
+          "name": "",
+          "status": ""
+        },
+        "Tessera": {
+          "name": "",
+          "status": ""
+        },
+        "Riesengrotte (Statik)": {
+          "name": "",
+          "status": ""
+        },
+        "Ondula": {
+          "name": "",
+          "status": ""
+        },
+        "Bucht von Ondula": {
+          "name": "",
+          "status": ""
+        },
+        "Schrein der Ernte": {
+          "name": "",
+          "status": ""
+        },
+        "Hain der Täuschung": {
+          "name": "",
+          "status": ""
+        },
+        "Route 18 (Ei)": {
           "name": "",
           "status": ""
         }
@@ -7332,6 +7608,98 @@
         "Mirage Spots - Statik": {
           "name": "",
           "status": ""
+        },
+        "Gavina": {
+          "name": "",
+          "status": ""
+        },
+        "Traumbrache (Geschenk)": {
+          "name": "",
+          "status": ""
+        },
+        "Grundwassersenke": {
+          "name": "",
+          "status": ""
+        },
+        "Septerna City (Fossil)": {
+          "name": "",
+          "status": ""
+        },
+        "Ewigenwald": {
+          "name": "",
+          "status": ""
+        },
+        "Ewigenwald (Statik)": {
+          "name": "",
+          "status": ""
+        },
+        "Alter Palast": {
+          "name": "",
+          "status": ""
+        },
+        "Marea-Zugbrücke": {
+          "name": "",
+          "status": ""
+        },
+        "Tiefkühlcontainer": {
+          "name": "",
+          "status": ""
+        },
+        "Panaero-Höhle": {
+          "name": "",
+          "status": ""
+        },
+        "Panaero-Höhle (Statik)": {
+          "name": "",
+          "status": ""
+        },
+        "Elektrolithöhle": {
+          "name": "",
+          "status": ""
+        },
+        "Wendelberg": {
+          "name": "",
+          "status": ""
+        },
+        "Höhle der Schulung": {
+          "name": "",
+          "status": ""
+        },
+        "Siegesstraße (Statik)": {
+          "name": "",
+          "status": ""
+        },
+        "Dorfbrücke": {
+          "name": "",
+          "status": ""
+        },
+        "Tessera": {
+          "name": "",
+          "status": ""
+        },
+        "Riesengrotte (Statik)": {
+          "name": "",
+          "status": ""
+        },
+        "Ondula": {
+          "name": "",
+          "status": ""
+        },
+        "Bucht von Ondula": {
+          "name": "",
+          "status": ""
+        },
+        "Schrein der Ernte": {
+          "name": "",
+          "status": ""
+        },
+        "Hain der Täuschung": {
+          "name": "",
+          "status": ""
+        },
+        "Route 18 (Ei)": {
+          "name": "",
+          "status": ""
         }
       },
       "mainAdj": {
@@ -7351,12 +7719,12 @@
       "name": "Richard",
       "color": "orange",
       "team": [
-        "Finneon",
+        null,
         "Qurtel",
-        "Hoothoot",
-        "Sonnkern",
-        "Krakeelo",
-        "Sniebel"
+        null,
+        null,
+        null,
+        null
       ],
       "badges": [
         true,
@@ -9162,6 +9530,98 @@
           "status": ""
         },
         "Mirage Spots - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Gavina": {
+          "name": "",
+          "status": ""
+        },
+        "Traumbrache (Geschenk)": {
+          "name": "",
+          "status": ""
+        },
+        "Grundwassersenke": {
+          "name": "",
+          "status": ""
+        },
+        "Septerna City (Fossil)": {
+          "name": "",
+          "status": ""
+        },
+        "Ewigenwald": {
+          "name": "",
+          "status": ""
+        },
+        "Ewigenwald (Statik)": {
+          "name": "",
+          "status": ""
+        },
+        "Alter Palast": {
+          "name": "",
+          "status": ""
+        },
+        "Marea-Zugbrücke": {
+          "name": "",
+          "status": ""
+        },
+        "Tiefkühlcontainer": {
+          "name": "",
+          "status": ""
+        },
+        "Panaero-Höhle": {
+          "name": "",
+          "status": ""
+        },
+        "Panaero-Höhle (Statik)": {
+          "name": "",
+          "status": ""
+        },
+        "Elektrolithöhle": {
+          "name": "",
+          "status": ""
+        },
+        "Wendelberg": {
+          "name": "",
+          "status": ""
+        },
+        "Höhle der Schulung": {
+          "name": "",
+          "status": ""
+        },
+        "Siegesstraße (Statik)": {
+          "name": "",
+          "status": ""
+        },
+        "Dorfbrücke": {
+          "name": "",
+          "status": ""
+        },
+        "Tessera": {
+          "name": "",
+          "status": ""
+        },
+        "Riesengrotte (Statik)": {
+          "name": "",
+          "status": ""
+        },
+        "Ondula": {
+          "name": "",
+          "status": ""
+        },
+        "Bucht von Ondula": {
+          "name": "",
+          "status": ""
+        },
+        "Schrein der Ernte": {
+          "name": "",
+          "status": ""
+        },
+        "Hain der Täuschung": {
+          "name": "",
+          "status": ""
+        },
+        "Route 18 (Ei)": {
           "name": "",
           "status": ""
         }
@@ -11002,6 +11462,98 @@
         "Mirage Spots - Statik": {
           "name": "",
           "status": ""
+        },
+        "Gavina": {
+          "name": "",
+          "status": ""
+        },
+        "Traumbrache (Geschenk)": {
+          "name": "",
+          "status": ""
+        },
+        "Grundwassersenke": {
+          "name": "",
+          "status": ""
+        },
+        "Septerna City (Fossil)": {
+          "name": "",
+          "status": ""
+        },
+        "Ewigenwald": {
+          "name": "",
+          "status": ""
+        },
+        "Ewigenwald (Statik)": {
+          "name": "",
+          "status": ""
+        },
+        "Alter Palast": {
+          "name": "",
+          "status": ""
+        },
+        "Marea-Zugbrücke": {
+          "name": "",
+          "status": ""
+        },
+        "Tiefkühlcontainer": {
+          "name": "",
+          "status": ""
+        },
+        "Panaero-Höhle": {
+          "name": "",
+          "status": ""
+        },
+        "Panaero-Höhle (Statik)": {
+          "name": "",
+          "status": ""
+        },
+        "Elektrolithöhle": {
+          "name": "",
+          "status": ""
+        },
+        "Wendelberg": {
+          "name": "",
+          "status": ""
+        },
+        "Höhle der Schulung": {
+          "name": "",
+          "status": ""
+        },
+        "Siegesstraße (Statik)": {
+          "name": "",
+          "status": ""
+        },
+        "Dorfbrücke": {
+          "name": "",
+          "status": ""
+        },
+        "Tessera": {
+          "name": "",
+          "status": ""
+        },
+        "Riesengrotte (Statik)": {
+          "name": "",
+          "status": ""
+        },
+        "Ondula": {
+          "name": "",
+          "status": ""
+        },
+        "Bucht von Ondula": {
+          "name": "",
+          "status": ""
+        },
+        "Schrein der Ernte": {
+          "name": "",
+          "status": ""
+        },
+        "Hain der Täuschung": {
+          "name": "",
+          "status": ""
+        },
+        "Route 18 (Ei)": {
+          "name": "",
+          "status": ""
         }
       },
       "mainAdj": {
@@ -11030,9 +11582,9 @@
         "Zapplardin",
         "Navitaub",
         "Voltenso",
-        "Brutalanda",
-        "Milotic",
-        "Noktuska"
+        null,
+        null,
+        null
       ],
       "badges": [
         true,
@@ -12840,6 +13392,98 @@
         "Mirage Spots - Statik": {
           "name": "",
           "status": ""
+        },
+        "Gavina": {
+          "name": "",
+          "status": ""
+        },
+        "Traumbrache (Geschenk)": {
+          "name": "",
+          "status": ""
+        },
+        "Grundwassersenke": {
+          "name": "",
+          "status": ""
+        },
+        "Septerna City (Fossil)": {
+          "name": "",
+          "status": ""
+        },
+        "Ewigenwald": {
+          "name": "",
+          "status": ""
+        },
+        "Ewigenwald (Statik)": {
+          "name": "",
+          "status": ""
+        },
+        "Alter Palast": {
+          "name": "",
+          "status": ""
+        },
+        "Marea-Zugbrücke": {
+          "name": "",
+          "status": ""
+        },
+        "Tiefkühlcontainer": {
+          "name": "",
+          "status": ""
+        },
+        "Panaero-Höhle": {
+          "name": "",
+          "status": ""
+        },
+        "Panaero-Höhle (Statik)": {
+          "name": "",
+          "status": ""
+        },
+        "Elektrolithöhle": {
+          "name": "",
+          "status": ""
+        },
+        "Wendelberg": {
+          "name": "",
+          "status": ""
+        },
+        "Höhle der Schulung": {
+          "name": "",
+          "status": ""
+        },
+        "Siegesstraße (Statik)": {
+          "name": "",
+          "status": ""
+        },
+        "Dorfbrücke": {
+          "name": "",
+          "status": ""
+        },
+        "Tessera": {
+          "name": "",
+          "status": ""
+        },
+        "Riesengrotte (Statik)": {
+          "name": "",
+          "status": ""
+        },
+        "Ondula": {
+          "name": "",
+          "status": ""
+        },
+        "Bucht von Ondula": {
+          "name": "",
+          "status": ""
+        },
+        "Schrein der Ernte": {
+          "name": "",
+          "status": ""
+        },
+        "Hain der Täuschung": {
+          "name": "",
+          "status": ""
+        },
+        "Route 18 (Ei)": {
+          "name": "",
+          "status": ""
         }
       },
       "mainAdj": {
@@ -12865,12 +13509,12 @@
       "name": "Fabian",
       "color": "yellow",
       "team": [
-        "Glutexo",
+        null,
         "Rihornior",
         "Skallyk",
+        "Victini",
         null,
-        null,
-        "Staravia"
+        null
       ],
       "badges": [
         true,
@@ -12888,8 +13532,8 @@
       "taken": false,
       "catches": {
         "Avenitia": {
-          "name": "",
-          "status": ""
+          "name": "Kapuno",
+          "status": "Tot"
         },
         "Route 1": {
           "name": "Rihornior",
@@ -12920,8 +13564,8 @@
           "status": ""
         },
         "Traumbrache": {
-          "name": "",
-          "status": ""
+          "name": "Finneon",
+          "status": "Tot"
         },
         "Orion City Arena": {
           "name": "",
@@ -12936,8 +13580,8 @@
           "status": ""
         },
         "Route 4": {
-          "name": "",
-          "status": ""
+          "name": "Victini",
+          "status": "Lebendig"
         },
         "Route 4 - Statik": {
           "name": "",
@@ -14676,6 +15320,98 @@
           "status": ""
         },
         "Mirage Spots - Statik": {
+          "name": "",
+          "status": ""
+        },
+        "Gavina": {
+          "name": "",
+          "status": ""
+        },
+        "Traumbrache (Geschenk)": {
+          "name": "Skallyk",
+          "status": "Lebendig"
+        },
+        "Grundwassersenke": {
+          "name": "Staravia",
+          "status": "Lebendig"
+        },
+        "Septerna City (Fossil)": {
+          "name": "Rollum",
+          "status": "Lebendig"
+        },
+        "Ewigenwald": {
+          "name": "Taubsi",
+          "status": "Tot"
+        },
+        "Ewigenwald (Statik)": {
+          "name": "",
+          "status": ""
+        },
+        "Alter Palast": {
+          "name": "",
+          "status": ""
+        },
+        "Marea-Zugbrücke": {
+          "name": "",
+          "status": ""
+        },
+        "Tiefkühlcontainer": {
+          "name": "",
+          "status": ""
+        },
+        "Panaero-Höhle": {
+          "name": "",
+          "status": ""
+        },
+        "Panaero-Höhle (Statik)": {
+          "name": "",
+          "status": ""
+        },
+        "Elektrolithöhle": {
+          "name": "",
+          "status": ""
+        },
+        "Wendelberg": {
+          "name": "",
+          "status": ""
+        },
+        "Höhle der Schulung": {
+          "name": "",
+          "status": ""
+        },
+        "Siegesstraße (Statik)": {
+          "name": "",
+          "status": ""
+        },
+        "Dorfbrücke": {
+          "name": "",
+          "status": ""
+        },
+        "Tessera": {
+          "name": "",
+          "status": ""
+        },
+        "Riesengrotte (Statik)": {
+          "name": "",
+          "status": ""
+        },
+        "Ondula": {
+          "name": "",
+          "status": ""
+        },
+        "Bucht von Ondula": {
+          "name": "",
+          "status": ""
+        },
+        "Schrein der Ernte": {
+          "name": "",
+          "status": ""
+        },
+        "Hain der Täuschung": {
+          "name": "",
+          "status": ""
+        },
+        "Route 18 (Ei)": {
           "name": "",
           "status": ""
         }
