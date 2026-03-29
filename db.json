@@ -3912,7 +3912,7 @@
           "status": "Tot"
         },
         "Orion City": {
-          "name": "Bluzuk",
+          "name": "Omot",
           "status": "Lebendig"
         },
         "Orion City - Statik": {
@@ -4056,7 +4056,7 @@
           "status": ""
         },
         "Route 9": {
-          "name": "Ledyba",
+          "name": "Ledian",
           "status": "Lebendig"
         },
         "Einkaufszentrum 9": {
@@ -13509,7 +13509,7 @@
       "name": "Fabian",
       "color": "yellow",
       "team": [
-        "Luxio",
+        null,
         "Bojelin",
         "Geradaks",
         "Zobiris",
@@ -15329,7 +15329,7 @@
         },
         "Traumbrache (Geschenk)": {
           "name": "Luxio",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Grundwassersenke": {
           "name": "Rotom",
