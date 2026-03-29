@@ -13509,9 +13509,9 @@
       "name": "Fabian",
       "color": "yellow",
       "team": [
-        null,
+        "Luxio",
         "Bojelin",
-        null,
+        "Geradaks",
         null,
         null,
         null
@@ -15329,7 +15329,7 @@
         },
         "Traumbrache (Geschenk)": {
           "name": "Luxio",
-          "status": "Tot"
+          "status": "Lebendig"
         },
         "Grundwassersenke": {
           "name": "Rotom",
