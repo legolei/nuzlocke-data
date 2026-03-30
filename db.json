@@ -1953,8 +1953,8 @@
         false
       ],
       "deaths": 1,
-      "mainStream": "",
-      "touchStream": "",
+      "mainStream": "https://vdo.ninja/?view=r5PNi7E",
+      "touchStream": "https://vdo.ninja/?view=r5PNi7E",
       "taken": false,
       "catches": {
         "Avenitia": {
@@ -3865,12 +3865,12 @@
       "name": "Kevin",
       "color": "green",
       "team": [
-        "Rihornior",
         "Giratina",
+        "Zwirrfinst",
         "Sumpex",
         "Zapplarang",
         "Elfun",
-        "Zwirrfinst"
+        "Rihornior"
       ],
       "badges": [
         true,
@@ -9649,9 +9649,9 @@
       "name": "Jannik",
       "color": "cyan",
       "team": [
-        "Karnimani",
+        null,
         "Irokex",
-        "Sharfax",
+        null,
         null,
         null,
         null
@@ -11597,8 +11597,8 @@
         false
       ],
       "deaths": 1,
-      "mainStream": "",
-      "touchStream": "",
+      "mainStream": "https://vdo.ninja/?view=Bpj3sLu&fps=30&bitrate=800",
+      "touchStream": "https://vdo.ninja/?view=Bpj3sLu&fps=30&bitrate=800",
       "taken": false,
       "catches": {
         "Avenitia": {
