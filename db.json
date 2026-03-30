@@ -13509,15 +13509,15 @@
       "name": "Fabian",
       "color": "yellow",
       "team": [
-        "Magby",
+        null,
         "Mamutel",
         "Glutexo",
-        null,
+        "Camaub",
         null,
         null
       ],
       "badges": [
-        false,
+        true,
         false,
         false,
         false,
@@ -13533,7 +13533,7 @@
       "catches": {
         "Avenitia": {
           "name": "Magby",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Route 1": {
           "name": "Mamutel",
@@ -13564,8 +13564,8 @@
           "status": ""
         },
         "Traumbrache": {
-          "name": "",
-          "status": ""
+          "name": "Camaub",
+          "status": "Lebendig"
         },
         "Orion City Arena": {
           "name": "",
