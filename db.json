@@ -13513,7 +13513,7 @@
         "Mamutel",
         "Glutexo",
         "Camaub",
-        null,
+        "Emolga",
         null
       ],
       "badges": [
@@ -15332,8 +15332,8 @@
           "status": "Lebendig"
         },
         "Grundwassersenke": {
-          "name": "",
-          "status": ""
+          "name": "Emolga",
+          "status": "Lebendig"
         },
         "Septerna City (Fossil)": {
           "name": "",
