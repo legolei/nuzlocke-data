@@ -13509,7 +13509,7 @@
       "name": "Fabian",
       "color": "yellow",
       "team": [
-        null,
+        "Krebutack",
         "Mamutel",
         "Glutexo",
         "Camaub",
@@ -13552,8 +13552,8 @@
           "status": ""
         },
         "Route 3": {
-          "name": "",
-          "status": ""
+          "name": "Krebutack",
+          "status": "Lebendig"
         },
         "Orion City": {
           "name": "",
