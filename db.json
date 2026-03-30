@@ -13512,9 +13512,9 @@
         "Krebutack",
         "Mamutel",
         "Glutexo",
-        "Camaub",
+        null,
         "Emolga",
-        "Digdri"
+        null
       ],
       "badges": [
         true,
@@ -13565,7 +13565,7 @@
         },
         "Traumbrache": {
           "name": "Camaub",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Orion City Arena": {
           "name": "",
@@ -15341,7 +15341,7 @@
         },
         "Ewigenwald": {
           "name": "Digdri",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Ewigenwald (Statik)": {
           "name": "",
