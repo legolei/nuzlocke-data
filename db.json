@@ -2114,8 +2114,8 @@
           "status": ""
         },
         "Drachenstiege": {
-          "name": "",
-          "status": ""
+          "name": "Echnatoll",
+          "status": "Lebendig"
         },
         "Drachenstiege - Statik": {
           "name": "",
@@ -2134,8 +2134,8 @@
           "status": ""
         },
         "Route 10": {
-          "name": "",
-          "status": ""
+          "name": "Nidorino",
+          "status": "Lebendig"
         },
         "Siegesstraße": {
           "name": "",
@@ -3754,8 +3754,8 @@
           "status": ""
         },
         "Traumbrache (Geschenk)": {
-          "name": "",
-          "status": ""
+          "name": "Sharfax",
+          "status": "Lebendig"
         },
         "Grundwassersenke": {
           "name": "",
@@ -3782,8 +3782,8 @@
           "status": ""
         },
         "Tiefkühlcontainer": {
-          "name": "",
-          "status": ""
+          "name": "Magbrant",
+          "status": "Lebendig"
         },
         "Panaero-Höhle": {
           "name": "",
@@ -3866,11 +3866,11 @@
       "color": "green",
       "team": [
         "Giratina",
-        "Zwirrfinst",
+        "Rihornior",
         "Sumpex",
         "Zapplarang",
         "Elfun",
-        "Rihornior"
+        "Zwirrfinst"
       ],
       "badges": [
         true,
@@ -11582,8 +11582,8 @@
         "Zapplardin",
         "Navitaub",
         "Voltenso",
-        null,
-        null,
+        "Brutalanda",
+        "Milotic",
         "Noktuska"
       ],
       "badges": [
@@ -11634,8 +11634,8 @@
           "status": ""
         },
         "Traumbrache": {
-          "name": "",
-          "status": ""
+          "name": "Milotic",
+          "status": "Lebendig"
         },
         "Orion City Arena": {
           "name": "",
@@ -11874,7 +11874,7 @@
           "status": "Lebendig"
         },
         "Traumbrache (Dreamyard)": {
-          "name": "Milotic",
+          "name": "Milot",
           "status": "Lebendig"
         },
         "Ewigenau (Daycare Bereich)": {
@@ -13398,8 +13398,8 @@
           "status": ""
         },
         "Traumbrache (Geschenk)": {
-          "name": "",
-          "status": ""
+          "name": "Brutalanda",
+          "status": "Lebendig"
         },
         "Grundwassersenke": {
           "name": "",
