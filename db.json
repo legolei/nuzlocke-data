@@ -13511,7 +13511,7 @@
       "team": [
         "Voltilamm",
         "Gastrodon",
-        null,
+        "Ninjatom",
         null,
         null,
         null
@@ -15328,8 +15328,8 @@
           "status": ""
         },
         "Traumbrache (Geschenk)": {
-          "name": "",
-          "status": ""
+          "name": "Ninjatom",
+          "status": "Lebendig"
         },
         "Grundwassersenke": {
           "name": "",
