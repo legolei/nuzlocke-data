@@ -1950,7 +1950,7 @@
         true,
         true,
         true,
-        false
+        true
       ],
       "deaths": 3,
       "mainStream": "https://vdo.ninja/?view=r5PNi7E",
@@ -3866,11 +3866,11 @@
       "color": "green",
       "team": [
         "Giratina",
-        "Rihornior",
+        "Mewtu",
         "Sumpex",
         "Zapplarang",
         "Elfun",
-        "Mewtu"
+        "Rihornior"
       ],
       "badges": [
         true,
@@ -7719,7 +7719,7 @@
       "name": "Richard",
       "color": "orange",
       "team": [
-        "Finneon",
+        "Jungglut",
         "Qurtel",
         "Krakeelo",
         "Sonnkern",
@@ -7790,8 +7790,8 @@
           "status": ""
         },
         "Route 4": {
-          "name": "",
-          "status": ""
+          "name": "Jungglut",
+          "status": "Lebendig"
         },
         "Route 4 - Statik": {
           "name": "",
@@ -11579,11 +11579,11 @@
       "name": "Antonino",
       "color": "pink",
       "team": [
-        "Zapplardin",
+        "Welsar",
         "Navitaub",
         "Voltenso",
         "Brutalanda",
-        "Milotic",
+        null,
         "Noktuska"
       ],
       "badges": [
@@ -13509,8 +13509,8 @@
       "name": "Fabian",
       "color": "yellow",
       "team": [
-        "Voltilamm",
-        null,
+        "Panflam",
+        "Jurob",
         null,
         null,
         null,
@@ -13532,20 +13532,20 @@
       "taken": false,
       "catches": {
         "Avenitia": {
-          "name": "Voltilamm",
+          "name": "Panflam",
           "status": "Lebendig"
         },
         "Route 1": {
-          "name": "Grypheldis",
-          "status": "Blockiert"
+          "name": "Jurob",
+          "status": "Lebendig"
         },
         "Eventura City": {
           "name": "",
           "status": ""
         },
         "Route 2": {
-          "name": "Gastrodon",
-          "status": "Tot"
+          "name": "",
+          "status": ""
         },
         "Accumula Town": {
           "name": "",
@@ -15328,8 +15328,8 @@
           "status": ""
         },
         "Traumbrache (Geschenk)": {
-          "name": "Ninjatom",
-          "status": "Lebendig"
+          "name": "",
+          "status": ""
         },
         "Grundwassersenke": {
           "name": "",
