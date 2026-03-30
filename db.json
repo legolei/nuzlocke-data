@@ -11579,7 +11579,7 @@
       "name": "Antonino",
       "color": "pink",
       "team": [
-        "Welsar",
+        null,
         "Zapplardin",
         "Quappo",
         "Brutalanda",
@@ -11596,7 +11596,7 @@
         false,
         false
       ],
-      "deaths": 2,
+      "deaths": 3,
       "mainStream": "https://vdo.ninja/?view=Bpj3sLu&fps=30&bitrate=800",
       "touchStream": "https://vdo.ninja/?view=Bpj3sLu&fps=30&bitrate=800",
       "taken": false,
@@ -11651,7 +11651,7 @@
         },
         "Route 4": {
           "name": "Welsar",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Route 4 - Statik": {
           "name": "",
@@ -15514,6 +15514,11 @@
     },
     {
       "name": "Voltenso",
+      "player": 6,
+      "color": "pink"
+    },
+    {
+      "name": "Welsar",
       "player": 6,
       "color": "pink"
     }
