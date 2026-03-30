@@ -13513,7 +13513,7 @@
         null,
         null,
         null,
-        "Emolga",
+        null,
         null
       ],
       "badges": [
@@ -13532,28 +13532,28 @@
       "taken": false,
       "catches": {
         "Avenitia": {
-          "name": "Magby",
-          "status": "Tot"
+          "name": "",
+          "status": ""
         },
         "Route 1": {
-          "name": "Mamutel",
-          "status": "Tot"
+          "name": "",
+          "status": ""
         },
         "Eventura City": {
           "name": "",
           "status": ""
         },
         "Route 2": {
-          "name": "Kicklee",
-          "status": "Blockiert"
+          "name": "",
+          "status": ""
         },
         "Accumula Town": {
           "name": "",
           "status": ""
         },
         "Route 3": {
-          "name": "Krebutack",
-          "status": "Tot"
+          "name": "",
+          "status": ""
         },
         "Orion City": {
           "name": "",
@@ -13564,8 +13564,8 @@
           "status": ""
         },
         "Traumbrache": {
-          "name": "Camaub",
-          "status": "Tot"
+          "name": "",
+          "status": ""
         },
         "Orion City Arena": {
           "name": "",
@@ -13580,8 +13580,8 @@
           "status": ""
         },
         "Route 4": {
-          "name": "Pliprin",
-          "status": "Tot"
+          "name": "",
+          "status": ""
         },
         "Route 4 - Statik": {
           "name": "",
@@ -15328,20 +15328,20 @@
           "status": ""
         },
         "Traumbrache (Geschenk)": {
-          "name": "Glutexo",
-          "status": "Tot"
+          "name": "",
+          "status": ""
         },
         "Grundwassersenke": {
-          "name": "Emolga",
-          "status": "Lebendig"
+          "name": "",
+          "status": ""
         },
         "Septerna City (Fossil)": {
           "name": "",
           "status": ""
         },
         "Ewigenwald": {
-          "name": "Digdri",
-          "status": "Tot"
+          "name": "",
+          "status": ""
         },
         "Ewigenwald (Statik)": {
           "name": "",
