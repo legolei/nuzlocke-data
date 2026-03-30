@@ -13510,7 +13510,7 @@
       "color": "yellow",
       "team": [
         "Krebutack",
-        "Mamutel",
+        null,
         "Glutexo",
         null,
         "Emolga",
@@ -13537,7 +13537,7 @@
         },
         "Route 1": {
           "name": "Mamutel",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Eventura City": {
           "name": "",
