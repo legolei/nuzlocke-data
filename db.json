@@ -13510,7 +13510,7 @@
       "color": "yellow",
       "team": [
         "Magby",
-        null,
+        "Mamutel",
         null,
         null,
         null,
@@ -13536,8 +13536,8 @@
           "status": "Lebendig"
         },
         "Route 1": {
-          "name": "",
-          "status": ""
+          "name": "Mamutel",
+          "status": "Lebendig"
         },
         "Eventura City": {
           "name": "",
