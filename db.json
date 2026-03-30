@@ -4108,8 +4108,8 @@
           "status": "Lebendig"
         },
         "Route 14": {
-          "name": "",
-          "status": ""
+          "name": "Stahlos",
+          "status": "Lebendig"
         },
         "Route 14 - Statik": {
           "name": "",
@@ -13580,8 +13580,8 @@
           "status": ""
         },
         "Route 4": {
-          "name": "",
-          "status": ""
+          "name": "Pliprin",
+          "status": "Tot"
         },
         "Route 4 - Statik": {
           "name": "",
