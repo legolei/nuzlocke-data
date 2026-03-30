@@ -13509,9 +13509,9 @@
       "name": "Fabian",
       "color": "yellow",
       "team": [
-        "Hypno",
-        "Milotic",
-        "Bamelin",
+        null,
+        null,
+        null,
         null,
         null,
         null
@@ -13532,20 +13532,20 @@
       "taken": false,
       "catches": {
         "Avenitia": {
-          "name": "Glumanda",
-          "status": "Tot"
+          "name": "",
+          "status": ""
         },
         "Route 1": {
-          "name": "Milotic",
-          "status": "Lebendig"
+          "name": "",
+          "status": ""
         },
         "Eventura City": {
           "name": "",
           "status": ""
         },
         "Route 2": {
-          "name": "Hypno",
-          "status": "Lebendig"
+          "name": "",
+          "status": ""
         },
         "Accumula Town": {
           "name": "",
@@ -15328,8 +15328,8 @@
           "status": ""
         },
         "Traumbrache (Geschenk)": {
-          "name": "Bamelin",
-          "status": "Lebendig"
+          "name": "",
+          "status": ""
         },
         "Grundwassersenke": {
           "name": "",
