@@ -1935,7 +1935,7 @@
       "name": "Jasmin",
       "color": "blue",
       "team": [
-        "Moorabbel",
+        "Sumpex",
         "Frosdedje",
         "Snibunna",
         "Hundemon",
@@ -1953,12 +1953,12 @@
         true
       ],
       "deaths": 3,
-      "mainStream": "https://vdo.ninja/?view=r5PNi7E",
-      "touchStream": "https://vdo.ninja/?view=r5PNi7E",
+      "mainStream": "",
+      "touchStream": "",
       "taken": false,
       "catches": {
         "Avenitia": {
-          "name": "Moorabbel",
+          "name": "Sumpex",
           "status": "Lebendig"
         },
         "Route 1": {
