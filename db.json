@@ -13510,7 +13510,7 @@
       "color": "yellow",
       "team": [
         "Voltilamm",
-        "Gastrodon",
+        null,
         null,
         null,
         null,
@@ -13545,7 +13545,7 @@
         },
         "Route 2": {
           "name": "Gastrodon",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Accumula Town": {
           "name": "",
