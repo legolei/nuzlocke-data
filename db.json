@@ -9649,9 +9649,9 @@
       "name": "Jannik",
       "color": "cyan",
       "team": [
-        null,
+        "Karnimani",
         "Irokex",
-        null,
+        "Sharfax",
         null,
         null,
         null
@@ -13527,8 +13527,8 @@
         false
       ],
       "deaths": 0,
-      "mainStream": "https://vdo.ninja/?view=zDMPMiY&fps=30&bitrate=800",
-      "touchStream": "https://vdo.ninja/?view=zDMPMiY&fps=30&bitrate=800",
+      "mainStream": "",
+      "touchStream": "",
       "taken": false,
       "catches": {
         "Avenitia": {
