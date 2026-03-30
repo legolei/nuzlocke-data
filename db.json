@@ -2126,8 +2126,8 @@
           "status": ""
         },
         "Route 9": {
-          "name": "",
-          "status": ""
+          "name": "Bisasam",
+          "status": "Lebendig"
         },
         "Einkaufszentrum 9": {
           "name": "",
@@ -13509,7 +13509,7 @@
       "name": "Fabian",
       "color": "yellow",
       "team": [
-        null,
+        "Glumanda",
         null,
         null,
         null,
@@ -13527,13 +13527,13 @@
         false
       ],
       "deaths": 0,
-      "mainStream": "",
-      "touchStream": "",
+      "mainStream": "https://vdo.ninja/?view=DR4NHgX&fps=30&bitrate=800",
+      "touchStream": "https://vdo.ninja/?view=DR4NHgX&fps=30&bitrate=800",
       "taken": false,
       "catches": {
         "Avenitia": {
-          "name": "",
-          "status": ""
+          "name": "Glumanda",
+          "status": "Lebendig"
         },
         "Route 1": {
           "name": "",
