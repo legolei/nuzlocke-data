@@ -13509,7 +13509,7 @@
       "name": "Fabian",
       "color": "yellow",
       "team": [
-        "Krebutack",
+        null,
         null,
         null,
         null,
@@ -13519,7 +13519,7 @@
       "badges": [
         true,
         true,
-        false,
+        true,
         false,
         false,
         false,
@@ -13553,7 +13553,7 @@
         },
         "Route 3": {
           "name": "Krebutack",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Orion City": {
           "name": "",
