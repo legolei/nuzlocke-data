@@ -13510,7 +13510,7 @@
       "color": "yellow",
       "team": [
         "Praktibalk",
-        null,
+        "Toxiped",
         null,
         null,
         null,
@@ -13536,8 +13536,8 @@
           "status": "Lebendig"
         },
         "Route 1": {
-          "name": "",
-          "status": ""
+          "name": "Toxiped",
+          "status": "Lebendig"
         },
         "Eventura City": {
           "name": "",
