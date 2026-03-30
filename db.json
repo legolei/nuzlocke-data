@@ -13511,7 +13511,7 @@
       "team": [
         "Krebutack",
         null,
-        "Glutexo",
+        null,
         null,
         "Emolga",
         null
@@ -15329,7 +15329,7 @@
         },
         "Traumbrache (Geschenk)": {
           "name": "Glutexo",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Grundwassersenke": {
           "name": "Emolga",
