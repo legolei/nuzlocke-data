@@ -13509,8 +13509,8 @@
       "name": "Fabian",
       "color": "yellow",
       "team": [
-        "Praktibalk",
-        "Toxiped",
+        null,
+        null,
         null,
         null,
         null,
@@ -13532,12 +13532,12 @@
       "taken": false,
       "catches": {
         "Avenitia": {
-          "name": "Praktibalk",
-          "status": "Lebendig"
+          "name": "",
+          "status": ""
         },
         "Route 1": {
-          "name": "Toxiped",
-          "status": "Lebendig"
+          "name": "",
+          "status": ""
         },
         "Eventura City": {
           "name": "",
