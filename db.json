@@ -13509,7 +13509,7 @@
       "name": "Fabian",
       "color": "yellow",
       "team": [
-        "Glumanda",
+        "Hypno",
         "Milotic",
         null,
         null,
@@ -13533,7 +13533,7 @@
       "catches": {
         "Avenitia": {
           "name": "Glumanda",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Route 1": {
           "name": "Milotic",
@@ -13544,8 +13544,8 @@
           "status": ""
         },
         "Route 2": {
-          "name": "",
-          "status": ""
+          "name": "Hypno",
+          "status": "Lebendig"
         },
         "Accumula Town": {
           "name": "",
