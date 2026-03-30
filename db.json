@@ -5736,8 +5736,8 @@
           "status": ""
         },
         "Siegesstraße (Statik)": {
-          "name": "",
-          "status": ""
+          "name": "Mewtu",
+          "status": "Lebendig"
         },
         "Dorfbrücke": {
           "name": "",
@@ -7737,8 +7737,8 @@
         false
       ],
       "deaths": 2,
-      "mainStream": "",
-      "touchStream": "",
+      "mainStream": "https://vdo.ninja/?view=465Cdrd&fps=30&bitrate=800",
+      "touchStream": "https://vdo.ninja/?view=465Cdrd&fps=30&bitrate=800",
       "taken": false,
       "catches": {
         "Avenitia": {
