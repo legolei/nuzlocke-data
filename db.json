@@ -1936,11 +1936,11 @@
       "color": "blue",
       "team": [
         "Moorabbel",
-        null,
+        "Frosdedje",
         "Snibunna",
-        "Tauboss",
-        null,
-        "Lahmus"
+        "Hundemon",
+        "Zekrom",
+        "Groudon"
       ],
       "badges": [
         true,
@@ -1952,7 +1952,7 @@
         true,
         false
       ],
-      "deaths": 1,
+      "deaths": 3,
       "mainStream": "https://vdo.ninja/?view=r5PNi7E",
       "touchStream": "https://vdo.ninja/?view=r5PNi7E",
       "taken": false,
@@ -1979,7 +1979,7 @@
         },
         "Route 3": {
           "name": "Lahmus",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Orion City": {
           "name": "",
@@ -2043,7 +2043,7 @@
         },
         "Route 16": {
           "name": "Tauboss",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Wunderbrücke": {
           "name": "",
@@ -2090,8 +2090,8 @@
           "status": ""
         },
         "Turm des Himmels": {
-          "name": "",
-          "status": ""
+          "name": "Frosdedje",
+          "status": "Lebendig"
         },
         "Nevaio City": {
           "name": "Endivie",
@@ -3766,8 +3766,8 @@
           "status": ""
         },
         "Ewigenwald": {
-          "name": "",
-          "status": ""
+          "name": "Hundemon",
+          "status": "Lebendig"
         },
         "Ewigenwald (Statik)": {
           "name": "",
@@ -3794,12 +3794,12 @@
           "status": ""
         },
         "Elektrolithöhle": {
-          "name": "",
-          "status": ""
+          "name": "Zekrom",
+          "status": "Lebendig"
         },
         "Wendelberg": {
-          "name": "",
-          "status": ""
+          "name": "Groudon",
+          "status": "Lebendig"
         },
         "Höhle der Schulung": {
           "name": "",
@@ -15501,6 +15501,16 @@
       "name": "Fasasnob",
       "player": 2,
       "color": "green"
+    },
+    {
+      "name": "Tauboss",
+      "player": 1,
+      "color": "blue"
+    },
+    {
+      "name": "Lahmus",
+      "player": 1,
+      "color": "blue"
     }
   ]
 }
