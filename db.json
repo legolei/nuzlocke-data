@@ -11580,8 +11580,8 @@
       "color": "pink",
       "team": [
         "Welsar",
-        "Navitaub",
-        "Voltenso",
+        null,
+        null,
         "Brutalanda",
         "Milotic",
         "Noktuska"
@@ -11589,14 +11589,14 @@
       "badges": [
         true,
         true,
-        false,
+        true,
         false,
         false,
         false,
         false,
         false
       ],
-      "deaths": 1,
+      "deaths": 2,
       "mainStream": "https://vdo.ninja/?view=Bpj3sLu&fps=30&bitrate=800",
       "touchStream": "https://vdo.ninja/?view=Bpj3sLu&fps=30&bitrate=800",
       "taken": false,
@@ -11607,7 +11607,7 @@
         },
         "Route 1": {
           "name": "Navitaub",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Eventura City": {
           "name": "Entei",
@@ -11615,7 +11615,7 @@
         },
         "Route 2": {
           "name": "Voltenso",
-          "status": "Lebendig"
+          "status": "Tot"
         },
         "Accumula Town": {
           "name": "",
@@ -11626,8 +11626,8 @@
           "status": "Lebendig"
         },
         "Orion City": {
-          "name": "",
-          "status": ""
+          "name": "Quappo",
+          "status": "Lebendig"
         },
         "Orion City - Statik": {
           "name": "",
@@ -13394,8 +13394,8 @@
           "status": ""
         },
         "Gavina": {
-          "name": "",
-          "status": ""
+          "name": "Matrifol",
+          "status": "Lebendig"
         },
         "Traumbrache (Geschenk)": {
           "name": "Brutalanda",
@@ -13406,8 +13406,8 @@
           "status": ""
         },
         "Septerna City (Fossil)": {
-          "name": "",
-          "status": ""
+          "name": "Karadonis",
+          "status": "Lebendig"
         },
         "Ewigenwald": {
           "name": "",
@@ -13511,7 +13511,7 @@
       "team": [
         "Magby",
         "Mamutel",
-        null,
+        "Glutexo",
         null,
         null,
         null
@@ -15328,8 +15328,8 @@
           "status": ""
         },
         "Traumbrache (Geschenk)": {
-          "name": "",
-          "status": ""
+          "name": "Glutexo",
+          "status": "Lebendig"
         },
         "Grundwassersenke": {
           "name": "",
@@ -15453,11 +15453,6 @@
       "color": "blue"
     },
     {
-      "name": "Krebscorps",
-      "player": 6,
-      "color": "pink"
-    },
-    {
       "name": "Wielie",
       "player": 2,
       "color": "green"
@@ -15511,6 +15506,16 @@
       "name": "Lahmus",
       "player": 1,
       "color": "blue"
+    },
+    {
+      "name": "Navitaub",
+      "player": 6,
+      "color": "pink"
+    },
+    {
+      "name": "Voltenso",
+      "player": 6,
+      "color": "pink"
     }
   ]
 }
