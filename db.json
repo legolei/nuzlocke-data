@@ -20,7 +20,7 @@
         true,
         true,
         true,
-        false
+        true
       ],
       "deaths": 4,
       "mainStream": "https://vdo.ninja/?view=MvwTjc3&fps=30&bitrate=800",
@@ -13510,7 +13510,7 @@
       "color": "yellow",
       "team": [
         "Voltilamm",
-        null,
+        "Gastrodon",
         null,
         null,
         null,
@@ -13544,8 +13544,8 @@
           "status": ""
         },
         "Route 2": {
-          "name": "",
-          "status": ""
+          "name": "Gastrodon",
+          "status": "Lebendig"
         },
         "Accumula Town": {
           "name": "",
