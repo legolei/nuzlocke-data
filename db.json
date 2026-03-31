@@ -5,22 +5,22 @@
       "name": "Legolei",
       "color": "red",
       "team": [
-        "Rayquaza",
-        "Mew",
-        "Brutalanda",
-        "Nachtara",
+        null,
+        null,
+        null,
+        null,
         "Luxtra",
         "Sumpex"
       ],
       "badges": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
       ],
       "deaths": 4,
       "mainStream": "",
@@ -1910,6 +1910,82 @@
         "Route 18 (Ei)": {
           "name": "Flurmel",
           "status": "Lebendig"
+        },
+        "Vertaniawald": {
+          "name": "",
+          "status": ""
+        },
+        "Mamoria City": {
+          "name": "",
+          "status": ""
+        },
+        "Route 4 (Kaufbares Pokémon)": {
+          "name": "",
+          "status": ""
+        },
+        "Azuriahöhle": {
+          "name": "",
+          "status": ""
+        },
+        "Azuriahöhle (Statik)": {
+          "name": "",
+          "status": ""
+        },
+        "Safronia City": {
+          "name": "",
+          "status": ""
+        },
+        "Safronia City (Geschenk)": {
+          "name": "",
+          "status": ""
+        },
+        "Silph Co. (Geschenk)": {
+          "name": "",
+          "status": ""
+        },
+        "Digdahöhle": {
+          "name": "",
+          "status": ""
+        },
+        "Prismania City (Geschenk)": {
+          "name": "",
+          "status": ""
+        },
+        "Felshöhle": {
+          "name": "",
+          "status": ""
+        },
+        "Kraftwerk (Statik)": {
+          "name": "",
+          "status": ""
+        },
+        "Route 12 (Statik)": {
+          "name": "",
+          "status": ""
+        },
+        "Route 16 (Statik)": {
+          "name": "",
+          "status": ""
+        },
+        "Seeschauminsel": {
+          "name": "",
+          "status": ""
+        },
+        "Seeschauminsel (Statik)": {
+          "name": "",
+          "status": ""
+        },
+        "Zinoberinsel": {
+          "name": "",
+          "status": ""
+        },
+        "Zinoberinsel (Fossil)": {
+          "name": "",
+          "status": ""
+        },
+        "Zinober-Labor": {
+          "name": "",
+          "status": ""
         }
       },
       "mainAdj": {
@@ -1935,12 +2011,12 @@
       "name": "Jasmin",
       "color": "blue",
       "team": [
-        "Sumpex",
-        "Frosdedje",
+        null,
+        null,
         "Snibunna",
-        "Hundemon",
-        "Zekrom",
-        "Groudon"
+        null,
+        null,
+        null
       ],
       "badges": [
         true,
@@ -3840,6 +3916,82 @@
         "Route 18 (Ei)": {
           "name": "",
           "status": ""
+        },
+        "Vertaniawald": {
+          "name": "",
+          "status": ""
+        },
+        "Mamoria City": {
+          "name": "",
+          "status": ""
+        },
+        "Route 4 (Kaufbares Pokémon)": {
+          "name": "",
+          "status": ""
+        },
+        "Azuriahöhle": {
+          "name": "",
+          "status": ""
+        },
+        "Azuriahöhle (Statik)": {
+          "name": "",
+          "status": ""
+        },
+        "Safronia City": {
+          "name": "",
+          "status": ""
+        },
+        "Safronia City (Geschenk)": {
+          "name": "",
+          "status": ""
+        },
+        "Silph Co. (Geschenk)": {
+          "name": "",
+          "status": ""
+        },
+        "Digdahöhle": {
+          "name": "",
+          "status": ""
+        },
+        "Prismania City (Geschenk)": {
+          "name": "",
+          "status": ""
+        },
+        "Felshöhle": {
+          "name": "",
+          "status": ""
+        },
+        "Kraftwerk (Statik)": {
+          "name": "",
+          "status": ""
+        },
+        "Route 12 (Statik)": {
+          "name": "",
+          "status": ""
+        },
+        "Route 16 (Statik)": {
+          "name": "",
+          "status": ""
+        },
+        "Seeschauminsel": {
+          "name": "",
+          "status": ""
+        },
+        "Seeschauminsel (Statik)": {
+          "name": "",
+          "status": ""
+        },
+        "Zinoberinsel": {
+          "name": "",
+          "status": ""
+        },
+        "Zinoberinsel (Fossil)": {
+          "name": "",
+          "status": ""
+        },
+        "Zinober-Labor": {
+          "name": "",
+          "status": ""
         }
       },
       "mainAdj": {
@@ -3865,12 +4017,12 @@
       "name": "Kevin",
       "color": "green",
       "team": [
-        "Giratina",
+        null,
         "Mewtu",
         "Sumpex",
-        "Zapplarang",
+        null,
         "Elfun",
-        "Rihornior"
+        null
       ],
       "badges": [
         true,
@@ -5770,6 +5922,82 @@
         "Route 18 (Ei)": {
           "name": "Kapilz",
           "status": "Lebendig"
+        },
+        "Vertaniawald": {
+          "name": "",
+          "status": ""
+        },
+        "Mamoria City": {
+          "name": "",
+          "status": ""
+        },
+        "Route 4 (Kaufbares Pokémon)": {
+          "name": "",
+          "status": ""
+        },
+        "Azuriahöhle": {
+          "name": "",
+          "status": ""
+        },
+        "Azuriahöhle (Statik)": {
+          "name": "",
+          "status": ""
+        },
+        "Safronia City": {
+          "name": "",
+          "status": ""
+        },
+        "Safronia City (Geschenk)": {
+          "name": "",
+          "status": ""
+        },
+        "Silph Co. (Geschenk)": {
+          "name": "",
+          "status": ""
+        },
+        "Digdahöhle": {
+          "name": "",
+          "status": ""
+        },
+        "Prismania City (Geschenk)": {
+          "name": "",
+          "status": ""
+        },
+        "Felshöhle": {
+          "name": "",
+          "status": ""
+        },
+        "Kraftwerk (Statik)": {
+          "name": "",
+          "status": ""
+        },
+        "Route 12 (Statik)": {
+          "name": "",
+          "status": ""
+        },
+        "Route 16 (Statik)": {
+          "name": "",
+          "status": ""
+        },
+        "Seeschauminsel": {
+          "name": "",
+          "status": ""
+        },
+        "Seeschauminsel (Statik)": {
+          "name": "",
+          "status": ""
+        },
+        "Zinoberinsel": {
+          "name": "",
+          "status": ""
+        },
+        "Zinoberinsel (Fossil)": {
+          "name": "",
+          "status": ""
+        },
+        "Zinober-Labor": {
+          "name": "",
+          "status": ""
         }
       },
       "mainAdj": {
@@ -7700,6 +7928,82 @@
         "Route 18 (Ei)": {
           "name": "",
           "status": ""
+        },
+        "Vertaniawald": {
+          "name": "",
+          "status": ""
+        },
+        "Mamoria City": {
+          "name": "",
+          "status": ""
+        },
+        "Route 4 (Kaufbares Pokémon)": {
+          "name": "",
+          "status": ""
+        },
+        "Azuriahöhle": {
+          "name": "",
+          "status": ""
+        },
+        "Azuriahöhle (Statik)": {
+          "name": "",
+          "status": ""
+        },
+        "Safronia City": {
+          "name": "",
+          "status": ""
+        },
+        "Safronia City (Geschenk)": {
+          "name": "",
+          "status": ""
+        },
+        "Silph Co. (Geschenk)": {
+          "name": "",
+          "status": ""
+        },
+        "Digdahöhle": {
+          "name": "",
+          "status": ""
+        },
+        "Prismania City (Geschenk)": {
+          "name": "",
+          "status": ""
+        },
+        "Felshöhle": {
+          "name": "",
+          "status": ""
+        },
+        "Kraftwerk (Statik)": {
+          "name": "",
+          "status": ""
+        },
+        "Route 12 (Statik)": {
+          "name": "",
+          "status": ""
+        },
+        "Route 16 (Statik)": {
+          "name": "",
+          "status": ""
+        },
+        "Seeschauminsel": {
+          "name": "",
+          "status": ""
+        },
+        "Seeschauminsel (Statik)": {
+          "name": "",
+          "status": ""
+        },
+        "Zinoberinsel": {
+          "name": "",
+          "status": ""
+        },
+        "Zinoberinsel (Fossil)": {
+          "name": "",
+          "status": ""
+        },
+        "Zinober-Labor": {
+          "name": "",
+          "status": ""
         }
       },
       "mainAdj": {
@@ -7721,10 +8025,10 @@
       "team": [
         "Jungglut",
         "Qurtel",
-        "Krakeelo",
-        "Sonnkern",
-        "Sniebel",
-        "Hoothoot"
+        null,
+        null,
+        null,
+        null
       ],
       "badges": [
         true,
@@ -9622,6 +9926,82 @@
           "status": ""
         },
         "Route 18 (Ei)": {
+          "name": "",
+          "status": ""
+        },
+        "Vertaniawald": {
+          "name": "",
+          "status": ""
+        },
+        "Mamoria City": {
+          "name": "",
+          "status": ""
+        },
+        "Route 4 (Kaufbares Pokémon)": {
+          "name": "",
+          "status": ""
+        },
+        "Azuriahöhle": {
+          "name": "",
+          "status": ""
+        },
+        "Azuriahöhle (Statik)": {
+          "name": "",
+          "status": ""
+        },
+        "Safronia City": {
+          "name": "",
+          "status": ""
+        },
+        "Safronia City (Geschenk)": {
+          "name": "",
+          "status": ""
+        },
+        "Silph Co. (Geschenk)": {
+          "name": "",
+          "status": ""
+        },
+        "Digdahöhle": {
+          "name": "",
+          "status": ""
+        },
+        "Prismania City (Geschenk)": {
+          "name": "",
+          "status": ""
+        },
+        "Felshöhle": {
+          "name": "",
+          "status": ""
+        },
+        "Kraftwerk (Statik)": {
+          "name": "",
+          "status": ""
+        },
+        "Route 12 (Statik)": {
+          "name": "",
+          "status": ""
+        },
+        "Route 16 (Statik)": {
+          "name": "",
+          "status": ""
+        },
+        "Seeschauminsel": {
+          "name": "",
+          "status": ""
+        },
+        "Seeschauminsel (Statik)": {
+          "name": "",
+          "status": ""
+        },
+        "Zinoberinsel": {
+          "name": "",
+          "status": ""
+        },
+        "Zinoberinsel (Fossil)": {
+          "name": "",
+          "status": ""
+        },
+        "Zinober-Labor": {
           "name": "",
           "status": ""
         }
@@ -11554,6 +11934,82 @@
         "Route 18 (Ei)": {
           "name": "",
           "status": ""
+        },
+        "Vertaniawald": {
+          "name": "",
+          "status": ""
+        },
+        "Mamoria City": {
+          "name": "",
+          "status": ""
+        },
+        "Route 4 (Kaufbares Pokémon)": {
+          "name": "",
+          "status": ""
+        },
+        "Azuriahöhle": {
+          "name": "",
+          "status": ""
+        },
+        "Azuriahöhle (Statik)": {
+          "name": "",
+          "status": ""
+        },
+        "Safronia City": {
+          "name": "",
+          "status": ""
+        },
+        "Safronia City (Geschenk)": {
+          "name": "",
+          "status": ""
+        },
+        "Silph Co. (Geschenk)": {
+          "name": "",
+          "status": ""
+        },
+        "Digdahöhle": {
+          "name": "",
+          "status": ""
+        },
+        "Prismania City (Geschenk)": {
+          "name": "",
+          "status": ""
+        },
+        "Felshöhle": {
+          "name": "",
+          "status": ""
+        },
+        "Kraftwerk (Statik)": {
+          "name": "",
+          "status": ""
+        },
+        "Route 12 (Statik)": {
+          "name": "",
+          "status": ""
+        },
+        "Route 16 (Statik)": {
+          "name": "",
+          "status": ""
+        },
+        "Seeschauminsel": {
+          "name": "",
+          "status": ""
+        },
+        "Seeschauminsel (Statik)": {
+          "name": "",
+          "status": ""
+        },
+        "Zinoberinsel": {
+          "name": "",
+          "status": ""
+        },
+        "Zinoberinsel (Fossil)": {
+          "name": "",
+          "status": ""
+        },
+        "Zinober-Labor": {
+          "name": "",
+          "status": ""
         }
       },
       "mainAdj": {
@@ -11579,11 +12035,11 @@
       "name": "Antonino",
       "color": "pink",
       "team": [
-        "Kramurx",
-        "Zapplardin",
-        "Quappo",
-        "Brutalanda",
-        "Milotic",
+        null,
+        null,
+        null,
+        null,
+        null,
         "Noktuska"
       ],
       "badges": [
@@ -13482,6 +13938,82 @@
           "status": ""
         },
         "Route 18 (Ei)": {
+          "name": "",
+          "status": ""
+        },
+        "Vertaniawald": {
+          "name": "",
+          "status": ""
+        },
+        "Mamoria City": {
+          "name": "",
+          "status": ""
+        },
+        "Route 4 (Kaufbares Pokémon)": {
+          "name": "",
+          "status": ""
+        },
+        "Azuriahöhle": {
+          "name": "",
+          "status": ""
+        },
+        "Azuriahöhle (Statik)": {
+          "name": "",
+          "status": ""
+        },
+        "Safronia City": {
+          "name": "",
+          "status": ""
+        },
+        "Safronia City (Geschenk)": {
+          "name": "",
+          "status": ""
+        },
+        "Silph Co. (Geschenk)": {
+          "name": "",
+          "status": ""
+        },
+        "Digdahöhle": {
+          "name": "",
+          "status": ""
+        },
+        "Prismania City (Geschenk)": {
+          "name": "",
+          "status": ""
+        },
+        "Felshöhle": {
+          "name": "",
+          "status": ""
+        },
+        "Kraftwerk (Statik)": {
+          "name": "",
+          "status": ""
+        },
+        "Route 12 (Statik)": {
+          "name": "",
+          "status": ""
+        },
+        "Route 16 (Statik)": {
+          "name": "",
+          "status": ""
+        },
+        "Seeschauminsel": {
+          "name": "",
+          "status": ""
+        },
+        "Seeschauminsel (Statik)": {
+          "name": "",
+          "status": ""
+        },
+        "Zinoberinsel": {
+          "name": "",
+          "status": ""
+        },
+        "Zinoberinsel (Fossil)": {
+          "name": "",
+          "status": ""
+        },
+        "Zinober-Labor": {
           "name": "",
           "status": ""
         }
@@ -15412,6 +15944,82 @@
           "status": ""
         },
         "Route 18 (Ei)": {
+          "name": "",
+          "status": ""
+        },
+        "Vertaniawald": {
+          "name": "",
+          "status": ""
+        },
+        "Mamoria City": {
+          "name": "",
+          "status": ""
+        },
+        "Route 4 (Kaufbares Pokémon)": {
+          "name": "",
+          "status": ""
+        },
+        "Azuriahöhle": {
+          "name": "",
+          "status": ""
+        },
+        "Azuriahöhle (Statik)": {
+          "name": "",
+          "status": ""
+        },
+        "Safronia City": {
+          "name": "",
+          "status": ""
+        },
+        "Safronia City (Geschenk)": {
+          "name": "",
+          "status": ""
+        },
+        "Silph Co. (Geschenk)": {
+          "name": "",
+          "status": ""
+        },
+        "Digdahöhle": {
+          "name": "",
+          "status": ""
+        },
+        "Prismania City (Geschenk)": {
+          "name": "",
+          "status": ""
+        },
+        "Felshöhle": {
+          "name": "",
+          "status": ""
+        },
+        "Kraftwerk (Statik)": {
+          "name": "",
+          "status": ""
+        },
+        "Route 12 (Statik)": {
+          "name": "",
+          "status": ""
+        },
+        "Route 16 (Statik)": {
+          "name": "",
+          "status": ""
+        },
+        "Seeschauminsel": {
+          "name": "",
+          "status": ""
+        },
+        "Seeschauminsel (Statik)": {
+          "name": "",
+          "status": ""
+        },
+        "Zinoberinsel": {
+          "name": "",
+          "status": ""
+        },
+        "Zinoberinsel (Fossil)": {
+          "name": "",
+          "status": ""
+        },
+        "Zinober-Labor": {
           "name": "",
           "status": ""
         }
